@@ -1,5 +1,3 @@
-ss://02b320ce-09f8-4cb5-9c46-9024f5585881@79.110.63.79:2255?&security=reality&pbk=Cs7yLk8XXPksSjf6GB1JFYyFICqWVL3nL-10K7jQ7xc&sid=983c9303725c67&fp=chrome&sni=radar.arvancloud.ir&type=tcp&headerType=none&path=%2F#_%E8%8D%B7%E5%85%B0%203
-ss://02b320ce-09f8-4cb5-9c46-9024f5585881@free1.barayekhudam.ir:2255?&security=reality&pbk=Cs7yLk8XXPksSjf6GB1JFYyFICqWVL3nL-10K7jQ7xc&sid=983c9303725c67&fp=chrome&sni=radar.arvancloud.ir&type=tcp&headerType=none&host=free1.barayekhudam.ir&path=%2F#_%E8%8D%B7%E5%85%B0%202
 ss://04c9694e-657f-49b4-8f09-d5fc3e0d9127@nl5.srv.oplcdn.link:8443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ign.dev&fp=chrome&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2#REALITY|NL🇳🇱
 ss://08cb0591-5193-4a0c-9105-ceb09fba67fe@45.131.210.125:2053/?type=ws&encryption=none&host=nkGgd-87836.phoenixappdatad.uk&path=%2F&security=tls&sni=nkGgd-87836.phoenixappdatad.uk&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome#%F0%9F%87%B3%F0%9F%87%B1%20NL%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40v2ray_sub%20%5B31%5D
 ss://0bb6dff2-0029-4b81-8c81-4fc70fae1ed9@eng14.netliberated.org:443?security=reality&%3Bencryption=none&%3Bpbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs&%3Bfp=chrome&%3Btype=tcp&%3Bflow=xtls-rprx-vision&%3Bsni=www.halfords.com#%F0%9F%87%B3%F0%9F%87%B1%20NL%20%7C%20VLESS%20%7C%20%40filterk0sh
@@ -388,8 +386,8 @@ trojan://3690911436885991424@careful-platypus.opossum872.cfd:443?allowInsecure=1
 trojan://4863e1b2-ec2f-4c71-b862-ce533028e57e@trus.moonfree.top:443/?type=tcp&security=tls#%F0%9F%87%B3%F0%9F%87%B1NL-212.32.255.111-4999
 trojan://5ad5fe82-6b60-4f59-977b-93910ef7a9ca@86.107.197.239:443/?type=ws&path=%2FFree-VPN-CF-Geo-Project%2F86.107.197.239%3D443&security=tls&sni=joss.dus.biz.id#%F0%9F%87%B3%F0%9F%87%B1NL-86.107.197.239-1405
 trojan://8d16a256-42d7-4431-8039-da1eb06cafbc@it-full.privateip.net:443?security=tls#%F0%9F%87%B3%F0%9F%87%B1NL-5.253.43.181-4743
-trojan://Szb=-Zguo53QhmivcJqEAWtpdPX6Y@95.179.183.126:13345?allowInsecure=0&sni=infiniteinjera.semanticstrainer.click#NL-95.179.183.126-1153
-trojan://Szb=-Zguo53QhmivcJqEAWtpdPX6Y@95.179.184.71:13345?allowInsecure=0&sni=infiniteinjera.semanticstrainer.click#NL-95.179.184.71-1152
+trojan://Szb=-Zguo53QhmivcJqEAWtpdPX6Y@95.179.183.126:13345?allowInsecure=0&sni=infiniteinjera.semanticstrainer.click#NL-95.179.183.126-0855
+trojan://Szb=-Zguo53QhmivcJqEAWtpdPX6Y@95.179.184.71:13345?allowInsecure=0&sni=infiniteinjera.semanticstrainer.click#NL-95.179.184.71-0861
 trojan://TestingServer@@@94.102.53.19:443?security=tls#%F0%9F%87%B3%F0%9F%87%B1NL-94.102.53.19-0684
 trojan://ee339912-0c35-4fac-8d85-180b65bcd49c@81.22.132.183:443/?type=tcp&security=tls&sni=joss.gpj1.web.id#%F0%9F%87%B3%F0%9F%87%B1NL-81.22.132.183-1210
 trojan://f6a0a650-306e-11ee-b692-1239d0255272@51.158.146.183:443/?type=tcp&security=tls&sni=Speedtest.net#%F0%9F%87%B3%F0%9F%87%B1NL-51.158.146.183-8988
@@ -397,8 +395,6 @@ trojan://f6a0a650-306e-11ee-b692-1239d0255272@51.158.146.183:443?security=tls&sn
 trojan://kuGDUhAYqXnvIomV0Kdljfor@167.17.70.117:27234?security=tls&headerType=none&type=tcp#NL🇳🇱
 trojan://kuGDUhAYqXnvIomV0Kdljfor@167.17.70.117:27234?type=tcp&security=tls&allowInsecure=1#NL🇳🇱
 trojan://vwhoUdVRNtFBKstJd1gpuA@64.225.81.161:7393?security=none&headerType=none&type=tcp#%3E%3E%40v2rayNG_Matsuri%3A%3ANL
-vless://02b320ce-09f8-4cb5-9c46-9024f5585881@79.110.63.79:2255?&security=reality&pbk=Cs7yLk8XXPksSjf6GB1JFYyFICqWVL3nL-10K7jQ7xc&sid=983c9303725c67&fp=chrome&sni=radar.arvancloud.ir&type=tcp&headerType=none&path=%2F#_%E8%8D%B7%E5%85%B0%203
-vless://02b320ce-09f8-4cb5-9c46-9024f5585881@free1.barayekhudam.ir:2255?&security=reality&pbk=Cs7yLk8XXPksSjf6GB1JFYyFICqWVL3nL-10K7jQ7xc&sid=983c9303725c67&fp=chrome&sni=radar.arvancloud.ir&type=tcp&headerType=none&host=free1.barayekhudam.ir&path=%2F#_%E8%8D%B7%E5%85%B0%202
 vless://04c9694e-657f-49b4-8f09-d5fc3e0d9127@nl5.srv.oplcdn.link:8443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ign.dev&fp=chrome&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2#REALITY|NL🇳🇱
 vless://08cb0591-5193-4a0c-9105-ceb09fba67fe@45.131.210.125:2053/?type=ws&encryption=none&host=nkGgd-87836.phoenixappdatad.uk&path=%2F&security=tls&sni=nkGgd-87836.phoenixappdatad.uk&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome#%F0%9F%87%B3%F0%9F%87%B1%20NL%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40v2ray_sub%20%5B31%5D
 vless://0bb6dff2-0029-4b81-8c81-4fc70fae1ed9@eng14.netliberated.org:443?security=reality&%3Bencryption=none&%3Bpbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs&%3Bfp=chrome&%3Btype=tcp&%3Bflow=xtls-rprx-vision&%3Bsni=www.halfords.com#%F0%9F%87%B3%F0%9F%87%B1%20NL%20%7C%20VLESS%20%7C%20%40filterk0sh
