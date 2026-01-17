@@ -106,7 +106,6 @@ ss://89f99086-e244-41dc-ab20-c1d8763399d0@spb-node.genadata.online:2040?security
 ss://8a6d643c-39bf-4d11-998a-62e3bc9a7ba4@94.131.100.169:443?path=%2Feclbanws&security=tls&encryption=none&type=ws&sni=www.vk.com#RU🇷🇺
 ss://8ad72540-91a0-426c-bfef-a1d2d8cb13f1@51.250.100.89:4241?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ads.x5.ru&security=reality&pbk=OCRYYq4e92sQ-wWFRX6WX9pdvuFBWOqybLhpSiv3nFA&sid=111111#REALITY|RU🇷🇺
 ss://8ad72540-91a0-426c-bfef-a1d2d8cb13f1@51.250.15.188:4241?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ads.x5.ru&security=reality&pbk=OCRYYq4e92sQ-wWFRX6WX9pdvuFBWOqybLhpSiv3nFA&sid=111111#REALITY|RU🇷🇺
-ss://8e6acce9-8b56-7190-d491-7d84f8189e26@5.181.171.2:443?security=reality&encryption=none&pbk=YNGotlyAx3ELUmi4lxOUjiEDmibqf1pPUTE9o3YYT2Y&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20X
 ss://8ec48ed8-cc7c-4cc6-a69a-c95adfe4c371@188.166.150.79:443?path=%2Famuggqws&security=tls&encryption=none&type=ws&sni=ozon.ru#RU🇷🇺
 ss://912eacc1-42b4-4d0f-a8ba-abb825c1d468@64.227.47.120:443?path=%2Fulptgqws&security=tls&encryption=none&type=ws&sni=api.avito.ru#RU🇷🇺
 ss://932fbc77-4dff-4607-8b69-50d6580331a3@46.17.41.33:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ign.com&sid=6ba85179e30d4fc2#REALITY|RU🇷🇺
@@ -399,7 +398,6 @@ vless://89f99086-e244-41dc-ab20-c1d8763399d0@spb-node.genadata.online:2040?secur
 vless://8a6d643c-39bf-4d11-998a-62e3bc9a7ba4@94.131.100.169:443?path=%2Feclbanws&security=tls&encryption=none&type=ws&sni=www.vk.com#RU🇷🇺
 vless://8ad72540-91a0-426c-bfef-a1d2d8cb13f1@51.250.100.89:4241?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ads.x5.ru&security=reality&pbk=OCRYYq4e92sQ-wWFRX6WX9pdvuFBWOqybLhpSiv3nFA&sid=111111#REALITY|RU🇷🇺
 vless://8ad72540-91a0-426c-bfef-a1d2d8cb13f1@51.250.15.188:4241?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ads.x5.ru&security=reality&pbk=OCRYYq4e92sQ-wWFRX6WX9pdvuFBWOqybLhpSiv3nFA&sid=111111#REALITY|RU🇷🇺
-vless://8e6acce9-8b56-7190-d491-7d84f8189e26@5.181.171.2:443?security=reality&encryption=none&pbk=YNGotlyAx3ELUmi4lxOUjiEDmibqf1pPUTE9o3YYT2Y&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20X
 vless://8ec48ed8-cc7c-4cc6-a69a-c95adfe4c371@188.166.150.79:443?path=%2Famuggqws&security=tls&encryption=none&type=ws&sni=ozon.ru#RU🇷🇺
 vless://912eacc1-42b4-4d0f-a8ba-abb825c1d468@64.227.47.120:443?path=%2Fulptgqws&security=tls&encryption=none&type=ws&sni=api.avito.ru#RU🇷🇺
 vless://932fbc77-4dff-4607-8b69-50d6580331a3@46.17.41.33:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ign.com&sid=6ba85179e30d4fc2#REALITY|RU🇷🇺
