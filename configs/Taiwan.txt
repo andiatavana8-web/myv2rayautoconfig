@@ -34,11 +34,14 @@ trojan://3febb05ea76a940f@60.249.3.125:3389?security=tls#%F0%9F%87%B9%F0%9F%87%B
 trojan://401a7257-66ad-4b7d-84b0-4745651f4701@green2.cdntencentmusic.com:31103?security=tls&sni=green2.cdntencentmusic.com#%F0%9F%87%B9%F0%9F%87%BCTW-220.130.58.136-0883
 trojan://47f867f8-45bb-43be-aa13-b99ed8f55c7d@green2.cdntencentmusic.com:31103?security=tls&sni=green2.cdntencentmusic.com#%F0%9F%87%B9%F0%9F%87%BCTW-220.130.58.136-0907
 trojan://47f867f8-45bb-43be-aa13-b99ed8f55c7d@green2.cdntencentmusic.com:31103?security=tls&sni=green2.cdntencentmusic.com#%F0%9F%87%B9%F0%9F%87%BCTW-220.130.58.136-1841
-trojan://505ab478-a7c5-413b-ac56-7cef17584a7c@green2.cdntencentmusic.com:35501?allowInsecure=1&sni=green2.cdntencentmusic.com#%E5%8F%B0%E6%B9%BE%E7%9C%81%E5%8F%B0%E4%B8%AD%E5%B8%82+%E4%B8%AD%E5%8D%8E%E7%94%B5%E4%BF%A1
+trojan://48f3f8f1-8b1c-42d6-8e8e-fb9c14ebb550@green2.cdntencentmusic.com:31102?allowInsecure=0&sni=green2.cdntencentmusic.com#%F0%9F%87%A8%F0%9F%87%B3%20TW%E5%8F%B0%E6%B9%BE%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
+trojan://53494ce0-1a00-4e91-a073-2bd4e4770cfc@green2.cdntencentmusic.com:31102?allowInsecure=0&sni=green2.cdntencentmusic.com#%F0%9F%87%A8%F0%9F%87%B3%20TW%E5%8F%B0%E6%B9%BE%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
+trojan://53494ce0-1a00-4e91-a073-2bd4e4770cfc@green2.cdntencentmusic.com:31103?allowInsecure=0&sni=green2.cdntencentmusic.com#%F0%9F%87%A8%F0%9F%87%B3%20TW%E5%8F%B0%E6%B9%BE%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
 trojan://5dc3f09b-c217-4ceb-ba5f-5f69775c2fa1@cdnfire.xiaomispeed.com:21103?security=tls&sni=cdnfire.xiaomispeed.com#%F0%9F%87%B9%F0%9F%87%BCTW-220.130.58.136-1804
 trojan://5dc3f09b-c217-4ceb-ba5f-5f69775c2fa1@cdnfire.xiaomispeed.com:25501?security=tls&sni=cdnfire.xiaomispeed.com#%F0%9F%87%B9%F0%9F%87%BCTW-220.130.58.136-1797
 trojan://6e1b9a65-884f-3aa9-9469-bf6ec0f08610@a03.taipeicitygovernment.cn.ua:3462/?type=tcp&security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-60.248.240.223-5161
 trojan://7a75e482-0c41-4407-ad4d-d519944e5dd7@green2.cdntencentmusic.com:31101?security=tls&sni=green2.cdntencentmusic.com#%F0%9F%87%B9%F0%9F%87%BCTW-220.130.58.136-0941
+trojan://7a75e482-0c41-4407-ad4d-d519944e5dd7@green2.cdntencentmusic.com:31102?allowInsecure=0&sni=green2.cdntencentmusic.com#%F0%9F%87%A8%F0%9F%87%B3%20TW%E5%8F%B0%E6%B9%BE%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
 trojan://7ac49a893e0bd10c@60.249.3.226:3389/?type=tcp&security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-60.249.3.226-2556
 trojan://7ac49a893e0bd10c@60.249.3.226:3389?security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-60.249.3.226-2599
 trojan://7ac49a893e0bd10c@60.249.3.227:3389/?type=tcp&security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-60.249.3.227-2428
@@ -55,7 +58,6 @@ trojan://7b06d22a8a7c764f@211.72.35.158:3389/?type=tcp&security=tls#%F0%9F%87%B9
 trojan://7b06d22a8a7c764f@211.72.35.158:3389?security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-211.72.35.158-2448
 trojan://7ba1a0b8-4d6c-4293-9317-187caf132dcd@green2.cdntencentmusic.com:31102?allowInsecure=0&sni=green2.cdntencentmusic.com#TW-220.130.58.136-1788
 trojan://7ba1a0b8-4d6c-4293-9317-187caf132dcd@green2.cdntencentmusic.com:31102?security=tls&sni=green2.cdntencentmusic.com#%F0%9F%87%B9%F0%9F%87%BCTW-220.130.58.136-1788
-trojan://7ba1a0b8-4d6c-4293-9317-187caf132dcd@green2.cdntencentmusic.com:31103?allowInsecure=1&sni=green2.cdntencentmusic.com#%E5%8F%B0%E6%B9%BE%E7%9C%81%E5%8F%B0%E4%B8%AD%E5%B8%82+%E4%B8%AD%E5%8D%8E%E7%94%B5%E4%BF%A1
 trojan://7ba1a0b8-4d6c-4293-9317-187caf132dcd@green2.cdntencentmusic.com:35501?allowInsecure=0&sni=green2.cdntencentmusic.com#TW-220.130.58.136-1792
 trojan://7ba1a0b8-4d6c-4293-9317-187caf132dcd@green2.cdntencentmusic.com:35501?security=tls&sni=green2.cdntencentmusic.com#%F0%9F%87%B9%F0%9F%87%BCTW-220.130.58.136-1792
 trojan://8b475d9e868e43e0@211.72.35.157:3389/?type=tcp&security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-211.72.35.157-2363
