@@ -162,6 +162,7 @@ ss://57e590ec-cb21-4721-ad19-de28afca601e@135.125.191.180:2053/?type=ws&encrypti
 ss://58f206da-752d-4750-a2ac-b72d0cab8032@146.190.89.69:25863?security=reality&type=tcp&sni=aws.amazon.com&fp=chrome&flow=xtls-rprx-vision&pbk=LLou1BsPSrrNXOJOb7-YZ159F_MAdrTSmP8loWG6GhE#%F0%9F%87%B8%F0%9F%87%AC%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E6%96%B0%E5%8A%A0%E5%9D%A1%2001
 ss://5a5a30ab-7a43-4651-b89b-dec18f5d5ea1@95.164.68.37:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=google.com&fp=chrome&security=reality&pbk=WuV0Uu4BXukDeBYQR2OtDgb_aKjs3u0tU-ENHSjtTmY&sid=#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40config_proxy%20%5B37%5D
 ss://5b74303c-748f-4e6b-b525-9f37218205e6@de.invisevps.ru:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=de.invisevps.ru&fp=chrome&security=reality&pbk=jvKBNVo80dZWlY4X6Ui347VTr2Eou0bTGO4RdUNPilY&sid=#REALITY|DE🇩🇪
+ss://5b9fb1fe-f918-426b-761c-55a5d9139e0e@khabar.motionbetter.ir:20854?security=none&%3Btype=httpupgrade#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20VLESS%20%7C%20%40mimitdl
 ss://5b9fb1fe-f919-426b-761c-55a5d9139e0e@khabar.motionbetter.ir:20854?security=none&%3Btype=httpupgrade#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20VLESS%20%7C%20%40mimitdl
 ss://5b9fb1fe-f919-426b-763c-55a5d9139e0e@khabar.motionbetter.ir:20854?security=none&%3Btype=httpupgrade#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20VLESS%20%7C%20%40mimitdl
 ss://5b9fb1fe-f919-426b-863c-55a5d9139e0e@khabar.motionbetter.ir:20854/?type=httpupgrade&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40mimitdl%20%5B3%5D
@@ -559,7 +560,6 @@ trojan://telegram-id-v2rayvpnchannel@63.181.195.69:22223?security=tls&%3Balpn=ht
 trojan://wp9IsiY82uQhcmgNC1eoBM@80.173.231.254:12420?sni=www.semanticstaplegun.click&allowInsecure=1#%F0%9F%87%AA%F0%9F%87%B8%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E8%A5%BF%E7%8F%AD%E7%89%99%2001
 trojan://x.8ur1QiCyzlRHXeaB5UwoDfgZ04s@45.32.158.138:20994?allowInsecure=0&sni=ads.x5.ru#%F0%9F%87%A9%F0%9F%87%AA%20%E5%BE%B7%E5%9B%BD%20%E9%BB%91%E6%A3%AE%E5%B7%9E%E6%B3%95%E5%85%B0%E5%85%8B%E7%A6%8FChoopa%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83
 trojan://x.8ur1QiCyzlRHXeaB5UwoDfgZ04s@45.32.158.138:20994?security=tls&sni=ads.x5.ru#%F0%9F%87%A9%F0%9F%87%AADE-45.32.158.138-0906
-trojan://x.8ur1QiCyzlRHXeaB5UwoDfgZ04s@45.32.158.138:20994?sni=ads.x5.ru#%E5%BE%B7%E5%9B%BD+%E9%BB%91%E6%A3%AE%E5%B7%9E%E6%B3%95%E5%85%B0%E5%85%8B%E7%A6%8FChoopa%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83
 trojan://xtA6WF92Itmhm9jfvXUH1MDVL@free-de-3.undef.network:443/?type=tcp&security=tls&sni=free-de-3.undef.network&allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3ADE
 trojan://xtA6WF92Itmhm9jfvXUH1MDVL@free-de-3.undef.network:443?type=tcp&security=tls&sni=free-de-3.undef.network&allowInsecure=1#DE🇩🇪
 trojan://zWFjJENcljZm@usa.visa.com:443?sni=vahidqaz-7o61u7.vahidqaz.workers.dev&allowInsecure=1&type=ws&path=%2F%3Fed%3D2560&fp=chrome#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%20%F0%9F%93%A1%20%F0%9F%87%A9%F0%9F%87%AADE%20%F0%9F%A7%AD%202.4MB%2Fs
@@ -722,6 +722,7 @@ vless://57e590ec-cb21-4721-ad19-de28afca601e@135.125.191.180:2053/?type=ws&encry
 vless://58f206da-752d-4750-a2ac-b72d0cab8032@146.190.89.69:25863?security=reality&type=tcp&sni=aws.amazon.com&fp=chrome&flow=xtls-rprx-vision&pbk=LLou1BsPSrrNXOJOb7-YZ159F_MAdrTSmP8loWG6GhE#%F0%9F%87%B8%F0%9F%87%AC%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E6%96%B0%E5%8A%A0%E5%9D%A1%2001
 vless://5a5a30ab-7a43-4651-b89b-dec18f5d5ea1@95.164.68.37:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=google.com&fp=chrome&security=reality&pbk=WuV0Uu4BXukDeBYQR2OtDgb_aKjs3u0tU-ENHSjtTmY&sid=#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40config_proxy%20%5B37%5D
 vless://5b74303c-748f-4e6b-b525-9f37218205e6@de.invisevps.ru:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=de.invisevps.ru&fp=chrome&security=reality&pbk=jvKBNVo80dZWlY4X6Ui347VTr2Eou0bTGO4RdUNPilY&sid=#REALITY|DE🇩🇪
+vless://5b9fb1fe-f918-426b-761c-55a5d9139e0e@khabar.motionbetter.ir:20854?security=none&%3Btype=httpupgrade#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20VLESS%20%7C%20%40mimitdl
 vless://5b9fb1fe-f919-426b-761c-55a5d9139e0e@khabar.motionbetter.ir:20854?security=none&%3Btype=httpupgrade#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20VLESS%20%7C%20%40mimitdl
 vless://5b9fb1fe-f919-426b-763c-55a5d9139e0e@khabar.motionbetter.ir:20854?security=none&%3Btype=httpupgrade#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20VLESS%20%7C%20%40mimitdl
 vless://5b9fb1fe-f919-426b-863c-55a5d9139e0e@khabar.motionbetter.ir:20854/?type=httpupgrade&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40mimitdl%20%5B3%5D
