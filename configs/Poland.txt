@@ -7,6 +7,7 @@ ss://02fb468f-21f2-460e-bfa1-ef52ae5e627f@144.31.2.127:443?security=tls&type=tcp
 ss://02fb468f-21f2-460e-bfa1-ef52ae5e627f@plcdn1.suio.me:443/?type=tcp&encryption=none&flow=&security=tls&sni=plcdn1.suio.me&allowInsecure=1&fp=chrome#%3E%3E%40oneclickvpnkeys%3A%3APL
 ss://02fb468f-21f2-460e-bfa1-ef52ae5e627f@plcdn13.suio.me:443/?type=tcp&encryption=none&flow=&security=tls&sni=plcdn13.suio.me&allowInsecure=1&fp=chrome#%3E%3E%40oneclickvpnkeys%3A%3APL
 ss://02fb468f-21f2-460e-bfa1-ef52ae5e627f@plcdn14.suio.me:443/?type=tcp&encryption=none&flow=&security=tls&sni=plcdn14.suio.me&allowInsecure=1&fp=chrome#%3E%3E%40oneclickvpnkeys%3A%3APL
+ss://02fb468f-21f2-460e-bfa1-ef52ae5e627f@plcdn14.suio.me:443?allowInsecure=0&sni=plcdn14.suio.me&security=tls#🇵🇱[openproxylist.com]vless-PL
 ss://02fb468f-21f2-460e-bfa1-ef52ae5e627f@plcdn20.suio.me:443/?type=tcp&encryption=none&flow=&security=tls&sni=plcdn20.suio.me&allowInsecure=1&fp=chrome#%3E%3E%40oneclickvpnkeys%3A%3APL
 ss://02fb468f-21f2-460e-bfa1-ef52ae5e627f@plcdn20.suio.me:443?security=tls&type=tcp&sni=plcdn20.suio.me&fp=chrome&encryption=none#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%20%F0%9F%93%A1%20%F0%9F%87%B5%F0%9F%87%B1PL%20%F0%9F%A7%AD%203.2MB%2Fs
 ss://267e5284-8c31-42ed-9807-2182a88ca78b@pl.dznn.net:443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=api.mindbox.ru&pbk=9F7JxyyP-TNLt0dY2xOB0_34I8W0xXIpFY7rZ7-L0Gg&sid=19aa22f681923dc8#REALITY|PL🇵🇱
@@ -188,6 +189,7 @@ vless://02fb468f-21f2-460e-bfa1-ef52ae5e627f@144.31.2.127:443?security=tls&type=
 vless://02fb468f-21f2-460e-bfa1-ef52ae5e627f@plcdn1.suio.me:443/?type=tcp&encryption=none&flow=&security=tls&sni=plcdn1.suio.me&allowInsecure=1&fp=chrome#%3E%3E%40oneclickvpnkeys%3A%3APL
 vless://02fb468f-21f2-460e-bfa1-ef52ae5e627f@plcdn13.suio.me:443/?type=tcp&encryption=none&flow=&security=tls&sni=plcdn13.suio.me&allowInsecure=1&fp=chrome#%3E%3E%40oneclickvpnkeys%3A%3APL
 vless://02fb468f-21f2-460e-bfa1-ef52ae5e627f@plcdn14.suio.me:443/?type=tcp&encryption=none&flow=&security=tls&sni=plcdn14.suio.me&allowInsecure=1&fp=chrome#%3E%3E%40oneclickvpnkeys%3A%3APL
+vless://02fb468f-21f2-460e-bfa1-ef52ae5e627f@plcdn14.suio.me:443?allowInsecure=0&sni=plcdn14.suio.me&security=tls#🇵🇱[openproxylist.com]vless-PL
 vless://02fb468f-21f2-460e-bfa1-ef52ae5e627f@plcdn20.suio.me:443/?type=tcp&encryption=none&flow=&security=tls&sni=plcdn20.suio.me&allowInsecure=1&fp=chrome#%3E%3E%40oneclickvpnkeys%3A%3APL
 vless://02fb468f-21f2-460e-bfa1-ef52ae5e627f@plcdn20.suio.me:443?security=tls&type=tcp&sni=plcdn20.suio.me&fp=chrome&encryption=none#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%20%F0%9F%93%A1%20%F0%9F%87%B5%F0%9F%87%B1PL%20%F0%9F%A7%AD%203.2MB%2Fs
 vless://267e5284-8c31-42ed-9807-2182a88ca78b@pl.dznn.net:443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=api.mindbox.ru&pbk=9F7JxyyP-TNLt0dY2xOB0_34I8W0xXIpFY7rZ7-L0Gg&sid=19aa22f681923dc8#REALITY|PL🇵🇱
