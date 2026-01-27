@@ -3,7 +3,6 @@ ss://1cc1fa50-ad16-4e22-81a0-e416f7a35f60@83.136.107.171:443?alpn=h2&encryption=
 ss://1cc1fa50-ad16-4e22-81a0-e416f7a35f60@83.136.107.171:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=aws.com&alpn=h2&fp=chrome&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&type=tcp&headerType=none#REALITY|IT🇮🇹
 ss://1cc1fa50-ad16-4e22-81a0-e416f7a35f60@83.136.107.171:443?security=reality&alpn=h2&encryption=none&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=aws.com#REALITY|IT🇮🇹
 ss://343cc844-f964-11f0-9840-00163e0951db@91.201.65.220:10004?encryption=none&flow=&path=%2Fvpnjantit&type=ws#%3E%3E@v2nodes::IT
-ss://343cc844-f964-11f0-9840-00163e0951db@91.201.65.220:10004?path=%2Fvpnjantit&security=none&encryption=none&type=ws#%3E%3E%40v2nodes%3A%3AIT
 ss://39802a7f-3d9f-496f-9baa-59c09a126ade@italy.instasup.ir:1002?security=reality&encryption=none&pbk=uWdy-05745pCUMEKq0ybaRCVBtQB8JrhyWCkHfv2I0U&headerType=none&fp=firefox&type=tcp&sni=jetbrains.com&sid=14cf6857b8741cbf#REALITY|IT🇮🇹
 ss://684dd578-bc98-445f-9a42-14dd9a210b27@57.131.38.150:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&encryption=none#Rayan%20-%20RVP%20-%20IT%20-%20I%20-%20%F0%9F%9F%A3%20t.me/Rayan_Config
 ss://6c041f21-0527-498b-9fab-dc98b5d1e1e6@it.tconnect.services:443?security=reality&encryption=none&pbk=g0s7EjoEBg9GFMXPrt20T60Cu-DcqHM9ItqNMcxSU38&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=stackoverflow.com&sid=71e87186710e710e#REALITY|IT🇮🇹
@@ -30,7 +29,6 @@ vless://1cc1fa50-ad16-4e22-81a0-e416f7a35f60@83.136.107.171:443?alpn=h2&encrypti
 vless://1cc1fa50-ad16-4e22-81a0-e416f7a35f60@83.136.107.171:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=aws.com&alpn=h2&fp=chrome&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&type=tcp&headerType=none#REALITY|IT🇮🇹
 vless://1cc1fa50-ad16-4e22-81a0-e416f7a35f60@83.136.107.171:443?security=reality&alpn=h2&encryption=none&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=aws.com#REALITY|IT🇮🇹
 vless://343cc844-f964-11f0-9840-00163e0951db@91.201.65.220:10004?encryption=none&flow=&path=%2Fvpnjantit&type=ws#%3E%3E@v2nodes::IT
-vless://343cc844-f964-11f0-9840-00163e0951db@91.201.65.220:10004?path=%2Fvpnjantit&security=none&encryption=none&type=ws#%3E%3E%40v2nodes%3A%3AIT
 vless://39802a7f-3d9f-496f-9baa-59c09a126ade@italy.instasup.ir:1002?security=reality&encryption=none&pbk=uWdy-05745pCUMEKq0ybaRCVBtQB8JrhyWCkHfv2I0U&headerType=none&fp=firefox&type=tcp&sni=jetbrains.com&sid=14cf6857b8741cbf#REALITY|IT🇮🇹
 vless://684dd578-bc98-445f-9a42-14dd9a210b27@57.131.38.150:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&encryption=none#Rayan%20-%20RVP%20-%20IT%20-%20I%20-%20%F0%9F%9F%A3%20t.me/Rayan_Config
 vless://6c041f21-0527-498b-9fab-dc98b5d1e1e6@it.tconnect.services:443?security=reality&encryption=none&pbk=g0s7EjoEBg9GFMXPrt20T60Cu-DcqHM9ItqNMcxSU38&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=stackoverflow.com&sid=71e87186710e710e#REALITY|IT🇮🇹
