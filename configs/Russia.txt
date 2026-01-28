@@ -109,7 +109,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3YVUwajVUbmhUZjBqcm8zNURhTUVt@45.139.26.156:
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5MkpIQ3JmZURyOVBRa0l3bHJJdldV@45.151.62.132:58010#RU%F0%9F%87%B7%F0%9F%87%BA+%7C+45.151.62.132-58010+%7C+158.69ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyZnd1Zk9tSjlFTGZONHVtemNIQmZWQDE5NC44Ny44Mi4yODoxMjIyNA==#%F0%9F%87%B7%F0%9F%87%BA_RU_%E4%BF%84%E7%BD%97%E6%96%AF
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@45.139.24.24:57456#%F0%9F%87%B7%F0%9F%87%BA%20RU%20%7C%2045.139.24.24
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNlpDSGVhYlVTZktqZlFFdko0SERW@185.242.86.156:54170#%F0%9F%87%B7%F0%9F%87%BARU%E4%BF%84%E7%BD%97%E6%96%AF2
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNlpDSGVhYlVTZktqZlFFdko0SERW@185.242.86.156:54170#%F0%9F%87%B7%F0%9F%87%BARU%E4%BF%84%E7%BD%97%E6%96%AF
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2WTBwV3VPSkRkSVZ1NU9mcWVsa240@145.249.109.14:60245#RU%F0%9F%87%B7%F0%9F%87%BA+%7C+145.249.109.14-60245+%7C+122.54ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3azZsQTRYUm5FV2ZFbkRyZG0wTlk2@145.249.109.144:15544#RU%F0%9F%87%B7%F0%9F%87%BA+%7C+145.249.109.144-15544+%7C+128.67ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3azZsQTRYUm5FV2ZFbkRyZG0wTlk2@145.249.109.144:15544#RU%F0%9F%87%B7%F0%9F%87%BA+%7C+145.249.109.144-15544+%7C+128.78ms
@@ -192,6 +192,7 @@ ss://d4e4c02a-d969-47a6-ba0f-3d433fdac206@wa.sfasti.ru:443/?type=tcp&encryption=
 ss://d4e4c02a-d969-47a6-ba0f-3d433fdac206@wa.sfasti.ru:443?security=reality&encryption=none&pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=wa.sfasti.ru&sid=16895459a2c7768d#REALITY|RU🇷🇺
 ss://d5e50e54-aade-445d-b8c5-4c14e0513ef1@94.141.96.125:7355?security=none&type=tcp#%F0%9F%87%B7%F0%9F%87%BA_RU_%E4%BF%84%E7%BD%97%E6%96%AF
 ss://d63129ab-04a5-4797-8a70-84f4ab610ca9@217.16.16.251:8443?encryption=none&flow=&fp=chrome&pbk=bPN2gQ-96uG3DZONnduotvwViMDsUsN2XZnRkzXcMxk&security=reality&sid=edc87d796657fbe5&sni=eh.vk.vom&type=#%F0%9F%87%B7%F0%9F%87%BA%5Bopenproxylist.com%5D%20vless-RU%20(4)
+ss://dcaa6ab9-76fe-4c0b-bb29-f72f9b2d2ae5@139.59.185.253:443?path=/lcuaolws#/@Azarbayjab1----@Azarbayjab1----@Azarbayjab1----@Azarbayjab1----@Azarbayjab1----@Azarbayjab1----@Azarbayjab1----@Azarbayjab1----@Azarbayjab1----@Azarbayjab1----@Azarbayjab1----@Azarbayjab1&security=tls&encryption=none&insecure=1&type=ws&allowInsecure=1&sni=ozon.ru#🇬🇧TM
 ss://e34a84c4-8a52-4b4e-9a7d-cfa1a4d77e95@79.137.174.170:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ads.x5.ru&security=reality&pbk=ukaSnTt3IOCDDZVDNfToNGif8yfMKjGLLZgn8ynOVmU&sid=deadbeefcafebabe#REALITY|RU🇷🇺
 ss://e615a5ba-fce3-4ffa-9c86-b0327a8a107a@185.235.241.163:443?path=%2Fhormoz&security=tls&encryption=none&type=ws&sni=web.max.ru#RU🇷🇺
 ss://e615a5ba-fce3-4ffa-9c86-b0327a8a107a@185.235.241.53:443?path=%2Fhormoz&security=tls&encryption=none&type=ws&sni=m.vk.com#RU🇷🇺
@@ -219,7 +220,7 @@ trojan://6c7d536e-1ecf-448d-83c1-3044dd89ceac@5.182.39.57:443/?type=tcp&security
 trojan://750a29bf-0a40-437f-b120-38de74ae7eaf@45.88.148.234:28443?security=tls#%F0%9F%87%B7%F0%9F%87%BARU-45.88.148.234-2782
 trojan://8pzQCWvRF8vC8UxFma4RvutAwV7ccN@217.12.204.110:8443?type=tcp&security=tls&sni=chat.speedload.ru&alpn=h2%2Chttp%2F1.1&allowInsecure=1&fp=qq#RU🇷🇺
 trojan://ZblhWr0mqMakCPg.N@212.193.18.144:36158?allowInsecure=0&sni=ya.ru#%F0%9F%87%B7%F0%9F%87%BA%20%E4%BF%84%E7%BD%97%E6%96%AF%20V2CROSS.COM
-trojan://ZblhWr0mqMakCPg.N@212.193.18.144:36158?security=tls&sni=ya.ru#%F0%9F%87%B7%F0%9F%87%BARU%E4%BF%84%E7%BD%97%E6%96%AF
+trojan://ZblhWr0mqMakCPg.N@212.193.18.144:36158?security=tls&sni=ya.ru#%F0%9F%87%B7%F0%9F%87%BARU%E4%BF%84%E7%BD%97%E6%96%AF2
 trojan://a1b16d10-4f43-4dd9-8c4f-52065b2b0910@45.88.148.237:28443?security=tls&sni=sbank.ir#%F0%9F%87%B7%F0%9F%87%BARU-45.88.148.237-2280
 trojan://af4b064a9c39472fb34ad8b113acdc6b@46.29.161.237:443/?type=tcp&security=tls&sni=46.29.161.237#%F0%9F%87%B7%F0%9F%87%BARU-46.29.161.237-0726
 trojan://ba74833c-8c0f-4dcd-8cbc-13e3c32d3765@185.236.233.111:2053?sni=ftp.debian.org#%F0%9F%87%B7%F0%9F%87%BA_RU_%E4%BF%84%E7%BD%97%E6%96%AF%E8%81%94%E9%82%A6_3
@@ -357,6 +358,7 @@ vless://d4e4c02a-d969-47a6-ba0f-3d433fdac206@wa.sfasti.ru:443/?type=tcp&encrypti
 vless://d4e4c02a-d969-47a6-ba0f-3d433fdac206@wa.sfasti.ru:443?security=reality&encryption=none&pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=wa.sfasti.ru&sid=16895459a2c7768d#REALITY|RU🇷🇺
 vless://d5e50e54-aade-445d-b8c5-4c14e0513ef1@94.141.96.125:7355?security=none&type=tcp#%F0%9F%87%B7%F0%9F%87%BA_RU_%E4%BF%84%E7%BD%97%E6%96%AF
 vless://d63129ab-04a5-4797-8a70-84f4ab610ca9@217.16.16.251:8443?encryption=none&flow=&fp=chrome&pbk=bPN2gQ-96uG3DZONnduotvwViMDsUsN2XZnRkzXcMxk&security=reality&sid=edc87d796657fbe5&sni=eh.vk.vom&type=#%F0%9F%87%B7%F0%9F%87%BA%5Bopenproxylist.com%5D%20vless-RU%20(4)
+vless://dcaa6ab9-76fe-4c0b-bb29-f72f9b2d2ae5@139.59.185.253:443?path=/lcuaolws#/@Azarbayjab1----@Azarbayjab1----@Azarbayjab1----@Azarbayjab1----@Azarbayjab1----@Azarbayjab1----@Azarbayjab1----@Azarbayjab1----@Azarbayjab1----@Azarbayjab1----@Azarbayjab1----@Azarbayjab1&security=tls&encryption=none&insecure=1&type=ws&allowInsecure=1&sni=ozon.ru#🇬🇧TM
 vless://e34a84c4-8a52-4b4e-9a7d-cfa1a4d77e95@79.137.174.170:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ads.x5.ru&security=reality&pbk=ukaSnTt3IOCDDZVDNfToNGif8yfMKjGLLZgn8ynOVmU&sid=deadbeefcafebabe#REALITY|RU🇷🇺
 vless://e615a5ba-fce3-4ffa-9c86-b0327a8a107a@185.235.241.163:443?path=%2Fhormoz&security=tls&encryption=none&type=ws&sni=web.max.ru#RU🇷🇺
 vless://e615a5ba-fce3-4ffa-9c86-b0327a8a107a@185.235.241.53:443?path=%2Fhormoz&security=tls&encryption=none&type=ws&sni=m.vk.com#RU🇷🇺
