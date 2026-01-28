@@ -21,13 +21,14 @@ trojan://182228812d1e0f23@60.249.3.230:3389/?type=tcp&security=tls#%F0%9F%87%B9%
 trojan://182228812d1e0f23@60.249.3.230:3389?security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-60.249.3.230-2460
 trojan://1ca5a034-3dfb-4424-aaba-8b12d7279095@green2.cdntencentmusic.com:31103?allowInsecure=1&sni=green2.cdntencentmusic.com#%F0%9F%87%A8%F0%9F%87%B3%20%E5%8F%B0%E6%B9%BE%E7%9C%81%E5%8F%B0%E4%B8%AD%E5%B8%82%20%E4%B8%AD%E5%8D%8E%E7%94%B5%E4%BF%A1
 trojan://1ca5a034-3dfb-4424-aaba-8b12d7279095@green2.cdntencentmusic.com:31103?security=tls&sni=green2.cdntencentmusic.com#%F0%9F%87%B9%F0%9F%87%BCTW-220.130.58.136-0879
+trojan://1ca5a034-3dfb-4424-aaba-8b12d7279095@green2.cdntencentmusic.com:31103?sni=green2.cdntencentmusic.com#%F0%9F%87%B9%F0%9F%87%BCTW%E5%8F%B0%E6%B9%BE
 trojan://3febb05ea76a940f@60.249.3.125:3389/?type=tcp&security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-60.249.3.125-2351
 trojan://3febb05ea76a940f@60.249.3.125:3389?security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-60.249.3.125-2281
 trojan://49f42d5b-7c92-4f26-aeb6-89b9dd7fa0a5@green2.cdntencentmusic.com:31102?security=tls&sni=green2.cdntencentmusic.com#%F0%9F%87%B9%F0%9F%87%BCTW-220.130.58.136-0629
-trojan://49f42d5b-7c92-4f26-aeb6-89b9dd7fa0a5@green2.cdntencentmusic.com:31102?sni=green2.cdntencentmusic.com#%F0%9F%87%B9%F0%9F%87%BCTW%E5%8F%B0%E6%B9%BE3
+trojan://49f42d5b-7c92-4f26-aeb6-89b9dd7fa0a5@green2.cdntencentmusic.com:31102?sni=green2.cdntencentmusic.com#%E5%8F%B0%E6%B9%BE%E7%9C%81%E5%8F%B0%E4%B8%AD%E5%B8%82+%E4%B8%AD%E5%8D%8E%E7%94%B5%E4%BF%A1
+trojan://49f42d5b-7c92-4f26-aeb6-89b9dd7fa0a5@green2.cdntencentmusic.com:31102?sni=green2.cdntencentmusic.com#%F0%9F%87%B9%F0%9F%87%BCTW%E5%8F%B0%E6%B9%BE2
 trojan://6e1b9a65-884f-3aa9-9469-bf6ec0f08610@a03.taipeicitygovernment.cn.ua:3462/?type=tcp&security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-60.248.240.223-5161
 trojan://6e1b9a65-884f-3aa9-9469-bf6ec0f08610@a03.taipeicitygovernment.cn.ua:3462?security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-59.125.131.163-4664
-trojan://741add2a-b04d-48a1-9507-2a728dc4f428@green2.cdntencentmusic.com:31103?sni=green2.cdntencentmusic.com#%F0%9F%87%B9%F0%9F%87%BCTW%E5%8F%B0%E6%B9%BE2
 trojan://7ac49a893e0bd10c@60.249.3.226:3389/?type=tcp&security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-60.249.3.226-2556
 trojan://7ac49a893e0bd10c@60.249.3.226:3389?security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-60.249.3.226-2486
 trojan://7ac49a893e0bd10c@60.249.3.227:3389/?type=tcp&security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-60.249.3.227-2428
@@ -64,7 +65,6 @@ trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.kiev
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.kyiv.ua:8443?security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-61.228.74.65-2504
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.net.ua:8443?security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-61.221.189.241-2723
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.org.ua:8443?security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-60.248.240.223-2448
-trojan://Aimer@167.68.4.199:2053?sni=epge.muarua.filegear-sg.me#%F0%9F%87%B9%F0%9F%87%BCTW%E5%8F%B0%E6%B9%BE
 trojan://YWVzLTI1Ni1nY206eHBRd3lWNFc1RmRBNk5NQU5KSng3M1VT@2.58.242.43:443?security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-2.58.242.43-4235
 trojan://b09d2aaa443af97a@211.72.35.152:3389?security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-211.72.35.152-2625
 trojan://b09d2aaa443af97a@211.72.35.155:3389/?type=tcp&security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-211.72.35.155-2322
