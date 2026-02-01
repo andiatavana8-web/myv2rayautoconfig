@@ -23,7 +23,6 @@ trojan://182228812d1e0f23@60.249.3.229:3389?security=tls#%F0%9F%87%B9%F0%9F%87%B
 trojan://182228812d1e0f23@60.249.3.230:3389/?type=tcp&security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-60.249.3.230-2530
 trojan://182228812d1e0f23@60.249.3.230:3389?security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-60.249.3.230-2684
 trojan://18db172d-be46-40cb-b402-db212b73977f@xiaozhu1.kkieo555.cn:41274?allowInsecure=1#%F0%9F%87%A8%F0%9F%87%B3%20%E5%8F%B0%E6%B9%BE1_5
-trojan://19fcde52-c498-4863-8fb1-5923c75dec39@green2.cdntencentmusic.com:31102?allowInsecure=1&sni=green2.cdntencentmusic.com#%E5%8F%B0%E6%B9%BE%E7%9C%81%E5%8F%B0%E4%B8%AD%E5%B8%82+%E4%B8%AD%E5%8D%8E%E7%94%B5%E4%BF%A1
 trojan://1dedc639-7989-47ac-a8a7-95048219f67d@xiaozhu1.kkieo555.cn:41274?allowInsecure=1#%F0%9F%87%A8%F0%9F%87%B3%20%E5%8F%B0%E6%B9%BE1_25
 trojan://259ce184-d61a-4c55-b148-02613051cc07@xiaozhu1.kkieo555.cn:41274?allowInsecure=1#%F0%9F%87%A8%F0%9F%87%B3%20%E5%8F%B0%E6%B9%BE1_10
 trojan://2c84d009-b66c-4a0a-aa49-256510003e56@xiaozhu1.kkieo555.cn:41274?allowInsecure=1#%F0%9F%87%A8%F0%9F%87%B3%20%E5%8F%B0%E6%B9%BE1_34
@@ -47,6 +46,7 @@ trojan://5e69664b-5f57-4d38-9347-fd19421ea7e9@xiaozhu1.kkieo555.cn:41274?allowIn
 trojan://62308d4c-3283-4ca4-80b4-ab610361535f@xiaozhu1.kkieo555.cn:41274?allowInsecure=1#%F0%9F%87%A8%F0%9F%87%B3%20%E5%8F%B0%E6%B9%BE1_6
 trojan://63b21d86-a49c-4936-a634-0b5af3e30433@tuntro011.instconn.com:40130?allowInsecure=1&sni=cntwbta.686911.xyz#%F0%9F%87%A8%F0%9F%87%B3%20%E5%8F%B0%E6%B9%BE-CT%2B%7C%2BTW
 trojan://63b21d86-a49c-4936-a634-0b5af3e30433@tuntro011.instconn.com:40130?security=tls&sni=cntwbta.686911.xyz#%F0%9F%87%B9%F0%9F%87%BCTW-1.162.168.244-0903
+trojan://63b21d86-a49c-4936-a634-0b5af3e30433@tuntro011.instconn.com:40130?sni=cntwbta.686911.xyz#%F0%9F%87%B9%F0%9F%87%BCTW%E5%8F%B0%E6%B9%BE
 trojan://661f7f97-27a7-44a2-abd8-2369e44f94a8@xiaozhu1.kkieo555.cn:41274?allowInsecure=1#%F0%9F%87%A8%F0%9F%87%B3%20%E5%8F%B0%E6%B9%BE_1
 trojan://67094309-a65f-4a43-8c4f-c10ef35947f7@xiaozhu1.kkieo555.cn:41274?allowInsecure=1#%F0%9F%87%A8%F0%9F%87%B3%20%E5%8F%B0%E6%B9%BE1_16
 trojan://6e1b9a65-884f-3aa9-9469-bf6ec0f08610@a03.taipeicitygovernment.cn.ua:3462/?type=tcp&security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-60.248.240.223-5161
@@ -110,6 +110,7 @@ trojan://b84d16a244460e09@211.72.35.152:3389/?type=tcp&security=tls#%F0%9F%87%B9
 trojan://b84d16a244460e09@211.72.35.152:3389?security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-211.72.35.152-2524
 trojan://b84d16a244460e09@211.72.35.152:3389?security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-211.72.35.152-3592
 trojan://ca115319-56ec-4069-b32b-e4d8a337c2a5@xiaozhu1.kkieo555.cn:41274?allowInsecure=1#%F0%9F%87%A8%F0%9F%87%B3%20%E5%8F%B0%E6%B9%BE1_30
+trojan://dc8480dc-f90d-46ed-90e5-0d3e7feb6bf8@xiaozhu1.kkieo555.cn:41274?#%F0%9F%87%B9%F0%9F%87%BCTW%E5%8F%B0%E6%B9%BE2
 trojan://dc8480dc-f90d-46ed-90e5-0d3e7feb6bf8@xiaozhu1.kkieo555.cn:41274?allowInsecure=1#%F0%9F%87%A8%F0%9F%87%B3%20%E5%8F%B0%E6%B9%BE1_1
 trojan://de0dcd7a-4b55-49b5-929b-3decf1cd0731@xiaozhu1.kkieo555.cn:41274?allowInsecure=1#%F0%9F%87%A8%F0%9F%87%B3%20%E5%8F%B0%E6%B9%BE1_17
 vless://04793d5b-1b79-49fc-b5f9-2e8ce0e3ebc6@hinet2.gzcloud.shop:20519/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=buylite.music.apple.com&fp=chrome&security=reality&pbk=fbABzUObM1ehY0C9V83p34p8ah9w2s4lDrdAiXdzGxI&sid=4b070735#🇨🇳TW
