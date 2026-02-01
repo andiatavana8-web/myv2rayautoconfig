@@ -4,7 +4,6 @@ ss://2473ced1-b0e6-4d39-873b-acd41be42258@usa141.luckerusa.org:8443?encryption=n
 ss://2473ced1-b0e6-4d39-873b-acd41be42258@usa141.luckerusa.org:8443?encryption=none&type=xhttp&path=%2Fapi%2Fv1%2F&security=tls&sni=usa141.luckerusa.org&alpn=h2#MD🇲🇩
 ss://2fa35078-6354-4ffb-ab08-ee39524ed6a8@94.232.247.61:443?path=%2Fxmaxddws&security=tls&encryption=none&type=ws#MD🇲🇩
 ss://3aa78f08-e345-4d83-bda0-f34eebc5fcc8@95.164.117.40:22161?security=none&type=tcp#%F0%9F%87%BA%F0%9F%87%A6_UA_%E4%B9%8C%E5%85%8B%E5%85%B0-%3E%F0%9F%87%B2%F0%9F%87%A9_MD_%E6%91%A9%E5%B0%94%E5%A4%9A%E7%93%A6
-ss://44685034-88bb-4a40-a5c8-97559d2179e9@clyde.ns.cloudflare.com:443?security=tls&type=ws&path=%2Ffelaouws&host=639052472056058285.altima-rvltnb.info&sni=639052472056058285.altima-rvltnb.info&fp=chrome#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%20%F0%9F%93%A1%20%F0%9F%87%B2%F0%9F%87%A9MD%20%F0%9F%A7%AD%207.5MB%2Fs
 ss://726fbc17-dd31-49fc-93b6-75af1abad99e@fi01.keyinvest.org:443?type=grpc&encryption=none&flow=&sni=keyinvest.org&fp=chrome&security=reality&pbk=G39Eg-wogA8ErCPDN0SOwh-9QHJ-PrIIs_EKVvPeeAY&sid=#REALITY|MD🇲🇩
 ss://79c226ef-91ef-4331-b9ca-0d1dc50d7b9d@94.131.110.29:8443?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#MD🇲🇩
 ss://88872588-2a25-47f9-b498-79142565a239@45.67.228.224:443?path=%2Fufhqdyws&security=tls&encryption=none&type=ws#MD🇲🇩
@@ -38,7 +37,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwbDJYdFIwcHp3a25RT0d3ZXdid1h0UFlEdzF6bjlWdQ@
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@185.153.197.5:989#%F0%9F%87%B2%F0%9F%87%A9MD-185.153.197.5-0572
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@185.153.197.5:989#%F0%9F%87%B2%F0%9F%87%A9MD-185.153.197.5-0260
 ss://a619d576-1380-4aac-8732-99e8dfe8df0f@mlb.tunnelguard.ru:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=mlb.tunnelguard.ru&alpn=h2%2Chttp%2F1.1&allowInsecure=1&fp=random#%3E%3E%40oneclickvpnkeys%3A%3AMD
-ss://a619d576-1380-4aac-8732-99e8dfe8df0f@mlb.tunnelguard.ru:443?security=tls&type=tcp&alpn=h2%2Chttp%2F1.1&sni=mlb.tunnelguard.ru&fp=random&flow=xtls-rprx-vision&encryption=none#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%20%F0%9F%93%A1%20%F0%9F%87%B2%F0%9F%87%A9MD%20%F0%9F%A7%AD%205.1MB%2Fs
 ss://e16a35ea-6715-4e75-9845-d20358bd0876@94.232.247.168:41360?security=reality&encryption=none&pbk=TY6w1zP-qUFKVCAQdQT2ZEJsZBrPO4hZjZYBSS6h6DU&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=1aab45#REALITY|MD🇲🇩
 ss://e16a35ea-6715-4e75-9845-d20358bd0876@94.232.247.168:41360?security=reality&encryption=none&pbk=TY6w1zP-qUFKVCAQdQT2ZEJsZBrPO4hZjZYBSS6h6DU&headerType=none&type=tcp&sni=yahoo.com&sid=1aab45#REALITY|MD🇲🇩
 ss://e4824193-4f54-453b-d037-88368e85ef0e@104.21.86.253:443?mode=gun&security=tls&encryption=none&type=grpc&sni=pqh27v1.carwashipdir.shop#Moldova%20WorkTitans
@@ -50,13 +48,11 @@ vless://2473ced1-b0e6-4d39-873b-acd41be42258@usa141.luckerusa.org:8443?encryptio
 vless://2473ced1-b0e6-4d39-873b-acd41be42258@usa141.luckerusa.org:8443?encryption=none&type=xhttp&path=%2Fapi%2Fv1%2F&security=tls&sni=usa141.luckerusa.org&alpn=h2#MD🇲🇩
 vless://2fa35078-6354-4ffb-ab08-ee39524ed6a8@94.232.247.61:443?path=%2Fxmaxddws&security=tls&encryption=none&type=ws#MD🇲🇩
 vless://3aa78f08-e345-4d83-bda0-f34eebc5fcc8@95.164.117.40:22161?security=none&type=tcp#%F0%9F%87%BA%F0%9F%87%A6_UA_%E4%B9%8C%E5%85%8B%E5%85%B0-%3E%F0%9F%87%B2%F0%9F%87%A9_MD_%E6%91%A9%E5%B0%94%E5%A4%9A%E7%93%A6
-vless://44685034-88bb-4a40-a5c8-97559d2179e9@clyde.ns.cloudflare.com:443?security=tls&type=ws&path=%2Ffelaouws&host=639052472056058285.altima-rvltnb.info&sni=639052472056058285.altima-rvltnb.info&fp=chrome#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%20%F0%9F%93%A1%20%F0%9F%87%B2%F0%9F%87%A9MD%20%F0%9F%A7%AD%207.5MB%2Fs
 vless://726fbc17-dd31-49fc-93b6-75af1abad99e@fi01.keyinvest.org:443?type=grpc&encryption=none&flow=&sni=keyinvest.org&fp=chrome&security=reality&pbk=G39Eg-wogA8ErCPDN0SOwh-9QHJ-PrIIs_EKVvPeeAY&sid=#REALITY|MD🇲🇩
 vless://79c226ef-91ef-4331-b9ca-0d1dc50d7b9d@94.131.110.29:8443?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#MD🇲🇩
 vless://88872588-2a25-47f9-b498-79142565a239@45.67.228.224:443?path=%2Fufhqdyws&security=tls&encryption=none&type=ws#MD🇲🇩
 vless://96fcf8cc-535d-46c4-b8f9-76058df48e3b@94.131.8.19:45448?security=reality&encryption=none&pbk=MmEVCRy11fz67vYJQWyA2a_ZPMBzv2le2cus1XSSI0E&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=958639bf55e679#REALITY|MD🇲🇩
 vless://a619d576-1380-4aac-8732-99e8dfe8df0f@mlb.tunnelguard.ru:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=mlb.tunnelguard.ru&alpn=h2%2Chttp%2F1.1&allowInsecure=1&fp=random#%3E%3E%40oneclickvpnkeys%3A%3AMD
-vless://a619d576-1380-4aac-8732-99e8dfe8df0f@mlb.tunnelguard.ru:443?security=tls&type=tcp&alpn=h2%2Chttp%2F1.1&sni=mlb.tunnelguard.ru&fp=random&flow=xtls-rprx-vision&encryption=none#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%20%F0%9F%93%A1%20%F0%9F%87%B2%F0%9F%87%A9MD%20%F0%9F%A7%AD%205.1MB%2Fs
 vless://e16a35ea-6715-4e75-9845-d20358bd0876@94.232.247.168:41360?security=reality&encryption=none&pbk=TY6w1zP-qUFKVCAQdQT2ZEJsZBrPO4hZjZYBSS6h6DU&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=1aab45#REALITY|MD🇲🇩
 vless://e16a35ea-6715-4e75-9845-d20358bd0876@94.232.247.168:41360?security=reality&encryption=none&pbk=TY6w1zP-qUFKVCAQdQT2ZEJsZBrPO4hZjZYBSS6h6DU&headerType=none&type=tcp&sni=yahoo.com&sid=1aab45#REALITY|MD🇲🇩
 vless://e4824193-4f54-453b-d037-88368e85ef0e@104.21.86.253:443?mode=gun&security=tls&encryption=none&type=grpc&sni=pqh27v1.carwashipdir.shop#Moldova%20WorkTitans
