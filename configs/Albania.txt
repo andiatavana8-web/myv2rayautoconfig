@@ -1,6 +1,5 @@
 ss://2ac3e8c9-b521-4b2b-8b99-49e5b8d0d9d2@5.75.198.136:34823?security=none&encryption=none&headerType=none&type=tcp#AL
 ss://2ac3e8c9-b521-4b2b-8b99-49e5b8d0d9d2@5.75.198.136:34823?security=none&encryption=none&headerType=none&type=tcp#AL%2035%20%40Outline_Vpn
-ss://40ecece1-edd9-4543-99c7-529ee594135d@alb03.abvpn.ru:443?security=reality&type=tcp&sni=www.samsung.com&fp=chrome&sid=e249378d&pbk=bonLTdEWniTF7h32iBBM4XK5CP0MhhZ0rIegMsYpbkw&encryption=none#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%20%F0%9F%93%A1%20%F0%9F%87%A6%F0%9F%87%B1AL%20%F0%9F%A7%AD%2011.1MB%2Fs
 ss://76f385df-bb5c-4e92-b60b-fce540b0a6a0@185.177.238.57:443?security=reality&encryption=none&pbk=su3dq3BDLDkX-jIjq3GyVUXwqzD7CNVYzKtOcO4HQ24&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=al.cdn.stun.su&sid=0eccda18dcb95082#REALITY|AL🇦🇱
 ss://83dd438b-357b-4060-a633-52e9714afabe@78.159.131.5:443?security=reality&encryption=none&pbk=su3dq3BDLDkX-jIjq3GyVUXwqzD7CNVYzKtOcO4HQ24&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=al.cdn.stun.su&sid=c643c0d6e9222005#AL
 ss://83dd438b-357b-4060-a633-52e9714afabe@78.159.131.5:443?security=reality&encryption=none&pbk=su3dq3BDLDkX-jIjq3GyVUXwqzD7CNVYzKtOcO4HQ24&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=al.cdn.stun.su&sid=c643c0d6e9222005#AL%2033%20%40Outline_Vpn
@@ -20,7 +19,6 @@ ss://nasnet@162.19.10.94:443?security=tls&encryption=none&headerType=none&type=t
 ss://nasnet@162.19.10.94:443?security=tls&encryption=none&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=nasnet-162191094-direct.sharghdaily.co#AL%2031%20%40Outline_Vpn
 vless://2ac3e8c9-b521-4b2b-8b99-49e5b8d0d9d2@5.75.198.136:34823?security=none&encryption=none&headerType=none&type=tcp#AL
 vless://2ac3e8c9-b521-4b2b-8b99-49e5b8d0d9d2@5.75.198.136:34823?security=none&encryption=none&headerType=none&type=tcp#AL%2035%20%40Outline_Vpn
-vless://40ecece1-edd9-4543-99c7-529ee594135d@alb03.abvpn.ru:443?security=reality&type=tcp&sni=www.samsung.com&fp=chrome&sid=e249378d&pbk=bonLTdEWniTF7h32iBBM4XK5CP0MhhZ0rIegMsYpbkw&encryption=none#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%20%F0%9F%93%A1%20%F0%9F%87%A6%F0%9F%87%B1AL%20%F0%9F%A7%AD%2011.1MB%2Fs
 vless://76f385df-bb5c-4e92-b60b-fce540b0a6a0@185.177.238.57:443?security=reality&encryption=none&pbk=su3dq3BDLDkX-jIjq3GyVUXwqzD7CNVYzKtOcO4HQ24&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=al.cdn.stun.su&sid=0eccda18dcb95082#REALITY|AL🇦🇱
 vless://83dd438b-357b-4060-a633-52e9714afabe@78.159.131.5:443?security=reality&encryption=none&pbk=su3dq3BDLDkX-jIjq3GyVUXwqzD7CNVYzKtOcO4HQ24&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=al.cdn.stun.su&sid=c643c0d6e9222005#AL
 vless://83dd438b-357b-4060-a633-52e9714afabe@78.159.131.5:443?security=reality&encryption=none&pbk=su3dq3BDLDkX-jIjq3GyVUXwqzD7CNVYzKtOcO4HQ24&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=al.cdn.stun.su&sid=c643c0d6e9222005#AL%2033%20%40Outline_Vpn
