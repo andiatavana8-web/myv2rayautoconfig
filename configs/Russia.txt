@@ -43,7 +43,6 @@ ss://8def6a24-8bd8-4e7d-82ec-938412cae499@37.139.42.234:8443?security=reality&en
 ss://8e6acce9-8b56-7190-d491-7d84f8189e26@5.181.171.2:443?security=reality&encryption=none&pbk=YNGotlyAx3ELUmi4lxOUjiEDmibqf1pPUTE9o3YYT2Y&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20X
 ss://8ec48ed8-cc7c-4cc6-a69a-c95adfe4c371@188.166.150.79:443?path=%2Famuggqws&security=tls&encryption=none&type=ws&sni=ozon.ru#RU🇷🇺
 ss://92d223c5d73b4f7eadce8aefc2ffb510@89.110.91.67:8443?encryption=none&type=xhttp&path=%2Fx&security=reality&sni=ya.ru&pbk=gzGxYDIzpdod7eBkYDVsbwPEdtd-Vd-KoU-wmoQ_EXI&sid=aabbccdd&fp=random#REALITY|RU🇷🇺
-ss://93100196-7f5a-496e-9b74-2d02f134b2bb@31.129.55.179:8080?path=/upload&%3Bsecurity=none&%3Bencryption=none&%3Btype=ws#%F0%9F%87%B7%F0%9F%87%BA%20RU%20%7C%20VLESS%20%7C%20%40netmellianti%20%231
 ss://9f281d4d-1a02-4eb1-a6cc-d9391d3074fb@213.159.76.238:8080?security=none&sni=213.159.76.238&type=ws&host=213.159.76.238&path=%2Fvless#%F0%9F%87%B7%F0%9F%87%BA_RU_%E4%BF%84%E7%BD%97%E6%96%AF
 ss://9f4ffa56-6813-430c-8cac-159cc469086a@84.201.150.255:2443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=pimg.mycdn.me&fp=chrome&security=reality&pbk=S-87aAW3KbKVfjiPy1qvy1PjQ1vj4hkbxSk4hI9zAkU&sid=53dba1d51d6819f1#REALITY|RU🇷🇺
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0dmYxeHdZcFdWODVTRHV1enJuUTBs@212.192.14.227:56686#RU%F0%9F%87%B7%F0%9F%87%BA+%7C+212.192.14.227-56686+%7C+136.19ms
@@ -148,6 +147,7 @@ ss://id8114764549@109.172.87.92:443?security=reality&encryption=none&pbk=0A5HG2m
 ss://join-shavid-argotaz@193.42.11.77:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=vkvd127.mycdn.me&type=ws#RU🇷🇺
 trojan://750a29bf-0a40-437f-b120-38de74ae7eaf@45.88.148.234:28443?security=tls#%F0%9F%87%B7%F0%9F%87%BARU-45.88.148.234-2787
 trojan://ZblhWr0mqMakCPg.N@212.193.18.144:36158?allowInsecure=0&sni=ya.ru#%F0%9F%87%B7%F0%9F%87%BA%20%E4%BF%84%E7%BD%97%E6%96%AF%20V2CROSS.COM
+trojan://ZblhWr0mqMakCPg.N@212.193.18.144:36158?security=tls&sni=ya.ru#%E4%BF%84%E7%BD%97%E6%96%AF+V2CROSS.COM
 trojan://ZblhWr0mqMakCPg.N@212.193.18.144:36158?sni=ya.ru#%F0%9F%87%B7%F0%9F%87%BARU%E4%BF%84%E7%BD%97%E6%96%AF2
 trojan://a1b16d10-4f43-4dd9-8c4f-52065b2b0910@45.88.148.237:28443?security=tls&sni=sbank.ir#%F0%9F%87%B7%F0%9F%87%BARU-45.88.148.237-2285
 trojan://ba74833c-8c0f-4dcd-8cbc-13e3c32d3765@185.236.233.111:2053?sni=ftp.debian.org#%F0%9F%87%B7%F0%9F%87%BA_RU_%E4%BF%84%E7%BD%97%E6%96%AF%E8%81%94%E9%82%A6_3
@@ -197,7 +197,6 @@ vless://8def6a24-8bd8-4e7d-82ec-938412cae499@37.139.42.234:8443?security=reality
 vless://8e6acce9-8b56-7190-d491-7d84f8189e26@5.181.171.2:443?security=reality&encryption=none&pbk=YNGotlyAx3ELUmi4lxOUjiEDmibqf1pPUTE9o3YYT2Y&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20X
 vless://8ec48ed8-cc7c-4cc6-a69a-c95adfe4c371@188.166.150.79:443?path=%2Famuggqws&security=tls&encryption=none&type=ws&sni=ozon.ru#RU🇷🇺
 vless://92d223c5d73b4f7eadce8aefc2ffb510@89.110.91.67:8443?encryption=none&type=xhttp&path=%2Fx&security=reality&sni=ya.ru&pbk=gzGxYDIzpdod7eBkYDVsbwPEdtd-Vd-KoU-wmoQ_EXI&sid=aabbccdd&fp=random#REALITY|RU🇷🇺
-vless://93100196-7f5a-496e-9b74-2d02f134b2bb@31.129.55.179:8080?path=/upload&%3Bsecurity=none&%3Bencryption=none&%3Btype=ws#%F0%9F%87%B7%F0%9F%87%BA%20RU%20%7C%20VLESS%20%7C%20%40netmellianti%20%231
 vless://9f281d4d-1a02-4eb1-a6cc-d9391d3074fb@213.159.76.238:8080?security=none&sni=213.159.76.238&type=ws&host=213.159.76.238&path=%2Fvless#%F0%9F%87%B7%F0%9F%87%BA_RU_%E4%BF%84%E7%BD%97%E6%96%AF
 vless://9f4ffa56-6813-430c-8cac-159cc469086a@84.201.150.255:2443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=pimg.mycdn.me&fp=chrome&security=reality&pbk=S-87aAW3KbKVfjiPy1qvy1PjQ1vj4hkbxSk4hI9zAkU&sid=53dba1d51d6819f1#REALITY|RU🇷🇺
 vless://a23ebab9-6158-4c98-a1eb-267428894f1e@test.country-3.eu-ffast.com:443?security=reality&encryption=none&pbk=-tePObR3oZwGAUOb5kqTYkNWl6rtUKl0RFuzuu06wgw&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=par.eu-ffast.com&sid=50#REALITY|RU🇷🇺
