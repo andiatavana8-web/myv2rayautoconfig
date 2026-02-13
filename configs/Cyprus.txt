@@ -2,7 +2,6 @@ ss://00b0d4de-b126-4511-87c1-8f1feb462fa6@171.22.114.248:27394?security=reality&
 ss://237120d4-6f8e-47de-b50c-2c8218a720df@45.88.182.24:25380?security=reality&encryption=none&sni=yahoo.com&fp=chrome&pbk=G7LvWyxJWO4f-YKZM-Nf7n3hd3AHfThLX3aOIC2qKXg&sid=d6cd&type=tcp&headerType=none&path=%2F#REALITY|CY🇨🇾
 ss://3cceef33-56ff-4f21-8479-2e1719e04886@45.82.255.32:4443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=github.com&fp=chrome&security=reality&pbk=5XB_N3ATilH-6tp_MXht-84_y5YaJnx_Z7MbuY2otHE&sid=aa7e96542880027a#REALITY|CY🇨🇾
 ss://680c950c-417b-4388-8d57-5cd6a65c3cd1@5.180.24.11:4443?security=reality&encryption=none&pbk=5XB_N3ATilH-6tp_MXht-84_y5YaJnx_Z7MbuY2otHE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=github.com&sid=aa7e96542880027a#REALITY|CY🇨🇾
-ss://6a175b1f-fcdf-4dd6-9303-c34875209bc6@103.27.158.56:443?security=reality&type=tcp&alpn=h2&sni=gmail.com&fp=chrome&flow=xtls-rprx-vision&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&encryption=none#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%20%F0%9F%93%A1%20%F0%9F%87%A8%F0%9F%87%BECY%20%F0%9F%A7%AD%202.7MB%2Fs
 ss://700815ef3f0242af93ab59dec3d57626@45.15.162.212:8443?encryption=none&type=xhttp&path=%2Fx&security=reality&sni=apple.com&pbk=75FkbYU36RrbJp70spt8PBura__t4isg1UQuZr1gAgc&sid=aabbccdd&fp=random#REALITY|CY🇨🇾
 ss://8dc7722c-2767-4eea-a28b-2f8daacc07e3@45.82.251.116:8880?mode=gun&security=none&encryption=none&type=grpc#CY🇨🇾
 ss://8dc7722c-2767-4eea-a28b-2f8daacc07e3@45.82.251.208:8880?mode=gun&security=&encryption=none&fp=chrome&type=grpc#CY🇨🇾
@@ -35,7 +34,6 @@ vless://00b0d4de-b126-4511-87c1-8f1feb462fa6@171.22.114.248:27394?security=reali
 vless://237120d4-6f8e-47de-b50c-2c8218a720df@45.88.182.24:25380?security=reality&encryption=none&sni=yahoo.com&fp=chrome&pbk=G7LvWyxJWO4f-YKZM-Nf7n3hd3AHfThLX3aOIC2qKXg&sid=d6cd&type=tcp&headerType=none&path=%2F#REALITY|CY🇨🇾
 vless://3cceef33-56ff-4f21-8479-2e1719e04886@45.82.255.32:4443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=github.com&fp=chrome&security=reality&pbk=5XB_N3ATilH-6tp_MXht-84_y5YaJnx_Z7MbuY2otHE&sid=aa7e96542880027a#REALITY|CY🇨🇾
 vless://680c950c-417b-4388-8d57-5cd6a65c3cd1@5.180.24.11:4443?security=reality&encryption=none&pbk=5XB_N3ATilH-6tp_MXht-84_y5YaJnx_Z7MbuY2otHE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=github.com&sid=aa7e96542880027a#REALITY|CY🇨🇾
-vless://6a175b1f-fcdf-4dd6-9303-c34875209bc6@103.27.158.56:443?security=reality&type=tcp&alpn=h2&sni=gmail.com&fp=chrome&flow=xtls-rprx-vision&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&encryption=none#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%20%F0%9F%93%A1%20%F0%9F%87%A8%F0%9F%87%BECY%20%F0%9F%A7%AD%202.7MB%2Fs
 vless://700815ef3f0242af93ab59dec3d57626@45.15.162.212:8443?encryption=none&type=xhttp&path=%2Fx&security=reality&sni=apple.com&pbk=75FkbYU36RrbJp70spt8PBura__t4isg1UQuZr1gAgc&sid=aabbccdd&fp=random#REALITY|CY🇨🇾
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@45.82.251.116:8880?mode=gun&security=none&encryption=none&type=grpc#CY🇨🇾
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@45.82.251.208:8880?mode=gun&security=&encryption=none&fp=chrome&type=grpc#CY🇨🇾
