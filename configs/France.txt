@@ -206,7 +206,6 @@ ss://f557eadb-1715-4c0b-aaae-f9b9577d827d@185.156.72.124:52042?type=tcp&encrypti
 ss://f55d25a5-3bb5-4209-a10f-729eb5482d95@maxb10.server1home.ir:8080?security=reality&encryption=none&pbk=D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=chatgpt.com&sid=b7b70c104ad267b8#REALITY|FR🇫🇷
 ss://f6d382fa-3a53-4497-beb0-b285ac9bcf3a@fr.fasti.win:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fr.fasti.win&fp=chrome&security=reality&pbk=CuLjZaOWwaC_didE-f8CZoUK0mGH75iq-0u1St_wjUU&sid=67f8515f3fa23d2f#REALITY|FR🇫🇷
 ss://f84ab055-3ffe-4a90-aad3-30596550b03c@jdq2.rfg4s.sad21.ssa5h.carvan4.mimkiscx.ir:2095?path=%3Fed%3D2087&security=&encryption=none&host=beh2.salonemojallal.ir.&type=httpupgrade#FR🇫🇷
-ss://fac24178-0629-41ea-a0f3-54030f594dec@194.5.205.229:80/?type=tcp&security=none#%E6%B3%95%E5%9B%BD+V2CROSS.COM
 ss://fac24178-0629-41ea-a0f3-54030f594dec@194.5.205.229:80?security=&encryption=none&headerType=none&type=tcp#%E6%B3%95%E5%9B%BD+V2CROSS.COM
 ss://nasnet@162.19.10.94:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=none&fp=randomized&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=nasnet-162191094-direct.sharghdaily.co#FR🇫🇷
 ss://nasnet@162.19.10.94:443?security=tls&encryption=none&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=nasnet-162191094-direct.sharghdaily.co#FR🇫🇷
@@ -408,7 +407,6 @@ vless://f557eadb-1715-4c0b-aaae-f9b9577d827d@185.156.72.124:52042?type=tcp&encry
 vless://f55d25a5-3bb5-4209-a10f-729eb5482d95@maxb10.server1home.ir:8080?security=reality&encryption=none&pbk=D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=chatgpt.com&sid=b7b70c104ad267b8#REALITY|FR🇫🇷
 vless://f6d382fa-3a53-4497-beb0-b285ac9bcf3a@fr.fasti.win:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fr.fasti.win&fp=chrome&security=reality&pbk=CuLjZaOWwaC_didE-f8CZoUK0mGH75iq-0u1St_wjUU&sid=67f8515f3fa23d2f#REALITY|FR🇫🇷
 vless://f84ab055-3ffe-4a90-aad3-30596550b03c@jdq2.rfg4s.sad21.ssa5h.carvan4.mimkiscx.ir:2095?path=%3Fed%3D2087&security=&encryption=none&host=beh2.salonemojallal.ir.&type=httpupgrade#FR🇫🇷
-vless://fac24178-0629-41ea-a0f3-54030f594dec@194.5.205.229:80/?type=tcp&security=none#%E6%B3%95%E5%9B%BD+V2CROSS.COM
 vless://fac24178-0629-41ea-a0f3-54030f594dec@194.5.205.229:80?security=&encryption=none&headerType=none&type=tcp#%E6%B3%95%E5%9B%BD+V2CROSS.COM
 vless://nasnet@162.19.10.94:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=none&fp=randomized&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=nasnet-162191094-direct.sharghdaily.co#FR🇫🇷
 vless://nasnet@162.19.10.94:443?security=tls&encryption=none&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=nasnet-162191094-direct.sharghdaily.co#FR🇫🇷
