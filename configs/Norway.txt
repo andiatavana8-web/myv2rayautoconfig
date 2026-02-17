@@ -4,10 +4,12 @@ ss://65d8bfbf-f625-4d35-9a1c-2b19a55e58e2@82.25.145.95:38666?&security=false&fp=
 ss://8df2b159-5a31-4df4-b279-20ae1020ab4c@vpnazadie.voicesofiran.org:80?&security=false&fp=chrome&type=ws&headerType=none&host=voicesofiran.org&path=%2Fvless-ntls#%5B%F0%9F%87%A9%F0%9F%87%AA%5D%20%5Bvl-no-ws%5D%20%5B260217-013957.647%5D
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@185.90.61.153:989#%F0%9F%87%B3%F0%9F%87%B4NO-185.90.61.153-8429
 ss://bbb0d738-975d-41c5-ebfe-164f8cdc914f@h22.amoosias.site:18521?&security=false&fp=chrome&type=ws&headerType=none&host=h22.amoosias.site&path=%2F#%5B%F0%9F%87%AB%F0%9F%87%AE%5D%20%5Bvl-no-ws%5D%20%5B260217-014340.578%5D
-trojan://a5inYFE%3DJGV89%20hjxIqgDp1tcWBd6@80.173.230.196:26279?allowInsecure=1&security=tls&type=tcp#NO🇳🇴
 trojan://a5inYFE%3DJGV89+hjxIqgDp1tcWBd6@80.173.230.196:26279?type=tcp&security=tls&allowInsecure=1#NO🇳🇴
 trojan://wp9IsiY82uQhcmgNC1eoBM@80.173.231.254:12420?allowInsecure=0&sni=www.semanticstaplegun.click#NO-80.173.231.254-0259%20%7C%201.041MB
+trojan://wp9IsiY82uQhcmgNC1eoBM@80.173.231.254:12420?security=tls&headerType=none&type=tcp&sni=www.semanticstaplegun.click#NO🇳🇴
 trojan://wp9IsiY82uQhcmgNC1eoBM@80.173.231.254:12420?security=tls&sni=www.semanticstaplegun.click#%F0%9F%87%B3%F0%9F%87%B4NO-80.173.231.254-0268
+trojan://wp9IsiY82uQhcmgNC1eoBM@80.173.231.254:12420?security=tls&sni=www.semanticstaplegun.click#NO🇳🇴
+trojan://wp9IsiY82uQhcmgNC1eoBM@80.173.231.254:12420?type=raw&headerType=none&security=tls&sni=www.semanticstaplegun.click#NO🇳🇴
 vless://05b544a4-d479-4ba4-8208-950bd4411453@45.89.105.56:80?&security=false&fp=chrome&type=ws&headerType=none&path=%2Fvless%2F#%5B%F0%9F%87%AE%F0%9F%87%B3%5D%20%5Bvl-no-ws%5D%20%5B260217-013155.145%5D
 vless://5a54a377-a9d3-4ea5-b7b0-17bd899e202d@pq-india1.09vpn.com:80?&security=false&fp=chrome&type=ws&headerType=none&host=pq-india1.09vpn.com&path=%2Fvless%2F#%5B%F0%9F%87%AE%F0%9F%87%B3%5D%20%5Bvl-no-ws%5D%20%5B260217-013658.582%5D
 vless://65d8bfbf-f625-4d35-9a1c-2b19a55e58e2@82.25.145.95:38666?&security=false&fp=chrome&type=ws&headerType=none&path=%2F#%5B%F0%9F%87%AD%F0%9F%87%B0%5D%20%5Bvl-no-ws%5D%20%5B260217-013737.701%5D
