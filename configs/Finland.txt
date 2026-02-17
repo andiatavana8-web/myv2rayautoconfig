@@ -23,12 +23,14 @@ ss://53d37ac8-efc2-492c-b6c6-a864dfebbbff@144.31.212.248:443?type=tcp&encryption
 ss://54fd9404-923c-45b4-88f8-5f6097eb0829@109.172.54.240:59398?security=reality&encryption=none&pbk=b8NtQQVV_K7uwM3aetyCznK4DHk3rb_ngogf8-Ro3FI&headerType=none&fp=firefox&spx=%2F&type=tcp&sni=yahoo.com&sid=e5d5a211#REALITY|FI🇫🇮
 ss://57a5f6b3-ea58-4d4e-ad9c-a9830f148184@93.152.207.254:45884?security=reality&encryption=none&pbk=_GoR9cR6JOUmQ1PM-s2GsHiy6OuIo1Ek1a7lhNKkvj4&headerType=none&fp=firefox&type=tcp&sni=yahoo.com&sid=9a#REALITY|FI🇫🇮
 ss://6202b230-417c-4d8e-b624-0f71afa9c75d@109.107.190.58:443?&security=tls&fp=chrome&sni=sni.111000.v6.navy&type=ws&headerType=none&host=sni.111000.v6.navy&path=%2F#_%E8%8A%AC%E5%85%B0%204
+ss://6202b230-417c-4d8e-b624-0f71afa9c75d@188.165.137.202:8443?encryption=none&security=tls&sni=sni.111000.indevs.in&fp=chrome&insecure=1&type=ws&host=sni.111000.indevs.in&path=/?ed=2560&telegram🇨🇳+@wangcai2#🇫🇮Finland+->+🇫🇷France+⚡@DeamNet_Proxy
 ss://6202b230-417c-4d8e-b624-0f71afa9c75d@37.27.4.187:443?path=%2F%3Fed%3D2560&Telegram=#FI🇫🇮
 ss://6202b230417c4d8eb6240f71afa9c75dOg==@37.27.4.187:443#FI%F0%9F%87%AB%F0%9F%87%AE+%7C+37.27.4.187-443+%7C+161.89ms
 ss://637bd1f3-f097-4fa2-a62d-322f1aede2fe@185.228.233.48:443?security=reality&encryption=none&pbk=KirNNYcecynNjQyb6gQFlHUcpbgijjcxjWgvAFJwmSs&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=access-fl26.agveit.pro&sid=a934cacc5e43cf60#REALITY|FI🇫🇮
 ss://637bd1f3f0974fa2a62d322f1aede2feOg==@185.228.233.48:443#REALITY%7CFI%F0%9F%87%AB%F0%9F%87%AE+%7C+185.228.233.48-443+%7C+167.4ms
 ss://64b5d863-81d6-48ea-9222-82030616fa63@fi.pineappled.org:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=google.com&fp=chrome&security=reality&pbk=qFBIVGsvXTMeJcdJz6GiL7DG0XNhCg7rItza7t0qTgU&sid=9eb31eb7572c0882#REALITY|FI🇫🇮
 ss://79d324def14c420a9b917ea4f42e67c0@95.164.55.77:8443?encryption=none&type=xhttp&path=%2Fx&security=reality&sni=suomikauppa.fi&pbk=8r7EZolq2cbB5OduMvMZ4QT6GTRw25n1qoAPKwh2sHs&sid=aabbccdd&fp=random#REALITY|FI🇫🇮
+ss://7a7aa0d2-5311-45fc-80b0-9f46f3546793@185.92.183.112:443?mode=gun&security=reality&encryption=none&authority=&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=chrome&type=grpc&serviceName=xyz&sni=telegavpn.com#FI🇫🇮
 ss://8d5ebe3f-d0c5-45f2-9dde-21ee29fc0ee6@8.6.112.0:443?mode=auto&security=tls&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=fin.moell13.org#FI🇫🇮
 ss://91af3d98-fb3c-40f9-8a69-21ff12ccaec4@65.21.132.249:443?mode=gun&security=reality&encryption=none&pbk=SH8hAIyzkC6kEHlxKPTItVv0hqQevBvNm_cGbaHU3g4&fp=random&spx=%2F&type=grpc&serviceName=%40UnlimitedDev&sni=ftp.debian.org&sid=c7cf5bc1#REALITY|FI🇫🇮
 ss://94a03e9a-74d5-4036-95e9-563cc19355de@144.31.128.36:443/?type=tcp&encryption=none&flow=&security=tls&sni=secdn19.suio.me&allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3AFI
@@ -93,10 +95,12 @@ vless://53d37ac8-efc2-492c-b6c6-a864dfebbbff@144.31.212.248:443?type=tcp&encrypt
 vless://54fd9404-923c-45b4-88f8-5f6097eb0829@109.172.54.240:59398?security=reality&encryption=none&pbk=b8NtQQVV_K7uwM3aetyCznK4DHk3rb_ngogf8-Ro3FI&headerType=none&fp=firefox&spx=%2F&type=tcp&sni=yahoo.com&sid=e5d5a211#REALITY|FI🇫🇮
 vless://57a5f6b3-ea58-4d4e-ad9c-a9830f148184@93.152.207.254:45884?security=reality&encryption=none&pbk=_GoR9cR6JOUmQ1PM-s2GsHiy6OuIo1Ek1a7lhNKkvj4&headerType=none&fp=firefox&type=tcp&sni=yahoo.com&sid=9a#REALITY|FI🇫🇮
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@109.107.190.58:443?&security=tls&fp=chrome&sni=sni.111000.v6.navy&type=ws&headerType=none&host=sni.111000.v6.navy&path=%2F#_%E8%8A%AC%E5%85%B0%204
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.165.137.202:8443?encryption=none&security=tls&sni=sni.111000.indevs.in&fp=chrome&insecure=1&type=ws&host=sni.111000.indevs.in&path=/?ed=2560&telegram🇨🇳+@wangcai2#🇫🇮Finland+->+🇫🇷France+⚡@DeamNet_Proxy
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@37.27.4.187:443?path=%2F%3Fed%3D2560&Telegram=#FI🇫🇮
 vless://637bd1f3-f097-4fa2-a62d-322f1aede2fe@185.228.233.48:443?security=reality&encryption=none&pbk=KirNNYcecynNjQyb6gQFlHUcpbgijjcxjWgvAFJwmSs&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=access-fl26.agveit.pro&sid=a934cacc5e43cf60#REALITY|FI🇫🇮
 vless://64b5d863-81d6-48ea-9222-82030616fa63@fi.pineappled.org:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=google.com&fp=chrome&security=reality&pbk=qFBIVGsvXTMeJcdJz6GiL7DG0XNhCg7rItza7t0qTgU&sid=9eb31eb7572c0882#REALITY|FI🇫🇮
 vless://79d324def14c420a9b917ea4f42e67c0@95.164.55.77:8443?encryption=none&type=xhttp&path=%2Fx&security=reality&sni=suomikauppa.fi&pbk=8r7EZolq2cbB5OduMvMZ4QT6GTRw25n1qoAPKwh2sHs&sid=aabbccdd&fp=random#REALITY|FI🇫🇮
+vless://7a7aa0d2-5311-45fc-80b0-9f46f3546793@185.92.183.112:443?mode=gun&security=reality&encryption=none&authority=&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=chrome&type=grpc&serviceName=xyz&sni=telegavpn.com#FI🇫🇮
 vless://8d5ebe3f-d0c5-45f2-9dde-21ee29fc0ee6@8.6.112.0:443?mode=auto&security=tls&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=fin.moell13.org#FI🇫🇮
 vless://91af3d98-fb3c-40f9-8a69-21ff12ccaec4@65.21.132.249:443?mode=gun&security=reality&encryption=none&pbk=SH8hAIyzkC6kEHlxKPTItVv0hqQevBvNm_cGbaHU3g4&fp=random&spx=%2F&type=grpc&serviceName=%40UnlimitedDev&sni=ftp.debian.org&sid=c7cf5bc1#REALITY|FI🇫🇮
 vless://94a03e9a-74d5-4036-95e9-563cc19355de@144.31.128.36:443/?type=tcp&encryption=none&flow=&security=tls&sni=secdn19.suio.me&allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3AFI
