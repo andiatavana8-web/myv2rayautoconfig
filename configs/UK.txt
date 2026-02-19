@@ -25,7 +25,6 @@ ss://6202b230-417c-4d8e-b624-0f71afa9c75d@83.147.192.71:443?&security=tls&fp=chr
 ss://6202b230417c4d8eb6240f71afa9c75dOg==@185.170.166.138:2096#GB%F0%9F%87%AC%F0%9F%87%A7+%7C+185.170.166.138-2096+%7C+2.26ms
 ss://7c9d302f-1438-4f37-a6e0-0591dc4a4614@158.220.88.63:443?type=grpc&encryption=none&flow=&serviceName=7e41eb32ea906cebaf077110&sni=www.microsoft.com&fp=safari&security=reality&pbk=DTfizB6SKAjSe4gQVreWTIMpDT7HsDcqfR0_Y2xo7Gw&sid=7daa515f56d7db89#REALITY|GB🇬🇧
 ss://81f4381b-469a-4518-b027-74d2b4b3cab9@gb.fasti.win:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=-YTGWg5DjsLDyaDfr1D83kiUK22LVcrK3yC53lqqigs&sid=feedbacc&sni=uk.fasti.win&path=&host=#REALITY|GB🇬🇧
-ss://8899d15d-a022-4b61-b848-87d4de0a034a@57.128.174.124:443?path=/ws&security=tls&encryption=none&type=ws&sni=speedtest.net#GB🇬🇧
 ss://914b0493-7094-4840-b94d-8ec3e92e9c43@146.185.208.206:443?security=reality&encryption=none&pbk=do22ES2nDjO0EggET4H9Gf8_tEY7PwZv76zVXPrDojQ&headerType=none&fp=chrome&type=tcp&sni=yandex.ru&sid=5f22#REALITY|GB🇬🇧
 ss://9e20b04d-5a81-4e16-b421-01e502f0aac6@57.129.132.223:80?path=%2Fvless%2F&security=none&encryption=none&type=ws#%3E%3E%40v2ray1_ng%3A%3AGB
 ss://Parsashonam@104.21.14.158:2096?mode=auto&path=%2F&security=tls&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=signup.atlasw.ir#%3E%3E%40configV2rayNG%3A%3AGB
@@ -308,7 +307,6 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@5.10.246.238:2096?&security=tls&fp=
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@83.147.192.71:443?&security=tls&fp=chrome&sni=sni.111000.indevs.in&type=ws&headerType=none&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#GB
 vless://7c9d302f-1438-4f37-a6e0-0591dc4a4614@158.220.88.63:443?type=grpc&encryption=none&flow=&serviceName=7e41eb32ea906cebaf077110&sni=www.microsoft.com&fp=safari&security=reality&pbk=DTfizB6SKAjSe4gQVreWTIMpDT7HsDcqfR0_Y2xo7Gw&sid=7daa515f56d7db89#REALITY|GB🇬🇧
 vless://81f4381b-469a-4518-b027-74d2b4b3cab9@gb.fasti.win:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=-YTGWg5DjsLDyaDfr1D83kiUK22LVcrK3yC53lqqigs&sid=feedbacc&sni=uk.fasti.win&path=&host=#REALITY|GB🇬🇧
-vless://8899d15d-a022-4b61-b848-87d4de0a034a@57.128.174.124:443?path=/ws&security=tls&encryption=none&type=ws&sni=speedtest.net#GB🇬🇧
 vless://914b0493-7094-4840-b94d-8ec3e92e9c43@146.185.208.206:443?security=reality&encryption=none&pbk=do22ES2nDjO0EggET4H9Gf8_tEY7PwZv76zVXPrDojQ&headerType=none&fp=chrome&type=tcp&sni=yandex.ru&sid=5f22#REALITY|GB🇬🇧
 vless://9e20b04d-5a81-4e16-b421-01e502f0aac6@57.129.132.223:80?path=%2Fvless%2F&security=none&encryption=none&type=ws#%3E%3E%40v2ray1_ng%3A%3AGB
 vless://Parsashonam@104.21.14.158:2096?mode=auto&path=%2F&security=tls&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=signup.atlasw.ir#%3E%3E%40configV2rayNG%3A%3AGB
