@@ -12,6 +12,7 @@ ss://54a41073-e798-488b-af16-28533e612ec1@gb.fasti.win:443?type=tcp&encryption=n
 ss://5e18094c18b14198b21196b40518cecfOg==@107.181.147.22:443#REALITY%7CGB%F0%9F%87%AC%F0%9F%87%A7+%7C+107.181.147.22-443+%7C+124.71ms
 ss://5f2f7bd1-3cbf-4c44-a863-a89276337190@DEMO.MAHOSHID.IR:1320?security=reality&encryption=none&pbk=y6JSkggQ__RA_nmCJpX1_ddSQC6vzDUPaN7KyvjVuic&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com#%3E%3E%40flyv2ray%3A%3AGB
 ss://6202b230-417c-4d8e-b624-0f71afa9c75d@138.68.169.120:443?encryption=none&security=tls&sni=sni.111000.indevs.in&allowInsecure=1&type=ws&host=sni.111000.indevs.in&path=t.me%2Fv2Line#%3E%3E%40v2line%3A%3AGB
+ss://6202b230-417c-4d8e-b624-0f71afa9c75d@185.162.231.138:2096?path=/?ed=2560&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#GB🇬🇧
 ss://6202b230-417c-4d8e-b624-0f71afa9c75d@83.147.192.71:443?&security=tls&fp=chrome&sni=sni.111000.indevs.in&type=ws&headerType=none&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#GB
 ss://6202b230417c4d8eb6240f71afa9c75dOg==@185.170.166.138:2096#GB%F0%9F%87%AC%F0%9F%87%A7+%7C+185.170.166.138-2096+%7C+1.85ms
 ss://6f2db5b5-0736-421d-9a42-bfbcc8b2faf2@jp.ok12345.ggff.net:10050?&security=reality&pbk=LaqO0nYGVpe5TLyUrb7c1uf0Ui1FM2GMx_RBG-RSz0Y&sid=cdca350e5b&fp=chrome&sni=icloud.com&type=tcp&headerType=none&host=jp.ok12345.ggff.net&path=%2F#_%E8%8B%B1%E5%9B%BD%203
@@ -256,7 +257,6 @@ trojan://xxoo@138.124.183.226:443?security=tls#%F0%9F%87%AC%F0%9F%87%A7GB-138.12
 trojan://xxoo@146.19.230.241:443?security=tls#%F0%9F%87%AC%F0%9F%87%A7GB-146.19.230.241-2262
 trojan://xxoo@146.19.230.241:443?security=tls&sni=bmi.ir#%F0%9F%87%AC%F0%9F%87%A7GB-146.19.230.241-8711
 trojan://xxoo@146.19.230.241:443?security=tls&sni=loader.tapsell.ir#%F0%9F%87%AC%F0%9F%87%A7GB-146.19.230.241-8707
-trojan://zp630tdUuD@194.150.166.151:52047?mode=gun&security=reality&authority=&fp=chrome&type=grpc&serviceName=&sni=aws.amazon.com#GB🇬🇧
 vless://02db10db44e04d6aae77331b0694ac1b@91.231.186.24:8443?encryption=none&type=xhttp&path=%2Fx&security=reality&sni=nytimes.com&pbk=WhRQP6-muqar8s2OsjHGZZnSiG5LEGsp-CGv6wkhdDs&sid=aabbccdd&fp=random#REALITY|GB🇬🇧
 vless://0331b690-79fc-49d5-85f0-54faa4eff89f@go.adslimit.info:2345/?type=tcp&encryption=none&flow=#%3E%3E%40oneclickvpnkeys%3A%3AGB
 vless://037e395f-f79d-4d61-bb92-dafcc27e53ba@46.101.57.231:443?path=%2Fesoznjws&security=tls&encryption=none&type=ws&sni=m.vk.com#United%20Kingdom%20Digital%20Ocean
@@ -270,6 +270,7 @@ vless://20adc847-4159-4f39-b79f-d563b660945f@simurgh.adslimit.info:2345?security
 vless://54a41073-e798-488b-af16-28533e612ec1@gb.fasti.win:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=uk.fasti.win&fp=chrome&security=reality&pbk=-YTGWg5DjsLDyaDfr1D83kiUK22LVcrK3yC53lqqigs&sid=feedbacc#REALITY|GB🇬🇧
 vless://5f2f7bd1-3cbf-4c44-a863-a89276337190@DEMO.MAHOSHID.IR:1320?security=reality&encryption=none&pbk=y6JSkggQ__RA_nmCJpX1_ddSQC6vzDUPaN7KyvjVuic&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com#%3E%3E%40flyv2ray%3A%3AGB
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@138.68.169.120:443?encryption=none&security=tls&sni=sni.111000.indevs.in&allowInsecure=1&type=ws&host=sni.111000.indevs.in&path=t.me%2Fv2Line#%3E%3E%40v2line%3A%3AGB
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.162.231.138:2096?path=/?ed=2560&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#GB🇬🇧
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@83.147.192.71:443?&security=tls&fp=chrome&sni=sni.111000.indevs.in&type=ws&headerType=none&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#GB
 vless://6f2db5b5-0736-421d-9a42-bfbcc8b2faf2@jp.ok12345.ggff.net:10050?&security=reality&pbk=LaqO0nYGVpe5TLyUrb7c1uf0Ui1FM2GMx_RBG-RSz0Y&sid=cdca350e5b&fp=chrome&sni=icloud.com&type=tcp&headerType=none&host=jp.ok12345.ggff.net&path=%2F#_%E8%8B%B1%E5%9B%BD%203
 vless://6f2db5b5-0736-421d-9a42-bfbcc8b2faf2@jp.ok12345.ggff.net:10050?&security=reality&pbk=LaqO0nYGVpe5TLyUrb7c1uf0Ui1FM2GMx_RBG-RSz0Y&sid=cdca350e5b&fp=chrome&sni=icloud.com&type=tcp&headerType=none&host=jp.ok12345.ggff.net&path=%2F#_%E8%8B%B1%E5%9B%BD%204
