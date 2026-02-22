@@ -7,7 +7,6 @@ ss://8664a37d-40c9-47f0-8619-d9199651be2c@144.31.128.68:443?encryption=none&fp=c
 ss://8664a37d-40c9-47f0-8619-d9199651be2c@144.31.128.68:443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=nlcdn13.suio.me#IS🇮🇸
 ss://8664a37d-40c9-47f0-8619-d9199651be2c@144.31.128.68:443?type=tcp&encryption=none&flow=&security=tls&sni=nlcdn13.suio.me&allowInsecure=1#IS🇮🇸
 ss://8664a37d-40c9-47f0-8619-d9199651be2c@144.31.128.69:443?encryption=none&fp=chrome&security=tls&sni=nlcdn14.suio.me&type=tcp#IS🇮🇸
-ss://8664a37d-40c9-47f0-8619-d9199651be2c@nlcdn14.suio.me:443/?type=tcp&encryption=none&flow=&security=tls&sni=🔒#IS%E3%80%90%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%EF%BC%9Ahttps%3A//a0a.xyz%E3%80%9139
 ss://8664a37d40c947f08619d9199651be2cOg==@144.31.128.67:443#IS%F0%9F%87%AE%F0%9F%87%B8+%7C+144.31.128.67-443+%7C+114.31ms
 ss://8664a37d40c947f08619d9199651be2cOg==@144.31.128.67:443#IS%F0%9F%87%AE%F0%9F%87%B8+%7C+144.31.128.67-443+%7C+122.14ms
 ss://8664a37d40c947f08619d9199651be2cOg==@144.31.128.67:443#IS%F0%9F%87%AE%F0%9F%87%B8+%7C+144.31.128.67-443+%7C+128.55ms
@@ -27,6 +26,7 @@ trojan://qmBSKnAl6LYi9=z23Rs.Z@37.235.49.209:28099?allowInsecure=0&sni=celestial
 trojan://qmBSKnAl6LYi9=z23Rs.Z@37.235.49.209:28099?allowInsecure=0&sni=celestialcorset.crystalhamster.click#IS-37.235.49.209-1801
 trojan://qmBSKnAl6LYi9=z23Rs.Z@37.235.49.209:28099?allowInsecure=1&sni=celestialcorset.crystalhamster.click#%3E%3E%40oneclickvpnkeys%3A%3AIS
 trojan://qmBSKnAl6LYi9=z23Rs.Z@37.235.49.209:28099?security=tls&sni=celestialcorset.crystalhamster.click#%F0%9F%87%AE%F0%9F%87%B8IS-37.235.49.209-0551
+trojan://qmBSKnAl6LYi9=z23Rs.Z@37.235.49.209:28099?sni=celestialcorset.crystalhamster.click#%F0%9F%87%AE%F0%9F%87%B8IS%E5%86%B0%E5%B2%9B%202.3MB%2Fs
 vless://8664a37d-40c9-47f0-8619-d9199651be2c@144.31.128.12:443?type=tcp&encryption=none&flow=&security=tls&sni=nlcdn13.suio.me&allowInsecure=1#IS🇮🇸
 vless://8664a37d-40c9-47f0-8619-d9199651be2c@144.31.128.67:443?encryption=none&fp=chrome&security=tls&sni=nlcdn12.suio.me&type=tcp#IS🇮🇸
 vless://8664a37d-40c9-47f0-8619-d9199651be2c@144.31.128.67:443?encryption=none&security=tls&sni=nlcdn12.suio.me&allowInsecure=1&type=tcp&headerType=none#IS🇮🇸
@@ -36,4 +36,3 @@ vless://8664a37d-40c9-47f0-8619-d9199651be2c@144.31.128.68:443?encryption=none&f
 vless://8664a37d-40c9-47f0-8619-d9199651be2c@144.31.128.68:443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=nlcdn13.suio.me#IS🇮🇸
 vless://8664a37d-40c9-47f0-8619-d9199651be2c@144.31.128.68:443?type=tcp&encryption=none&flow=&security=tls&sni=nlcdn13.suio.me&allowInsecure=1#IS🇮🇸
 vless://8664a37d-40c9-47f0-8619-d9199651be2c@144.31.128.69:443?encryption=none&fp=chrome&security=tls&sni=nlcdn14.suio.me&type=tcp#IS🇮🇸
-vless://8664a37d-40c9-47f0-8619-d9199651be2c@nlcdn14.suio.me:443/?type=tcp&encryption=none&flow=&security=tls&sni=🔒#IS%E3%80%90%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%EF%BC%9Ahttps%3A//a0a.xyz%E3%80%9139
