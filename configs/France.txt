@@ -2,7 +2,6 @@ hy2://545fb4e9-5794-4e20-be0c-e6d8689f91ac@129.151.251.122:35000/?insecure=1&sni
 ss://02d87d00-c769-48d8-91cb-bd05e2f62790@151.101.25.242:80?mode=auto&path=%2F&security=none&encryption=none&host=jetfr228.global.ssl.fastly.net&type=xhttp#France%200VH
 ss://0e90f352-e9bc-4834-8ff6-49ba887eded4@109.172.55.122:443/?type=tcp&encryption=none&flow=&security=tls&sni=b12a6eea4807ca4e.1323.world&alpn=h2&allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3AFR
 ss://0e90f352-e9bc-4834-8ff6-49ba887eded4@109.172.55.122:443?security=tls&type=tcp&sni=b12a6eea4807ca4e.1323.world&fp=chrome#%F0%9F%87%AB%F0%9F%87%B7%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E6%B3%95%E5%9B%BD%2001
-ss://0e90f352-e9bc-4834-8ff6-49ba887eded4@fr.1323.world:443?encryption=none&security=tls&sni=fr.1323.world&insecure=0&allowInsecure=0&type=tcp&headerType=none#FR%E3%80%90%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%EF%BC%9Ahttps%3A//a0a.xyz%E3%80%917
 ss://11beaf11-726d-4c11-8ce9-27308c1c608c@157.173.127.225:443?security=reality&encryption=none&pbk=v3EwzA9RIIh5Ndxm-gypRY6RCJhOpQ-2WO7KaH8nsC8&headerType=none&fp=random&type=tcp&sni=analytics.google.com&sid=eab26c4a32#REALITY|FR🇫🇷
 ss://11beaf11-726d-4c11-8ce9-27308c1c608c@157.173.127.225:443?type=tcp&encryption=none&flow=&sni=analytics.google.com&fp=chrome&security=reality&pbk=v3EwzA9RIIh5Ndxm-gypRY6RCJhOpQ-2WO7KaH8nsC8&sid=eab26c4a32#REALITY|FR🇫🇷
 ss://1949f066-bcb0-49be-88e9-74abd940f80e@51.75.30.8:80?path=/http&%3Bsecurity=none&%3Bencryption=none&%3Btype=ws#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20VLESS%20%7C%20%40merdesert%20%231
@@ -150,7 +149,6 @@ trojan://telegram-id-privatevpns@52.47.189.11:22222?security=tls&sni=trojan.burg
 vless://02d87d00-c769-48d8-91cb-bd05e2f62790@151.101.25.242:80?mode=auto&path=%2F&security=none&encryption=none&host=jetfr228.global.ssl.fastly.net&type=xhttp#France%200VH
 vless://0e90f352-e9bc-4834-8ff6-49ba887eded4@109.172.55.122:443/?type=tcp&encryption=none&flow=&security=tls&sni=b12a6eea4807ca4e.1323.world&alpn=h2&allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3AFR
 vless://0e90f352-e9bc-4834-8ff6-49ba887eded4@109.172.55.122:443?security=tls&type=tcp&sni=b12a6eea4807ca4e.1323.world&fp=chrome#%F0%9F%87%AB%F0%9F%87%B7%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E6%B3%95%E5%9B%BD%2001
-vless://0e90f352-e9bc-4834-8ff6-49ba887eded4@fr.1323.world:443?encryption=none&security=tls&sni=fr.1323.world&insecure=0&allowInsecure=0&type=tcp&headerType=none#FR%E3%80%90%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%EF%BC%9Ahttps%3A//a0a.xyz%E3%80%917
 vless://11beaf11-726d-4c11-8ce9-27308c1c608c@157.173.127.225:443?security=reality&encryption=none&pbk=v3EwzA9RIIh5Ndxm-gypRY6RCJhOpQ-2WO7KaH8nsC8&headerType=none&fp=random&type=tcp&sni=analytics.google.com&sid=eab26c4a32#REALITY|FR🇫🇷
 vless://11beaf11-726d-4c11-8ce9-27308c1c608c@157.173.127.225:443?type=tcp&encryption=none&flow=&sni=analytics.google.com&fp=chrome&security=reality&pbk=v3EwzA9RIIh5Ndxm-gypRY6RCJhOpQ-2WO7KaH8nsC8&sid=eab26c4a32#REALITY|FR🇫🇷
 vless://1949f066-bcb0-49be-88e9-74abd940f80e@51.75.30.8:80?path=/http&%3Bsecurity=none&%3Bencryption=none&%3Btype=ws#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20VLESS%20%7C%20%40merdesert%20%231
