@@ -90,8 +90,6 @@ ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@51.77.53.200:8882#%F0%9F%87%B5%F0%9F%8
 ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@51.77.53.200:4444#%F0%9F%87%B5%F0%9F%87%B1PL-51.77.53.200-1816
 ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@51.77.53.200:6379#%F0%9F%87%B5%F0%9F%87%B1PL-51.77.53.200-1815
 ss://c40601cb-64e9-4f16-91c6-e8cdbaf100af@193.57.137.228:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=wikimedia.org&fp=chrome&security=reality&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&sid=#%3E%3E%40oneclickvpnkeys%3A%3APL
-ss://da11d62c-1996-4d2c-b2e6-e89c7a1265e9@144.31.2.20:443?encryption=none&fp=chrome&security=tls&sni=plcdn18.suio.me&type=tcp#PL🇵🇱
-ss://da11d62c-1996-4d2c-b2e6-e89c7a1265e9@144.31.4.67:443?encryption=none&fp=chrome&security=tls&sni=plcdn14.suio.me&type=tcp#PL🇵🇱
 ss://da11d62c-1996-4d2c-b2e6-e89c7a1265e9@plcdn19.suio.me:443/?type=tcp&encryption=none&flow=&security=tls&sni=plcdn19.suio.me&allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3APL
 trojan://555034c8-6420-45d0-893c-905c02342150@51.83.186.142:443?security=tls&sni=pl1.trojanvh.xyz#%F0%9F%87%B5%F0%9F%87%B1PL-51.83.186.142-2580
 trojan://555034c8-6420-45d0-893c-905c02342150@51.83.186.142:80?security=tls&sni=pl1.trojanvh.xyz#%F0%9F%87%B5%F0%9F%87%B1PL-51.83.186.142-3609
@@ -106,8 +104,6 @@ vless://859b7d71-a9fc-4234-8e03-42eb876a170a@151.115.96.243:7242?type=tcp&encryp
 vless://96e05c60-cfe5-4365-9c41-b76ec30b4381@104.27.66.214:8443?path=%2Fdownload.php&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=chopin.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=chopin.adaspoloandco.com#%3E%3E%40configV2rayNG%3A%3APL
 vless://98cb33a8-d6f7-41f0-8796-e4b471d65df8@144.31.5.179:443?path=%2F&security=none&encryption=none&type=ws#PL🇵🇱
 vless://c40601cb-64e9-4f16-91c6-e8cdbaf100af@193.57.137.228:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=wikimedia.org&fp=chrome&security=reality&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&sid=#%3E%3E%40oneclickvpnkeys%3A%3APL
-vless://da11d62c-1996-4d2c-b2e6-e89c7a1265e9@144.31.2.20:443?encryption=none&fp=chrome&security=tls&sni=plcdn18.suio.me&type=tcp#PL🇵🇱
-vless://da11d62c-1996-4d2c-b2e6-e89c7a1265e9@144.31.4.67:443?encryption=none&fp=chrome&security=tls&sni=plcdn14.suio.me&type=tcp#PL🇵🇱
 vless://da11d62c-1996-4d2c-b2e6-e89c7a1265e9@plcdn19.suio.me:443/?type=tcp&encryption=none&flow=&security=tls&sni=plcdn19.suio.me&allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3APL
 vmess://ewogICAgImFkZCI6ICI1MS42OC4xMzkuMjIiLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICIiLAogICAgImlkIjogImM2NzQ0YzQ0LTRlYjctNDhkNS1hODc5LWExMDQ3NGUyYmEzNCIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi92bWVzcyIsCiAgICAicG9ydCI6IDgwLAogICAgInBzIjogIvCfh7Xwn4exUEwtNTEuNjguMTM5LjIyLTA0OTYiLAogICAgInRscyI6ICIiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IGZhbHNlLAogICAgInNuaSI6ICI1MS42OC4xMzkuMjIiCn0=
 vmess://ewogICAgImFkZCI6ICI1Ny4xMjguMjE2LjEyNSIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogImthbXBvbmcub3JnIiwKICAgICJpZCI6ICIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICJsaW5rdndzIiwKICAgICJwb3J0IjogNDQzLAogICAgInBzIjogIvCfh7Xwn4exUEwtNTcuMTI4LjIxNi4xMjUtNzA0OSIsCiAgICAidGxzIjogInRscyIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogZmFsc2UsCiAgICAic25pIjogImthbXBvbmcub3JnIgp9
