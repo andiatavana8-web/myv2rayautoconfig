@@ -26,6 +26,7 @@ ss://25efc727-e853-49ba-9609-3c20009d0e7a@104.18.13.229:2052?path=%2F%3Fed%3D256
 ss://27b6068a-e1e6-4675-ab14-87143c690390@144.217.133.97:30238?security=&encryption=none&headerType=none&type=tcp#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%A6
 ss://2a9ed01e-5455-44b4-a66a-76ee8165f0ac@77.73.232.61:19747?security=reality&encryption=none&pbk=ZO9dTeg1slvTXgVsBsaJ1BDvz_YUImTLJjbHs-GdVyM&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=2001#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%B0%F0%9F%87%BF
 ss://2a9ed01e-5455-44b4-a66a-76ee8165f0ac@77.73.232.61:19747?security=reality&encryption=none&pbk=ZO9dTeg1slvTXgVsBsaJ1BDvz_YUImTLJjbHs-GdVyM&host=%2F&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=2001#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%B0%F0%9F%87%BF
+ss://2eb21886-4218-44fb-b156-d1daffb77769@H2.FASTSPEEDS.IR:2087?mode=multi&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&fp=chrome&type=grpc&serviceName=vless&allowInsecure=0&sni=REDULF2F.liTuKa.Ir#ID
 ss://3231c3ed-fa7c-4826-9885-b335ea3aee4c@45.144.214.82:4655?security=&encryption=none&headerType=none&type=tcp#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%B9%F0%9F%87%B7
 ss://3238e861-cfd2-4ebf-d325-2bd8100cf63e@glob.thisiswe.uno:2083?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=1&host=jamal.thisiswe.uno&fp=chrome&type=ws&allowInsecure=1&sni=jamal.thisiswe.uno#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%B8%F0%9F%87%A8
 ss://33e1a095-1e25-4198-bfe7-ec312e4f98ee@nodejs.org:80?path=%2F%3Fed&security=&encryption=none&host=CREDibLe-pLaNt7ddV4jJ7et.OnEeaT.CO.&type=ws#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%A6
@@ -162,6 +163,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSenZZS19ZWHNSalFYZDAyQ2Ffd0pjWnBSNEs3dVBZWg@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTU21mbDRUcTFyUmxCN2JvRFkzamx0@94.131.123.86:35361#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%B9%F0%9F%87%B7
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@admin.c1.webramz.co:443#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%AC%F0%9F%87%A7
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%AC%F0%9F%87%A7
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#ID
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a2.samanehha.co:443#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%AC%F0%9F%87%A7
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYTjZYZjBacXdEZUZydDM5VFFyYWVu@45.80.231.75:31019#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%B8%F0%9F%87%AA
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpad2V1WGF2am92dWh6dDFBRjBkNnF4@46.246.97.140:53908#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%B8%F0%9F%87%AA
@@ -325,6 +327,7 @@ vless://25efc727-e853-49ba-9609-3c20009d0e7a@104.18.13.229:2052?path=%2F%3Fed%3D
 vless://27b6068a-e1e6-4675-ab14-87143c690390@144.217.133.97:30238?security=&encryption=none&headerType=none&type=tcp#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%A6
 vless://2a9ed01e-5455-44b4-a66a-76ee8165f0ac@77.73.232.61:19747?security=reality&encryption=none&pbk=ZO9dTeg1slvTXgVsBsaJ1BDvz_YUImTLJjbHs-GdVyM&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=2001#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%B0%F0%9F%87%BF
 vless://2a9ed01e-5455-44b4-a66a-76ee8165f0ac@77.73.232.61:19747?security=reality&encryption=none&pbk=ZO9dTeg1slvTXgVsBsaJ1BDvz_YUImTLJjbHs-GdVyM&host=%2F&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=2001#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%B0%F0%9F%87%BF
+vless://2eb21886-4218-44fb-b156-d1daffb77769@H2.FASTSPEEDS.IR:2087?mode=multi&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&fp=chrome&type=grpc&serviceName=vless&allowInsecure=0&sni=REDULF2F.liTuKa.Ir#ID
 vless://3231c3ed-fa7c-4826-9885-b335ea3aee4c@45.144.214.82:4655?security=&encryption=none&headerType=none&type=tcp#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%B9%F0%9F%87%B7
 vless://3238e861-cfd2-4ebf-d325-2bd8100cf63e@glob.thisiswe.uno:2083?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=1&host=jamal.thisiswe.uno&fp=chrome&type=ws&allowInsecure=1&sni=jamal.thisiswe.uno#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%B8%F0%9F%87%A8
 vless://33e1a095-1e25-4198-bfe7-ec312e4f98ee@nodejs.org:80?path=%2F%3Fed&security=&encryption=none&host=CREDibLe-pLaNt7ddV4jJ7et.OnEeaT.CO.&type=ws#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%A6
