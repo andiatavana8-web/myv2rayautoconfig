@@ -75,13 +75,14 @@ ss://8e6acce9-8b56-7190-d491-7d84f8189e26@5.181.171.2:443?security=reality&encry
 ss://92a061bb-3caf-48ff-a136-5224aff84ec8@95.215.108.107:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=9bB69gZcGJXdqBoU8uivsR1ELbh0csMYa6H8oFA8YSs&sid=f76d69bd25&sni=us8.fasssst.ru#REALITY|RU🇷🇺
 ss://93961d050c164d01aa96cc07522338d9@145.249.109.121:8443?encryption=none&type=xhttp&path=%2Fx&security=reality&sni=m.vk.com&pbk=7FAbz_eJ_ip4pK0GCGrx8chOMAbxHW8mieBRuv4CR0k&sid=aabbccdd&fp=random#REALITY|RU🇷🇺
 ss://97138143-cf37-59a9-9c0f-94290ce5904d@5.129.249.134:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ir.ozone.ru&fp=chrome&security=reality&pbk=F14RpPKCKo_qPcW7EFVu1M18JsAT8c04O08cIi0Ghg4&sid=ab1cd2#REALITY|RU🇷🇺
+ss://9754b2d7-7772-473e-93f7-a2dadd08782b@193.233.231.221:443/?type=grpc&encryption=none&flow=&serviceName=xyz&sni=eh.vk.ru&fp=chrome&security=reality&pbk=wSQIBnAc0cYO9JitaNcgZ2LwkTix0_dXVpDjnZxDrCE&sid=6ba85179e30d4fc2#👉🆔@v2ray_configs_pool📡🇷🇺®️Russia©️Moscow🅿️ping:55ms
 ss://9a5a05ac-2f77-494c-9ede-e1d594893d5d@51.250.117.173:4443?encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=ef9Xx816A-obDKokFDIV5acO4E8A23MErXdh5ki4wj4&security=reality&sid=63d703b12f253ffb&sni=ads.x5.ru&type=tcp#REALITY|RU🇷🇺
 ss://9f281d4d-1a02-4eb1-a6cc-d9391d3074fb@213.159.76.238:8080?security=none&sni=213.159.76.238&type=ws&host=213.159.76.238&path=%2Fvless#%F0%9F%87%B7%F0%9F%87%BA_RU_%E4%BF%84%E7%BD%97%E6%96%AF
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0dmYxeHdZcFdWODVTRHV1enJuUTBs@212.192.14.227:56686#RU%F0%9F%87%B7%F0%9F%87%BA+%7C+212.192.14.227-56686+%7C+182.3ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1eTVjd3JDUjhJdW41bmxNU0ZTOHVK@95.142.47.40:62238#RU%F0%9F%87%B7%F0%9F%87%BA+%7C+95.142.47.40-62238+%7C+195.1ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2YVJNMVUyUUl1MVVrcllJRHRHZUR5@77.91.123.173:18332#%F0%9F%87%B7%F0%9F%87%BA_RU_%E4%BF%84%E7%BD%97%E6%96%AF
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyZnd1Zk9tSjlFTGZONHVtemNIQmZWQDE5NC44Ny44Mi4yODoxMjIyNA==#%F0%9F%87%B7%F0%9F%87%BA_RU_%E4%BF%84%E7%BD%97%E6%96%AF
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNlpDSGVhYlVTZktqZlFFdko0SERW@185.242.86.156:54170#%F0%9F%87%B7%F0%9F%87%BARU%E4%BF%84%E7%BD%97%E6%96%AF3
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNlpDSGVhYlVTZktqZlFFdko0SERW@185.242.86.156:54170#%F0%9F%87%B7%F0%9F%87%BARU%E4%BF%84%E7%BD%97%E6%96%AF2
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2WTBwV3VPSkRkSVZ1NU9mcWVsa240@145.249.109.14:60245#RU%F0%9F%87%B7%F0%9F%87%BA+%7C+145.249.109.14-60245+%7C+171.51ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3azZsQTRYUm5FV2ZFbkRyZG0wTlk2@145.249.109.144:15544#RU%F0%9F%87%B7%F0%9F%87%BA+%7C+145.249.109.144-15544+%7C+167.85ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCNE5va2ozWXFmdGE2dFdxdW02cjhrQDQ2LjI5LjIzOC44MzoyODc2OA==#%F0%9F%87%B7%F0%9F%87%BA_RU_%E4%BF%84%E7%BD%97%E6%96%AF
@@ -94,7 +95,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPdzhpU0V4UU5hb2JaUFk5Yko0RVBJ@212.192.14.234
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPdzhpU0V4UU5hb2JaUFk5Yko0RVBJ@212.192.14.234:24441#RU%F0%9F%87%B7%F0%9F%87%BA+%7C+212.192.14.234-24441+%7C+194.18ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUZktTS2V2YURYSG52TnpDeVVVc01v@212.192.14.221:24548#RU%F0%9F%87%B7%F0%9F%87%BA+%7C+212.192.14.221-24548+%7C+178.79ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWN2ptc0E2UFFzTG4=@146.185.198.44:444#%F0%9F%87%B7%F0%9F%87%BARU-146.185.198.44-8745
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWQ0ZBazdIYzhGSTI3a0hhdktBZkpwYW15@176.123.168.79:42095#%F0%9F%87%B7%F0%9F%87%BARU%E4%BF%84%E7%BD%97%E6%96%AF2
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWQ0ZBazdIYzhGSTI3a0hhdktBZkpwYW15@basic-ru-0.undef.network:42095#%F0%9F%87%B7%F0%9F%87%BARU-176.123.168.79-4864
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWREp2ZnNONmgtZ1YzOHE5Y2h2dFBhQkh2YzlxdFdHZg%3D%3D@45.9.75.37:8000#%3E%3E%40ShadowSocks_s%3A%3ARU
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWREp2ZnNONmgtZ1YzOHE5Y2h2dFBhQkh2YzlxdFdHZg==@45.9.75.37:8000#RU%F0%9F%87%B7%F0%9F%87%BA+%7C+45.9.75.37-8000+%7C+191.2ms
@@ -150,7 +150,6 @@ ss://be66c8de-41f5-465b-a417-37d56547d0c3@ny.us.srv.oplcdn.link:8443?security=re
 ss://c40601cb-64e9-4f16-91c6-e8cdbaf100af@193.57.137.228:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=wikimedia.org&fp=chrome&security=reality&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&sid=#REALITY|RU🇷🇺
 ss://c4d9855b-7eac-44ab-a8a5-d811f371df1b@51.250.83.255:443?flow=xtls-rprx-vision&fp=qq&packetEncoding=xudp&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&security=reality&sid=048fe5c8be4bb687&sni=api-maps.yandex.ru&type=tcp#REALITY|RU🇷🇺
 ss://c4d9855b7eac44aba8a5d811f371df1bOg==@51.250.83.255:443#REALITY%7CRU%F0%9F%87%B7%F0%9F%87%BA+%7C+51.250.83.255-443+%7C+183.53ms
-ss://c501c66b-c6c2-456b-b604-80393b83d67f@37.139.35.53:8443/?type=grpc&encryption=none&flow=&serviceName=UpdateService&sni=sso.passport.yandex.ru&fp=chrome&security=reality&pbk=oWi1Dm7iMdTGeh-BI8rwKcnIaqeG2zF874NrSpPEPlI&sid=77cf23bd7f73c97a#RU🇷🇺
 ss://c915a857-a088-4292-b182-25cb30507275@130.193.59.133:8443?security=reality&encryption=none&pbk=_CjW0Khlrr5z5oc9Oy6-w2ZEanz-zMBktVn5EOX9oTM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yandex.ru&sid=4ffc99daad0f261f#REALITY|RU🇷🇺
 ss://cf95b75d-69fc-4a32-a0f8-8fc21c66a6e4@83.166.255.72:443?type=grpc&encryption=none&flow=&sni=api-maps.yandex.ru&fp=chrome&security=reality&pbk=zkeQCEkz7LlrzwzeG26Ae_HEk3_QlgM9CbiWJx5iWh0&sid=#REALITY|RU🇷🇺
 ss://d2de6d6d-4735-4fe3-b4b6-00a81ced69f5@youtube.happvpn.com:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=cdnjs.com&fp=chrome&security=reality&pbk=MNTWCLyV7EquFn-J0a6KRlQZ0dt6QY5mmu7Dq8uDkxw&sid=4c02bbbfa833b3b6#REALITY|RU🇷🇺
@@ -165,7 +164,6 @@ ss://ea808221-bb62-4a92-a6a9-f1941fe5d2d1@ru.connectv.net:443?security=reality&e
 ss://eb4234b2-8083-4038-af1d-ae752b4ad6d4@37.139.33.57:8443?security=reality&encryption=none&pbk=_CjW0Khlrr5z5oc9Oy6-w2ZEanz-zMBktVn5EOX9oTM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=m.vk.ru&sid=6419bed7fd0a2cff#REALITY|RU🇷🇺
 ss://f1e74548-4c0b-463b-b68d-0d1ec48c965d@45.12.114.73:8443/?type=ws&encryption=none&flow=&host=rus21.unboundworld.org&path=%2Fws-vless%2F&security=tls&sni=rus21.unboundworld.org&allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3ARU
 ss://f23dd209-5f9a-4e82-b975-38b32df69e86@62.84.119.10:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=yandex.ru&fp=chrome&security=reality&pbk=36hklag_tQNTa-asdzniCl22p3f5jgPK7RsMOBckpkc&sid=02468ace13579bdf#REALITY|RU🇷🇺
-ss://f5a8e5fb-baa8-48cb-a62a-930c97c29eb2@87.242.103.184:443?mode=gun&security=reality&encryption=none&pbk=98aKRSTSW_8Fpd8e63HOuqLhnlGvZrTD5EBPTMy0tBc&fp=chrome&type=grpc&sni=ya.ru&sid=7dcd0c337708#RU🇷🇺
 ss://f6c86505-cd45-5204-a214-f2e85d06b8e4@185.109.21.201:80?security=none&type=ws&host=cd1e4.olielielie.store.&path=%2Fvless%23t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro%3Fed%3D2048#%F0%9F%87%B7%F0%9F%87%BA_RU_%E4%BF%84%E7%BD%97%E6%96%AF
 ss://f831dbe0-2e90-4b0f-8150-2b21d9baae3f@79.137.175.56:8443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=m.vk.ru&fp=chrome&security=reality&pbk=Qddpg8luihgzgx4g4uMJklXzlrMCd8L1igJSWrRUvSc&sid=887c0d72e771a934#REALITY|RU🇷🇺
 ss://fd058cd3-55fa-43ce-a634-1920b7d12c45@104.128.134.181:34816/?type=tcp&encryption=none&flow=#%3E%3E%40oneclickvpnkeys%3A%3ARU
@@ -173,7 +171,8 @@ ss://mega1346@5.129.249.134:443?encryption=none&flow=xtls-rprx-vision&security=r
 ss://mega1698@5.129.249.134:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ir.ozone.ru&fp=chrome&pbk=F14RpPKCKo_qPcW7EFVu1M18JsAT8c04O08cIi0Ghg4&sid=ab1cd2&type=tcp&headerType=none#REALITY|RU🇷🇺
 ss://mega2499@5.129.249.134:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ir.ozone.ru&fp=chrome&security=reality&pbk=F14RpPKCKo_qPcW7EFVu1M18JsAT8c04O08cIi0Ghg4&sid=ab1cd2#REALITY|RU🇷🇺
 trojan://750a29bf-0a40-437f-b120-38de74ae7eaf@45.88.148.234:28443?security=tls#%F0%9F%87%B7%F0%9F%87%BARU-45.88.148.234-2723
-trojan://ZblhWr0mqMakCPg.N@212.193.18.144:36158?sni=ya.ru#%F0%9F%87%B7%F0%9F%87%BARU%E4%BF%84%E7%BD%97%E6%96%AF
+trojan://ZblhWr0mqMakCPg.N@212.193.18.144:36158?security=tls&sni=ya.ru#%E4%BF%84%E7%BD%97%E6%96%AF+V2CROSS.COM
+trojan://ZblhWr0mqMakCPg.N@212.193.18.144:36158?security=tls&sni=ya.ru#%F0%9F%87%B7%F0%9F%87%BARU%E4%BF%84%E7%BD%97%E6%96%AF
 trojan://a1b16d10-4f43-4dd9-8c4f-52065b2b0910@45.88.148.237:28443?security=tls&sni=sbank.ir#%F0%9F%87%B7%F0%9F%87%BARU-45.88.148.237-2221
 trojan://ba74833c-8c0f-4dcd-8cbc-13e3c32d3765@185.236.233.111:2053?sni=ftp.debian.org#%F0%9F%87%B7%F0%9F%87%BA_RU_%E4%BF%84%E7%BD%97%E6%96%AF%E8%81%94%E9%82%A6_3
 trojan://telegram-id-directvpn@51.21.138.5:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#%F0%9F%87%AC%F0%9F%87%A7_GB_%E8%8B%B1%E5%9B%BD-%3E%F0%9F%87%B7%F0%9F%87%BA_RU_%E4%BF%84%E7%BD%97%E6%96%AF
@@ -271,7 +270,6 @@ vless://bace8139-2adc-48ed-ace5-a2cc9720e31d@89.169.162.214:443?type=tcp&encrypt
 vless://be66c8de-41f5-465b-a417-37d56547d0c3@ny.us.srv.oplcdn.link:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ign.com&sid=6ba85179e30d4fc2#REALITY|RU🇷🇺
 vless://c40601cb-64e9-4f16-91c6-e8cdbaf100af@193.57.137.228:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=wikimedia.org&fp=chrome&security=reality&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&sid=#REALITY|RU🇷🇺
 vless://c4d9855b-7eac-44ab-a8a5-d811f371df1b@51.250.83.255:443?flow=xtls-rprx-vision&fp=qq&packetEncoding=xudp&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&security=reality&sid=048fe5c8be4bb687&sni=api-maps.yandex.ru&type=tcp#REALITY|RU🇷🇺
-vless://c501c66b-c6c2-456b-b604-80393b83d67f@37.139.35.53:8443/?type=grpc&encryption=none&flow=&serviceName=UpdateService&sni=sso.passport.yandex.ru&fp=chrome&security=reality&pbk=oWi1Dm7iMdTGeh-BI8rwKcnIaqeG2zF874NrSpPEPlI&sid=77cf23bd7f73c97a#RU🇷🇺
 vless://c915a857-a088-4292-b182-25cb30507275@130.193.59.133:8443?security=reality&encryption=none&pbk=_CjW0Khlrr5z5oc9Oy6-w2ZEanz-zMBktVn5EOX9oTM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yandex.ru&sid=4ffc99daad0f261f#REALITY|RU🇷🇺
 vless://cf95b75d-69fc-4a32-a0f8-8fc21c66a6e4@83.166.255.72:443?type=grpc&encryption=none&flow=&sni=api-maps.yandex.ru&fp=chrome&security=reality&pbk=zkeQCEkz7LlrzwzeG26Ae_HEk3_QlgM9CbiWJx5iWh0&sid=#REALITY|RU🇷🇺
 vless://d2de6d6d-4735-4fe3-b4b6-00a81ced69f5@youtube.happvpn.com:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=cdnjs.com&fp=chrome&security=reality&pbk=MNTWCLyV7EquFn-J0a6KRlQZ0dt6QY5mmu7Dq8uDkxw&sid=4c02bbbfa833b3b6#REALITY|RU🇷🇺
@@ -286,7 +284,6 @@ vless://ea808221-bb62-4a92-a6a9-f1941fe5d2d1@ru.connectv.net:443?security=realit
 vless://eb4234b2-8083-4038-af1d-ae752b4ad6d4@37.139.33.57:8443?security=reality&encryption=none&pbk=_CjW0Khlrr5z5oc9Oy6-w2ZEanz-zMBktVn5EOX9oTM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=m.vk.ru&sid=6419bed7fd0a2cff#REALITY|RU🇷🇺
 vless://f1e74548-4c0b-463b-b68d-0d1ec48c965d@45.12.114.73:8443/?type=ws&encryption=none&flow=&host=rus21.unboundworld.org&path=%2Fws-vless%2F&security=tls&sni=rus21.unboundworld.org&allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3ARU
 vless://f23dd209-5f9a-4e82-b975-38b32df69e86@62.84.119.10:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=yandex.ru&fp=chrome&security=reality&pbk=36hklag_tQNTa-asdzniCl22p3f5jgPK7RsMOBckpkc&sid=02468ace13579bdf#REALITY|RU🇷🇺
-vless://f5a8e5fb-baa8-48cb-a62a-930c97c29eb2@87.242.103.184:443?mode=gun&security=reality&encryption=none&pbk=98aKRSTSW_8Fpd8e63HOuqLhnlGvZrTD5EBPTMy0tBc&fp=chrome&type=grpc&sni=ya.ru&sid=7dcd0c337708#RU🇷🇺
 vless://f6c86505-cd45-5204-a214-f2e85d06b8e4@185.109.21.201:80?security=none&type=ws&host=cd1e4.olielielie.store.&path=%2Fvless%23t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro%3Fed%3D2048#%F0%9F%87%B7%F0%9F%87%BA_RU_%E4%BF%84%E7%BD%97%E6%96%AF
 vless://f831dbe0-2e90-4b0f-8150-2b21d9baae3f@79.137.175.56:8443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=m.vk.ru&fp=chrome&security=reality&pbk=Qddpg8luihgzgx4g4uMJklXzlrMCd8L1igJSWrRUvSc&sid=887c0d72e771a934#REALITY|RU🇷🇺
 vless://fd058cd3-55fa-43ce-a634-1920b7d12c45@104.128.134.181:34816/?type=tcp&encryption=none&flow=#%3E%3E%40oneclickvpnkeys%3A%3ARU
