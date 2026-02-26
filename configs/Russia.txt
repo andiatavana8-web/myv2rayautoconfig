@@ -151,6 +151,7 @@ ss://d2de6d6d-4735-4fe3-b4b6-00a81ced69f5@youtube.happvpn.com:443?type=tcp&encry
 ss://d5e50e54-aade-445d-b8c5-4c14e0513ef1@94.141.96.125:7355?security=none&type=tcp#%F0%9F%87%B7%F0%9F%87%BA_RU_%E4%BF%84%E7%BD%97%E6%96%AF
 ss://d7adab30-f6e4-46fe-ad43-9227625ab4f5@node2-ru.web-davinci.ru:33107?security=reality&encryption=none&pbk=chTt0lPq848zhBQy_-6pFzWWfta1bpVAiwcJExfUrkM&host=download.cdn.yandex.net&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=download.cdn.yandex.net&sid=8c32#REALITY|RU🇷🇺
 ss://d7dbeb1e-268c-465c-8f59-489f14703efd@5.182.36.251:16331?security=reality&encryption=none&pbk=wYtc0dMr5fw5bBQkbLNpTqtu0m4B9NKnOyEWjRJUmzk&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=910aab#REALITY|RU🇷🇺
+ss://dbd609a8-f735-48a7-b64e-bd321fe1e52c@ruwl-svowl-1.blook.network:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=1LJ7JKcGBPqcXQMg7yQSXf66djP0y5svY1zCR5Q4PUE&sid=95826c08&sni=vk.com&spx=/#👉🆔@v2ray_configs_pool📡🇷🇺®️Russia©️Moscow🅿️ping:69.27ms
 ss://e384913f-8863-47b4-8858-a84b68abb4a6@4.cdnconn.com:23335/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=icloud.com&fp=chrome&security=reality&pbk=7Gi8eiUU9TIVbGuvSU16gl5-Aqt7tcCSB9x6CSxyvik&sid=67b1e94e4dd1ef90#%3E%3E%40oneclickvpnkeys%3A%3ARU
 ss://e5bd3d75-06b3-490e-9651-930b1dc29cdb@45.145.163.115:39771?security=reality&encryption=none&pbk=GMnXK7wz7qTo_IFmPy--pQcODPhYJG_CLaY2Sh4fTCI&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=yahoo.com&sid=33f2#REALITY|RU🇷🇺
 ss://ea808221-bb62-4a92-a6a9-f1941fe5d2d1@ru.connectv.net:443?security=reality&encryption=none&pbk=vegx20Xc9XIkr8nfdEB7LZnficXNURVnDbB8_ND97Dw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ru.connectv.net#REALITY|RU🇷🇺
@@ -162,7 +163,6 @@ ss://mega1346@5.129.249.134:443?encryption=none&flow=xtls-rprx-vision&security=r
 ss://mega1698@5.129.249.134:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ir.ozone.ru&fp=chrome&pbk=F14RpPKCKo_qPcW7EFVu1M18JsAT8c04O08cIi0Ghg4&sid=ab1cd2&type=tcp&headerType=none#REALITY|RU🇷🇺
 ss://mega2499@5.129.249.134:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ir.ozone.ru&fp=chrome&security=reality&pbk=F14RpPKCKo_qPcW7EFVu1M18JsAT8c04O08cIi0Ghg4&sid=ab1cd2#REALITY|RU🇷🇺
 trojan://750a29bf-0a40-437f-b120-38de74ae7eaf@45.88.148.234:28443?security=tls#%F0%9F%87%B7%F0%9F%87%BARU-45.88.148.234-2723
-trojan://ZblhWr0mqMakCPg.N@212.193.18.144:36158?allowInsecure=0&sni=ya.ru#%F0%9F%87%B7%F0%9F%87%BA%20%E4%BF%84%E7%BD%97%E6%96%AF%20V2CROSS.COM
 trojan://ZblhWr0mqMakCPg.N@212.193.18.144:36158?sni=ya.ru#%F0%9F%87%B7%F0%9F%87%BARU%E4%BF%84%E7%BD%97%E6%96%AF
 trojan://a1b16d10-4f43-4dd9-8c4f-52065b2b0910@45.88.148.237:28443?security=tls&sni=sbank.ir#%F0%9F%87%B7%F0%9F%87%BARU-45.88.148.237-2221
 trojan://ba74833c-8c0f-4dcd-8cbc-13e3c32d3765@185.236.233.111:2053?sni=ftp.debian.org#%F0%9F%87%B7%F0%9F%87%BA_RU_%E4%BF%84%E7%BD%97%E6%96%AF%E8%81%94%E9%82%A6_3
@@ -265,6 +265,7 @@ vless://d2de6d6d-4735-4fe3-b4b6-00a81ced69f5@youtube.happvpn.com:443?type=tcp&en
 vless://d5e50e54-aade-445d-b8c5-4c14e0513ef1@94.141.96.125:7355?security=none&type=tcp#%F0%9F%87%B7%F0%9F%87%BA_RU_%E4%BF%84%E7%BD%97%E6%96%AF
 vless://d7adab30-f6e4-46fe-ad43-9227625ab4f5@node2-ru.web-davinci.ru:33107?security=reality&encryption=none&pbk=chTt0lPq848zhBQy_-6pFzWWfta1bpVAiwcJExfUrkM&host=download.cdn.yandex.net&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=download.cdn.yandex.net&sid=8c32#REALITY|RU🇷🇺
 vless://d7dbeb1e-268c-465c-8f59-489f14703efd@5.182.36.251:16331?security=reality&encryption=none&pbk=wYtc0dMr5fw5bBQkbLNpTqtu0m4B9NKnOyEWjRJUmzk&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=910aab#REALITY|RU🇷🇺
+vless://dbd609a8-f735-48a7-b64e-bd321fe1e52c@ruwl-svowl-1.blook.network:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=1LJ7JKcGBPqcXQMg7yQSXf66djP0y5svY1zCR5Q4PUE&sid=95826c08&sni=vk.com&spx=/#👉🆔@v2ray_configs_pool📡🇷🇺®️Russia©️Moscow🅿️ping:69.27ms
 vless://e384913f-8863-47b4-8858-a84b68abb4a6@4.cdnconn.com:23335/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=icloud.com&fp=chrome&security=reality&pbk=7Gi8eiUU9TIVbGuvSU16gl5-Aqt7tcCSB9x6CSxyvik&sid=67b1e94e4dd1ef90#%3E%3E%40oneclickvpnkeys%3A%3ARU
 vless://e5bd3d75-06b3-490e-9651-930b1dc29cdb@45.145.163.115:39771?security=reality&encryption=none&pbk=GMnXK7wz7qTo_IFmPy--pQcODPhYJG_CLaY2Sh4fTCI&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=yahoo.com&sid=33f2#REALITY|RU🇷🇺
 vless://ea808221-bb62-4a92-a6a9-f1941fe5d2d1@ru.connectv.net:443?security=reality&encryption=none&pbk=vegx20Xc9XIkr8nfdEB7LZnficXNURVnDbB8_ND97Dw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ru.connectv.net#REALITY|RU🇷🇺
