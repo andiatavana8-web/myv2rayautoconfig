@@ -122,7 +122,6 @@ ss://YWVzLTI1Ni1jZmI6UzdLd1V1N3lCeTU4UzNHYQ==@45.89.52.66:9042#%F0%9F%87%B7%F0%9
 ss://YWVzLTI1Ni1jZmI6VE4yWXFnaHhlRkRLWmZMVQ==@45.89.52.66:9037#%F0%9F%87%B7%F0%9F%87%BARU-45.89.52.66-8147
 ss://YWVzLTI1Ni1jZmI6VTZxbllSaGZ5RG1uOHNnbg==@45.89.52.66:9041#%F0%9F%87%B7%F0%9F%87%BARU-45.89.52.66-8145
 ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@31.172.67.43:443#%F0%9F%87%B7%F0%9F%87%BARU-31.172.67.43-8223
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@38.60.223.8:989#%F0%9F%87%B7%F0%9F%87%BARU-38.60.223.8-0276
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@38.60.223.8:989#%F0%9F%87%B7%F0%9F%87%BARU-38.60.223.8-0302
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@92.223.109.126:989#%F0%9F%87%B7%F0%9F%87%BARU-92.223.109.126-3767
 ss://YWVzLTI1Ni1jZmI6cDl6NUJWQURIMllGczNNTg==@45.89.52.66:9040#%F0%9F%87%B7%F0%9F%87%BARU-45.89.52.66-8146
@@ -135,7 +134,6 @@ ss://a88ea8bf-7001-4e29-a9bb-379f6778195c@free.joserv.online:443?security=realit
 ss://aa33c2f4-46bc-4818-bf50-723a1e8d33d0@79.137.175.44:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=m.vk.ru&fp=chrome&security=reality&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&sid=04bf0403f96e5b4b#REALITY|RU🇷🇺
 ss://b3203210-2e42-468a-ad7d-5da9b9a1bac4@212.192.14.250:64527?security=reality&encryption=none&pbk=wAKyTOUr89tJU2pVUVrwt0dAsxmNfRHXhPQ3IvyGshc&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=yandex.ru&sid=56abcac460c7c6ca#REALITY|RU🇷🇺
 ss://b9571cb5fcc541e99a36a4ad8bdf70f6@94.103.89.223:8443?encryption=none&type=xhttp&path=%2Fx&security=reality&sni=ya.ru&pbk=9XS6MeMlQBh4qCT1dhavAwGPKsWQGSyrSH_xHwotw0k&sid=aabbccdd&fp=random#REALITY|RU🇷🇺
-ss://b9a3bffe-04a3-4ec4-8cc6-4cd2cdc96ec2@79.137.174.199:8443?security=reality&encryption=none&pbk=AnxWLJuRRDt5_RtfvKhd11toTA2qsPATu2sBKsryWSU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=fe1bba2e#RU🇷🇺
 ss://ba9ddd0d-5ffd-4d40-b76d-df32ecb092a1@dostupbypass1.suio.me:443?security=reality&encryption=none&pbk=5bGFIWSo4vlrd9Tv1yFcpdpSjrjYYN20SOWHYfighHc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&sid=abde0809#REALITY|RU🇷🇺
 ss://c501c66b-c6c2-456b-b604-80393b83d67f@37.139.35.53:443?mode=gun&%3Bsecurity=reality&%3Bencryption=none&%3Bpbk=_oEGDYSSHrqmbHEUoHbp6YnmNTcXTVdWXcDmpi3JdH0&%3Bfp=chrome&%3Btype=grpc&%3BserviceName=UpdateService&%3Bsni=eh.vk.com&%3Bsid=aefbcf7fc283bd55#%F0%9F%87%B7%F0%9F%87%BA%20RU%20%7C%20VLESS%20%7C%20%40mtproxy22_v2ray%20%231
 ss://c501c66b-c6c2-456b-b604-80393b83d67f@37.139.35.53:8443?type=grpc&encryption=none&flow=&serviceName=UpdateService&sni=sso.passport.yandex.ru&fp=chrome&security=reality&pbk=oWi1Dm7iMdTGeh-BI8rwKcnIaqeG2zF874NrSpPEPlI&sid=77cf23bd7f73c97a#REALITY|RU🇷🇺
@@ -249,7 +247,6 @@ vless://a88ea8bf-7001-4e29-a9bb-379f6778195c@free.joserv.online:443?security=rea
 vless://aa33c2f4-46bc-4818-bf50-723a1e8d33d0@79.137.175.44:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=m.vk.ru&fp=chrome&security=reality&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&sid=04bf0403f96e5b4b#REALITY|RU🇷🇺
 vless://b3203210-2e42-468a-ad7d-5da9b9a1bac4@212.192.14.250:64527?security=reality&encryption=none&pbk=wAKyTOUr89tJU2pVUVrwt0dAsxmNfRHXhPQ3IvyGshc&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=yandex.ru&sid=56abcac460c7c6ca#REALITY|RU🇷🇺
 vless://b9571cb5fcc541e99a36a4ad8bdf70f6@94.103.89.223:8443?encryption=none&type=xhttp&path=%2Fx&security=reality&sni=ya.ru&pbk=9XS6MeMlQBh4qCT1dhavAwGPKsWQGSyrSH_xHwotw0k&sid=aabbccdd&fp=random#REALITY|RU🇷🇺
-vless://b9a3bffe-04a3-4ec4-8cc6-4cd2cdc96ec2@79.137.174.199:8443?security=reality&encryption=none&pbk=AnxWLJuRRDt5_RtfvKhd11toTA2qsPATu2sBKsryWSU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=fe1bba2e#RU🇷🇺
 vless://ba9ddd0d-5ffd-4d40-b76d-df32ecb092a1@dostupbypass1.suio.me:443?security=reality&encryption=none&pbk=5bGFIWSo4vlrd9Tv1yFcpdpSjrjYYN20SOWHYfighHc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&sid=abde0809#REALITY|RU🇷🇺
 vless://c501c66b-c6c2-456b-b604-80393b83d67f@37.139.35.53:443?mode=gun&%3Bsecurity=reality&%3Bencryption=none&%3Bpbk=_oEGDYSSHrqmbHEUoHbp6YnmNTcXTVdWXcDmpi3JdH0&%3Bfp=chrome&%3Btype=grpc&%3BserviceName=UpdateService&%3Bsni=eh.vk.com&%3Bsid=aefbcf7fc283bd55#%F0%9F%87%B7%F0%9F%87%BA%20RU%20%7C%20VLESS%20%7C%20%40mtproxy22_v2ray%20%231
 vless://c501c66b-c6c2-456b-b604-80393b83d67f@37.139.35.53:8443?type=grpc&encryption=none&flow=&serviceName=UpdateService&sni=sso.passport.yandex.ru&fp=chrome&security=reality&pbk=oWi1Dm7iMdTGeh-BI8rwKcnIaqeG2zF874NrSpPEPlI&sid=77cf23bd7f73c97a#REALITY|RU🇷🇺
