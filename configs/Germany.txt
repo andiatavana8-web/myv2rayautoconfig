@@ -72,6 +72,7 @@ ss://405f0726-89dc-6729-5bd6-a1464e61b6ea@www.vinatech.ir:8880?encryption=none&s
 ss://4414fd58-952b-4c7e-bb1d-f75f76d1c752@172.236.234.120:443?type=xhttp&path=/&host=&mode=stream-one&security=none#Germany
 ss://444e6db5-e9b5-4407-a65f-e89b93ed3d71@95.128.157.251:24129?security=reality&encryption=none&pbk=J1HIxQSniHBlaSUXTLTWyUUpiaeyE8MWmA2evyFZbFQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=vt-1.ozone.ru&sid=a79ee9d365da7d81#REALITY|DE🇩🇪
 ss://45e3b7ad-03b6-42fc-b616-1e92bdd0a5b3@136.243.79.227:443?security=reality&encryption=none&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&sid=86e999a2cdc2#REALITY|DE🇩🇪
+ss://47c6b2b7-a8bd-4abf-910f-270008fcdbb3@vip-82.f-sub.cfd:1517?security=none&encryption=none&host=testspeed-foreign.tci.ir&headerType=http&type=tcp#👉🆔@v2ray_configs_pool📡🇩🇪®️Germany©️Nuremberg🅿️ping:50.09ms
 ss://48735946-f706-4873-b9b6-d9f0255475cc@85.9.206.79:443?security=reality&encryption=none&pbk=QYWJdS4JDdSmQKeMkJfPshFuz0bC3jhm9yW3uJfQFmw&headerType=none&fp=chrome&type=tcp&sni=www.refersion.com&sid=b4#REALITY|DE🇩🇪
 ss://48ff2b70-e180-582f-8866-d9a2edeed5f5@57.129.49.1:23576/?type=raw&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#%F0%9F%87%A9%F0%9F%87%AAGermany%2B%E2%9A%A1%40DeamNet_Proxy%20%281%29
 ss://48ff2b70-e180-582f-8866-d9a2edeed5f5@57.129.49.1:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#DE🇩🇪
@@ -198,7 +199,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.154:
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkNmIwOTczNDAxODU4YjI5@57.129.95.198:11201#DE%F0%9F%87%A9%F0%9F%87%AA+%7C+57.129.95.198-11201+%7C+238.06ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkNmIwOTczNDAxODU4YjI5@57.129.95.198:11201#DE%F0%9F%87%A9%F0%9F%87%AA+%7C+57.129.95.198-11201+%7C+241.21ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpldkZJcVhPYzU1eExITWx1dTV6WDMx@95.164.123.196:57493#DE%F0%9F%87%A9%F0%9F%87%AA+%7C+95.164.123.196-57493+%7C+173.46ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmNTRjZGVlMTBmOGIyNWNl@57.129.95.38:11201#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%20%F0%9F%93%A1%20%F0%9F%87%A9%F0%9F%87%AADE%20%F0%9F%A7%AD%202.6MB%2Fs
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@46.4.162.18:30696#%F0%9F%87%A9%F0%9F%87%AADE-46.4.162.18-8158
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmQlRsNDA5WHFnM0R3cUtpbGkwTlFG@95.164.123.39:32821#DE%F0%9F%87%A9%F0%9F%87%AA+%7C+95.164.123.39-32821+%7C+149.15ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmZFJBbDRzY1dEVGc=@164.90.234.85:18492#%F0%9F%87%A9%F0%9F%87%AADE-164.90.234.85-0857
@@ -465,6 +465,7 @@ vless://405f0726-89dc-6729-5bd6-a1464e61b6ea@www.vinatech.ir:8880?encryption=non
 vless://4414fd58-952b-4c7e-bb1d-f75f76d1c752@172.236.234.120:443?type=xhttp&path=/&host=&mode=stream-one&security=none#Germany
 vless://444e6db5-e9b5-4407-a65f-e89b93ed3d71@95.128.157.251:24129?security=reality&encryption=none&pbk=J1HIxQSniHBlaSUXTLTWyUUpiaeyE8MWmA2evyFZbFQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=vt-1.ozone.ru&sid=a79ee9d365da7d81#REALITY|DE🇩🇪
 vless://45e3b7ad-03b6-42fc-b616-1e92bdd0a5b3@136.243.79.227:443?security=reality&encryption=none&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&sid=86e999a2cdc2#REALITY|DE🇩🇪
+vless://47c6b2b7-a8bd-4abf-910f-270008fcdbb3@vip-82.f-sub.cfd:1517?security=none&encryption=none&host=testspeed-foreign.tci.ir&headerType=http&type=tcp#👉🆔@v2ray_configs_pool📡🇩🇪®️Germany©️Nuremberg🅿️ping:50.09ms
 vless://48735946-f706-4873-b9b6-d9f0255475cc@85.9.206.79:443?security=reality&encryption=none&pbk=QYWJdS4JDdSmQKeMkJfPshFuz0bC3jhm9yW3uJfQFmw&headerType=none&fp=chrome&type=tcp&sni=www.refersion.com&sid=b4#REALITY|DE🇩🇪
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@57.129.49.1:23576/?type=raw&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#%F0%9F%87%A9%F0%9F%87%AAGermany%2B%E2%9A%A1%40DeamNet_Proxy%20%281%29
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@57.129.49.1:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#DE🇩🇪
