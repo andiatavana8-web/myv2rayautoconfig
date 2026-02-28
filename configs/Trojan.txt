@@ -3974,7 +3974,6 @@ trojan://acfef609-b3c7-4e52-b292-8921d5fca90d@ca-full.privateip.net:443?security
 trojan://ad4a124c-12fb-4467-9ad0-dc6d9b509ac0@104.21.23.162:443/?type=tcp&security=tls&sni=🔒
 trojan://adb13850-7e70-492e-85b2-01184801d587@br09.oportal.cc:443?allowInsecure=1&security=tls&type=tcp#CY🇨🇾
 trojan://adb13850-7e70-492e-85b2-01184801d587@br09.oportal.cc:443?type=tcp&security=tls&allowInsecure=1#CY🇨🇾
-trojan://adb13850-7e70-492e-85b2-01184801d587@ca05.oportal.cc:443?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1
 trojan://adb13850-7e70-492e-85b2-01184801d587@ca05.oportal.cc:443?type=tcp&security=tls&allowInsecure=1#CA🇨🇦
 trojan://adb13850-7e70-492e-85b2-01184801d587@hk27.oportal.cc:443?allowInsecure=1&security=tls&type=tcp#HK🇭🇰
 trojan://adb13850-7e70-492e-85b2-01184801d587@hk27.oportal.cc:443?type=tcp&security=tls&allowInsecure=1#HK🇭🇰
@@ -6542,6 +6541,7 @@ trojan://telegram-id-privatevpns@3.74.185.110:22222?security=tls&alpn=http/1.1&h
 trojan://telegram-id-privatevpns@3.75.161.52:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=🔒
 trojan://telegram-id-privatevpns@3.75.163.105:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)
 trojan://telegram-id-privatevpns@3.75.163.105:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNs
+trojan://telegram-id-privatevpns@3.75.163.105:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=🔒
 trojan://telegram-id-privatevpns@3.75.191.68:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#%F0%9F%87%A9%F0%9F%87%AAt.me%2FConfigV2RayNGtrojan://telegram-id-privatevpns@3.253.54.148:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#%F0%9F%87%AE%F0%9F%87%AAt.me%2FConfigV2RayNGtrojan://telegram-id-privatevpns@16.16.66.170:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#%F0%9F%87%B8%F0%9F%87%AAt.me%2FConfigV2RayNGtrojan://telegram-id-privatevpns@3.249.216.61:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#%F0%9F%87%AE%F0%9F%87%AAt.me%2FConfigV2RayNGvmess://eyJhZGQiOiI5MS4xMDcuMTg5LjE2OSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiYm1pLmlyIiwiaWQiOiI0YjIxOWExYy00YWQ0LTRiZmQtOTEzYi0xNWFjNzk1NmQ0OGIiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiI0NDMiLCJwcyI6IkBDb25maWdWMlJheU5HIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJodHRwIiwidiI6IjIifQ==
 trojan://telegram-id-privatevpns@3.75.2.219:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=🔒
 trojan://telegram-id-privatevpns@3.75.41.207:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)
