@@ -11,6 +11,7 @@ ss://20adc847-4159-4f39-b79f-d563b660945f@57.128.159.109:2345?type=tcp&encryptio
 ss://2a8391ef-383c-4321-ac25-89b50973ab73@217.154.38.156:443?type=tcp&encryption=none&flow=&sni=yahoo.com&fp=chrome&security=reality&pbk=kWxGUQ6QtaU-SCCt8Ht-POUPS6Ue6w-KyHjxb1AYQ1w&sid=2e0f#REALITY|GB🇬🇧
 ss://5a4abb78-ecd7-4d68-ab2a-c11a3842f261@198.62.62.235:443/?type=ws&encryption=none&flow=&host=bank.alaska-tigr.info&path=%2Flove&security=tls&sni=bank.alaska-tigr.info&allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3AGB
 ss://6202b230-417c-4d8e-b624-0f71afa9c75d@167.71.136.139:443?path=/&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#GB🇬🇧
+ss://6202b230-417c-4d8e-b624-0f71afa9c75d@167.99.80.91:443?path=/&%3Bsecurity=tls&%3Bencryption=none&%3Binsecure=1&%3Bhost=sni.111000.indevs.in&%3Btype=ws&%3BallowInsecure=1&%3Bsni=sni.111000.indevs.in#%F0%9F%87%AC%F0%9F%87%A7%20GB%20%7C%20VLESS%20%7C%20%40v2rayopen%20%231
 ss://7007111a-c28b-4ab1-8d28-bc7b42681028@wolf2.adslimit.info:2345?security=&encryption=none&headerType=none&type=tcp#GB🇬🇧
 ss://7007111a-c28b-4ab1-8d28-bc7b42681028@wolf2.adslimit.info:2345?security=none&encryption=none&headerType=none&type=tcp#GB🇬🇧
 ss://7c9d302f-1438-4f37-a6e0-0591dc4a4614@158.220.88.63:443?type=grpc&encryption=none&flow=&serviceName=7e41eb32ea906cebaf077110&sni=www.microsoft.com&fp=safari&security=reality&pbk=DTfizB6SKAjSe4gQVreWTIMpDT7HsDcqfR0_Y2xo7Gw&sid=7daa515f56d7db89#REALITY|GB🇬🇧
@@ -327,6 +328,7 @@ vless://20adc847-4159-4f39-b79f-d563b660945f@57.128.159.109:2345?type=tcp&encryp
 vless://2a8391ef-383c-4321-ac25-89b50973ab73@217.154.38.156:443?type=tcp&encryption=none&flow=&sni=yahoo.com&fp=chrome&security=reality&pbk=kWxGUQ6QtaU-SCCt8Ht-POUPS6Ue6w-KyHjxb1AYQ1w&sid=2e0f#REALITY|GB🇬🇧
 vless://5a4abb78-ecd7-4d68-ab2a-c11a3842f261@198.62.62.235:443/?type=ws&encryption=none&flow=&host=bank.alaska-tigr.info&path=%2Flove&security=tls&sni=bank.alaska-tigr.info&allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3AGB
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@167.71.136.139:443?path=/&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#GB🇬🇧
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@167.99.80.91:443?path=/&%3Bsecurity=tls&%3Bencryption=none&%3Binsecure=1&%3Bhost=sni.111000.indevs.in&%3Btype=ws&%3BallowInsecure=1&%3Bsni=sni.111000.indevs.in#%F0%9F%87%AC%F0%9F%87%A7%20GB%20%7C%20VLESS%20%7C%20%40v2rayopen%20%231
 vless://7007111a-c28b-4ab1-8d28-bc7b42681028@wolf2.adslimit.info:2345?security=&encryption=none&headerType=none&type=tcp#GB🇬🇧
 vless://7007111a-c28b-4ab1-8d28-bc7b42681028@wolf2.adslimit.info:2345?security=none&encryption=none&headerType=none&type=tcp#GB🇬🇧
 vless://7c9d302f-1438-4f37-a6e0-0591dc4a4614@158.220.88.63:443?type=grpc&encryption=none&flow=&serviceName=7e41eb32ea906cebaf077110&sni=www.microsoft.com&fp=safari&security=reality&pbk=DTfizB6SKAjSe4gQVreWTIMpDT7HsDcqfR0_Y2xo7Gw&sid=7daa515f56d7db89#REALITY|GB🇬🇧
