@@ -5,10 +5,6 @@ ss://213325c6-ef4b-4cdb-850b-24a06f2865c8@188.132.183.140:443?type=tcp&encryptio
 ss://309fa273-6579-4cb2-9143-7cad50401eba@45.12.143.84:8443?security=reality&type=tcp&sni=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&sid=7cad5040&pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&encryption=none#REALITY|TR🇹🇷
 ss://3d285ec0-cde0-4d81-af2e-5f6b9adc3f35@nl.connectv.net:443?security=reality&encryption=none&pbk=vegx20Xc9XIkr8nfdEB7LZnficXNURVnDbB8_ND97Dw&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=nl.connectv.net#REALITY|TR🇹🇷
 ss://40730d97-ffa7-1108-2c53-761516eb5fda@155.212.110.3:993?security=reality&encryption=none&pbk=DnnQOtWhilZ3rqlSip0spBkluYlPeydouSR3iklbPTs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com#REALITY|TR🇹🇷
-ss://533d0948-516d-44f9-8240-0b64904d33ee@de-2-tun-single.starping1.fun:8083?security=none&type=tcp&headerType=http&path=/&host=www.speedtest.net#TR🇹🇷
-ss://533d0948-516d-44f9-8240-0b64904d33ee@de-4-tun-single.starping5.fun:8083?security=none&type=tcp&headerType=http&path=/&host=www.speedtest.net#TR🇹🇷
-ss://533d0948-516d-44f9-8240-0b64904d33ee@de-5-tun-single.starping5.fun:8083?security=none&type=tcp&headerType=http&path=/&host=www.speedtest.net#TR🇹🇷
-ss://533d0948-516d-44f9-8240-0b64904d33ee@de-6-tun-single.starping5.fun:8083?security=none&type=tcp&headerType=http&path=/&host=www.speedtest.net#TR🇹🇷
 ss://695df8a2-e948-4906-83ab-18e680ef130b@213.142.149.156:14519?&security=false&fp=chrome&type=tcp&headerType=none&path=%2F#TR%E3%80%90%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%EF%BC%9Ahttps%3A%2F%2Fa0a.xyz%E3%80%9110
 ss://695df8a2-e948-4906-83ab-18e680ef130b@213.142.149.156:14519?&security=false&fp=chrome&type=tcp&headerType=none&path=%2F#TR%E3%80%90%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%EF%BC%9Ahttps%3A%2F%2Fa0a.xyz%E3%80%9110%202
 ss://695df8a2-e948-4906-83ab-18e680ef130b@213.142.149.156:14519?security=none&encryption=none&headerType=none&type=tcp#TR%E3%80%90%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%EF%BC%9Ahttps%3A//a0a.xyz%E3%80%9110
@@ -49,10 +45,6 @@ vless://213325c6-ef4b-4cdb-850b-24a06f2865c8@188.132.183.140:443?type=tcp&encryp
 vless://309fa273-6579-4cb2-9143-7cad50401eba@45.12.143.84:8443?security=reality&type=tcp&sni=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&sid=7cad5040&pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&encryption=none#REALITY|TR🇹🇷
 vless://3d285ec0-cde0-4d81-af2e-5f6b9adc3f35@nl.connectv.net:443?security=reality&encryption=none&pbk=vegx20Xc9XIkr8nfdEB7LZnficXNURVnDbB8_ND97Dw&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=nl.connectv.net#REALITY|TR🇹🇷
 vless://40730d97-ffa7-1108-2c53-761516eb5fda@155.212.110.3:993?security=reality&encryption=none&pbk=DnnQOtWhilZ3rqlSip0spBkluYlPeydouSR3iklbPTs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com#REALITY|TR🇹🇷
-vless://533d0948-516d-44f9-8240-0b64904d33ee@de-2-tun-single.starping1.fun:8083?security=none&type=tcp&headerType=http&path=/&host=www.speedtest.net#TR🇹🇷
-vless://533d0948-516d-44f9-8240-0b64904d33ee@de-4-tun-single.starping5.fun:8083?security=none&type=tcp&headerType=http&path=/&host=www.speedtest.net#TR🇹🇷
-vless://533d0948-516d-44f9-8240-0b64904d33ee@de-5-tun-single.starping5.fun:8083?security=none&type=tcp&headerType=http&path=/&host=www.speedtest.net#TR🇹🇷
-vless://533d0948-516d-44f9-8240-0b64904d33ee@de-6-tun-single.starping5.fun:8083?security=none&type=tcp&headerType=http&path=/&host=www.speedtest.net#TR🇹🇷
 vless://695df8a2-e948-4906-83ab-18e680ef130b@213.142.149.156:14519?&security=false&fp=chrome&type=tcp&headerType=none&path=%2F#TR%E3%80%90%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%EF%BC%9Ahttps%3A%2F%2Fa0a.xyz%E3%80%9110
 vless://695df8a2-e948-4906-83ab-18e680ef130b@213.142.149.156:14519?&security=false&fp=chrome&type=tcp&headerType=none&path=%2F#TR%E3%80%90%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%EF%BC%9Ahttps%3A%2F%2Fa0a.xyz%E3%80%9110%202
 vless://695df8a2-e948-4906-83ab-18e680ef130b@213.142.149.156:14519?security=none&encryption=none&headerType=none&type=tcp#TR%E3%80%90%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%EF%BC%9Ahttps%3A//a0a.xyz%E3%80%9110
