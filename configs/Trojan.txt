@@ -674,6 +674,7 @@ trojan://262f1d150049457ac1d6e66b020fa980@160.16.70.180:2001?allowInsecure=0&sni
 trojan://262f1d150049457ac1d6e66b020fa980@160.16.70.180:2001?allowInsecure=0&sni=www.nintendogames.net#🇯🇵[openproxylist.com]
 trojan://262f1d150049457ac1d6e66b020fa980@160.16.70.180:2001?allowInsecure=0&sni=🔒
 trojan://262f1d150049457ac1d6e66b020fa980@160.16.70.180:2001?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.70.180-1698
+trojan://262f1d150049457ac1d6e66b020fa980@160.16.70.180:2001?security=tls&sni=www.nintendogames.net#🇯🇵[openproxylist.com]
 trojan://262f1d150049457ac1d6e66b020fa980@160.16.70.180:2001?security=tls&sni=🔒
 trojan://262f1d150049457ac1d6e66b020fa980@160.16.70.180:2001?sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC2%201.8MB%2Fs
 trojan://262f1d150049457ac1d6e66b020fa980@160.16.70.180:2001?sni=🔒
@@ -792,7 +793,6 @@ trojan://26635779-8ce6-4c07-ae5d-f3769ec95ddd@green2.cdntencentmusic.com:31101?a
 trojan://26635779-8ce6-4c07-ae5d-f3769ec95ddd@green2.cdntencentmusic.com:31101?allowInsecure=0&sni=🔒
 trojan://26635779-8ce6-4c07-ae5d-f3769ec95ddd@green2.cdntencentmusic.com:35502?security=tls&sni=green2.cdntencentmusic.com#%F0%9F%87%B9%F0%9F%87%BCTW-220.130.58.136-0588
 trojan://26635779-8ce6-4c07-ae5d-f3769ec95ddd@green2.cdntencentmusic.com:35502?security=tls&sni=green2.cdntencentmusic.com#TW🇹🇼
-trojan://26635779-8ce6-4c07-ae5d-f3769ec95ddd@green2.cdntencentmusic.com:35502?security=tls&sni=green2.cdntencentmusic.com#🇺🇸[openproxylist.com]
 trojan://26635779-8ce6-4c07-ae5d-f3769ec95ddd@green2.cdntencentmusic.com:35502?security=tls&sni=🔒
 trojan://26a663656e575c0b@5.44.249.51:3389?security=tls&allowInsecure=1&type=tcp
 trojan://26a663656e575c0b@5.44.249.52:3389?security=tls&allowInsecure=1&type=tcp
@@ -4093,9 +4093,11 @@ trojan://acfef609-b3c7-4e52-b292-8921d5fca90d@ca-full.privateip.net:443?security
 trojan://ad4a124c-12fb-4467-9ad0-dc6d9b509ac0@104.21.23.162:443/?type=tcp&security=tls&sni=🔒
 trojan://adb13850-7e70-492e-85b2-01184801d587@166.88.130.226:443?security=tls&sni=ca05.oportal.cc&type=tcp&allowInsecure=1#CA🇨🇦
 trojan://adb13850-7e70-492e-85b2-01184801d587@38.182.109.191:443?allowInsecure=1&sni=us08.oportal.cc#_%E7%BE%8E%E5%9B%BD%2016
+trojan://adb13850-7e70-492e-85b2-01184801d587@38.182.109.191:443?security=tls&sni=us08.oportal.cc&type=tcp&allowInsecure=1#🇺🇸[openproxylist.com]
 trojan://adb13850-7e70-492e-85b2-01184801d587@38.182.109.191:443?security=tls&sni=us08.oportal.cc&type=tcp&allowInsecure=1#🔥Join+Telegram:@Farah_VPN🟣
 trojan://adb13850-7e70-492e-85b2-01184801d587@38.182.109.191:443?security=tls&sni=🔒
 trojan://adb13850-7e70-492e-85b2-01184801d587@br09.oportal.cc:443?type=tcp&security=tls&allowInsecure=1#CY🇨🇾
+trojan://adb13850-7e70-492e-85b2-01184801d587@ca05.oportal.cc:443?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1#🇨🇦[openproxylist.com]
 trojan://adb13850-7e70-492e-85b2-01184801d587@ca05.oportal.cc:443?type=tcp&security=tls&allowInsecure=1#CA🇨🇦
 trojan://adb13850-7e70-492e-85b2-01184801d587@hk27.oportal.cc:443?type=tcp&security=tls&allowInsecure=1#HK🇭🇰
 trojan://adb13850-7e70-492e-85b2-01184801d587@us08.oportal.cc:443?type=tcp&security=tls&allowInsecure=1#US🇺🇸
