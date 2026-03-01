@@ -2266,7 +2266,6 @@ vless://17c4e377-ea15-0bb8-98b2-3e348c9ff5d9@37.139.33.125:443/?type=tcp&encrypt
 vless://17c4e377-ea15-0bb8-98b2-3e348c9ff5d9@37.139.33.125:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=max.ru&fp=chrome&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323&type=tcp&headerType=none#https://t.me/allproconf
 vless://17c4e377-ea15-0bb8-98b2-3e348c9ff5d9@37.139.33.125:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=🔒
 vless://17c4e377-ea15-0bb8-98b2-3e348c9ff5d9@37.139.33.125:443?security=reality&encryption=none&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=d8c6b58bcbb0c323#REALITY|RU🇷🇺
-vless://17c4e377-ea15-0bb8-98b2-3e348c9ff5d9@37.139.33.125:443?security=reality&encryption=none&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=🔒
 vless://17c4e377-ea15-0bb8-98b2-3e348c9ff5d9@37.139.33.125:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=max.ru&fp=chrome&security=reality&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#REALITY|RU🇷🇺
 vless://17c4e377-ea15-0bb8-98b2-3e348c9ff5d9@5.188.141.131:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=max.ru&fp=chrome&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323&type=tcp&headerType=none#https://t.me/allproconf
 vless://17c4e377-ea15-0bb8-98b2-3e348c9ff5d9@5.188.141.131:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=🔒
@@ -9272,6 +9271,7 @@ vless://5e62ddcf-78c9-4b15-803a-436c8c839ddc@104.18.32.47:2052/?type=ws&encrypti
 vless://5e62ddcf-78c9-4b15-803a-436c8c839ddc@104.18.32.47:2052/?type=ws&encryption=none&flow=&host=oBEDiENt-noiseqJf5ja18yF.wIndLer.CO.UK.&path=🔒
 vless://5e62ddcf-78c9-4b15-803a-436c8c839ddc@104.18.32.47:2052?&security=false&fp=chrome&type=ws&headerType=none&host=oBEDiENt-noiseqJf5ja18yF.wIndLer.CO.UK.&path=%2F#_%E6%9C%AA%E7%9F%A5%2070
 vless://5e62ddcf-78c9-4b15-803a-436c8c839ddc@104.18.32.47:2052?&type=ws&headerType=none&host=oBEDiENt-noiseqJf5ja18yF.wIndLer.CO.UK.&path=%2F#🇳🇱[openproxylist.com]
+vless://5e62ddcf-78c9-4b15-803a-436c8c839ddc@104.18.32.47:2052?&type=ws&headerType=none&host=oBEDiENt-noiseqJf5ja18yF.wIndLer.CO.UK.&path=🔒
 vless://5e62ddcf-78c9-4b15-803a-436c8c839ddc@104.18.32.47:2052?path=%2F&security=&encryption=none&host=oBEDiENt-noiseqJf5ja18yF.wIndLer.CO.UK.&type=ws#%F0%9D%98%BE%F0%9D%99%A1%F0%9D%99%A4%F0%9D%99%AA%F0%9D%99%99%F0%9D%99%9B%F0%9D%99%A1%F0%9D%99%96%F0%9D%99%A7%F0%9D%99%9A%F0%9F%8C%90
 vless://5e62ddcf-78c9-4b15-803a-436c8c839ddc@104.18.32.47:2052?path=/&security=none&encryption=none&host=oBEDiENt-noiseqJf5ja18yF.wIndLer.CO.UK.&type=ws#@WedBaZtel
 vless://5e62ddcf-78c9-4b15-803a-436c8c839ddc@104.18.32.47:2052?path=🔒
@@ -9280,7 +9280,6 @@ vless://5e62ddcf-78c9-4b15-803a-436c8c839ddc@104.18.38.47:2052/?type=ws&encrypti
 vless://5e62ddcf-78c9-4b15-803a-436c8c839ddc@104.18.38.47:2052?encryption=none&type=ws&host=oBEDiENt-noiseqJf5ja18yF.wIndLer.CO.UK&path=/&security=none#[16866]
 vless://5e62ddcf-78c9-4b15-803a-436c8c839ddc@104.18.38.47:2052?encryption=none&type=ws&host=oBEDiENt-noiseqJf5ja18yF.wIndLer.CO.UK&path=🔒
 vless://5e62ddcf-78c9-4b15-803a-436c8c839ddc@104.18.43.174:2052?type=ws&encryption=none&host=oBEDiENt-noiseqJf5ja18yF.wIndLer.CO.UK&path=%2F&ed=2048&eh=Sec-WebSocket-Protocol#RELAY🚩
-vless://5e62ddcf-78c9-4b15-803a-436c8c839ddc@104.18.43.174:2052?type=ws&encryption=none&host=oBEDiENt-noiseqJf5ja18yF.wIndLer.CO.UK&path=🔒
 vless://5e62ddcf-78c9-4b15-803a-436c8c839ddc@162.159.36.20:2052?path=/&security=none&encryption=none&host=oBEDiENt-noiseqJf5ja18yF.wIndLer.CO.UK&type=ws#🇳🇱
 vless://5e62ddcf-78c9-4b15-803a-436c8c839ddc@162.159.36.20:2052?path=🔒
 vless://5e62ddcf-78c9-4b15-803a-436c8c839ddc@172.64.155.209:2052/?type=ws&encryption=none&flow=&host=oBEDiENt-noiseqJf5ja18yF.wIndLer.CO.UK.&path=%2F#%3E%3E%40oneclickvpnkeys%3A%3AXX
@@ -13379,7 +13378,6 @@ vless://8b80c5d9-24c7-47bc-fca7-7fe80efc93ab@18.159.52.222:57160?security=&encry
 vless://8b80c5d9-24c7-47bc-fca7-7fe80efc93ab@3.70.248.224:57160?security=none&encryption=none&headerType=none&type=tcp
 vless://8b8df00d-e778-54b3-a232-c68354c3f278@172.67.193.36:2095?encryption=none&host=www.speedtest.net.ftp.debian.org.www.digikala.com.radiotehran.org.&path=🔒
 vless://8b8f4dfb-cd48-4dab-bb75-b304971176cd@45.95.233.85:61873?security=reality&encryption=none&pbk=wEU32qHhiQq-FDYUvuEl7_HAM6r5nDh6M4F8WGnEhjE&headerType=none&fp=chrome&spx=/PuLaVPN/PuLaVPN/PuLaVPN//PuLaVPN/PuLaVPN/PuLaVPN/PuLaVPN//PuLaVPN&type=tcp&sni=🔒
-vless://8b8f4dfb-cd48-4dab-bb75-b304971176cd@45.95.233.85:61873?type=tcp&security=reality&sni=🔒
 vless://8b9f63bd-0a73-4ef5-dee0-3d114c4edc0c@www.speedtest.net:8880?path=/@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN?ed=8880&security=none&encryption=none&host=www.lockey-website.ir&type=httpupgrade#🇩🇪@LOCKEY_VPN
 vless://8b9f63bd-0a73-4ef5-dee0-3d114c4edc0c@www.speedtest.net:8880?path=🔒
 vless://8ba3c494-c5b9-46b0-9bb9-306b8fdeb9d7@91.107.169.188:25103/?type=tcp&encryption=none
@@ -17831,7 +17829,6 @@ vless://b99590df-eda0-4e34-e1a9-3d1118faed83@5.10.246.224:8880/?type=httpupgrade
 vless://b99590df-eda0-4e34-e1a9-3d1118faed83@86.38.214.213:8880/?type=httpupgrade&encryption=none&host=nufillter.jtip.sbs.&path=🔒
 vless://b99d16b6-6952-40ab-9445-835df3d3e009@37.191.95.53:927?security=none&encryption=none&headerType=none&type=tcp
 vless://b99d16b6-6952-40ab-9445-835df3d3e009@37.191.95.53:927?security=none&encryption=none&headerType=none&type=tcp#@Golestan_VPN
-vless://b9a3bffe-04a3-4ec4-8cc6-4cd2cdc96ec2@79.137.174.199:8443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=🔒
 vless://b9a3bffe-04a3-4ec4-8cc6-4cd2cdc96ec2@79.137.174.199:8443?security=reality&encryption=none&alpn=networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-&pbk=AnxWLJuRRDt5_RtfvKhd11toTA2qsPATu2sBKsryWSU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=fe1bba2e#REALITY|RU🇷🇺
 vless://b9a3bffe-04a3-4ec4-8cc6-4cd2cdc96ec2@79.137.174.199:8443?security=reality&encryption=none&pbk=AnxWLJuRRDt5_RtfvKhd11toTA2qsPATu2sBKsryWSU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=🔒
 vless://b9a3bffe-04a3-4ec4-8cc6-4cd2cdc96ec2@79.137.174.199:8443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=max.ru&fp=chrome&security=reality&pbk=AnxWLJuRRDt5_RtfvKhd11toTA2qsPATu2sBKsryWSU&sid=fe1bba2e#REALITY|RU🇷🇺
@@ -22802,6 +22799,7 @@ vless://eb071647-72a6-46be-8e89-ff3d228d52f6@nl.jojack.ru:443/?type=tcp&encrypti
 vless://eb071647-72a6-46be-8e89-ff3d228d52f6@nl.jojack.ru:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=nl.jojack.ru&fp=chrome&pbk=sxyxV0_y1o09gKJBL9AJJyRSEg6MiYK0j-kb5unzHh4&sid=6bb3c7f9f97b45b8&type=tcp&headerType=none#%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%3A%20Free_VPN_CH%40
 vless://eb071647-72a6-46be-8e89-ff3d228d52f6@nl.jojack.ru:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=🔒
 vless://eb071647-72a6-46be-8e89-ff3d228d52f6@nl.jojack.ru:443?security=reality&encryption=none&pbk=sxyxV0_y1o09gKJBL9AJJyRSEg6MiYK0j-kb5unzHh4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=nl.jojack.ru&sid=6bb3c7f9f97b45b8#🇩🇪[openproxylist.com]
+vless://eb071647-72a6-46be-8e89-ff3d228d52f6@nl.jojack.ru:443?security=reality&encryption=none&pbk=sxyxV0_y1o09gKJBL9AJJyRSEg6MiYK0j-kb5unzHh4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=🔒
 vless://eb071647-72a6-46be-8e89-ff3d228d52f6@nyc.cdn.stun.su:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=nyc.cdn.stun.su&fp=chrome&security=reality&pbk=u4S6MmhgEOkPjlLVZ6twDLy-V9JIpLtyj8vDobOVM0w&sid=1c8eebcb20f6d0ce#%F0%9F%AA%9D73%40oneclickvpnkeys
 vless://eb071647-72a6-46be-8e89-ff3d228d52f6@nyc.cdn.stun.su:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=🔒
 vless://eb071647-72a6-46be-8e89-ff3d228d52f6@nyc.cdn.stun.su:443?security=reality&encryption=none&pbk=u4S6MmhgEOkPjlLVZ6twDLy-V9JIpLtyj8vDobOVM0w&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=nyc.cdn.stun.su&sid=1c8eebcb20f6d0ce#%40v2_mod_shop%F0%9F%9A%80
