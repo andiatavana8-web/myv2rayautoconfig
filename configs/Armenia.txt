@@ -1,7 +1,17 @@
 ss://0413702d-739b-4c8a-80b1-8296ba54cfe6@gb1.vnet500.xyz:32030?security=none&allowInsecure=0&encryption=none&type=tcp&host=soft98.ir&path=/&headerType=http#Am
 ss://0413702d-739b-4c8a-80b1-8296ba54cfe6@gb1.vnet500.xyz:32030?security=none&encryption=none&host=soft98.ir&headerType=http&type=tcp#Am
+ss://60e82f83-e9e4-46f7-8559-2589f170d27c@xc.smjhh.ir:8080?path=/&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=x.smjhh.ir#Am
 ss://65e7f833-78f3-4013-9402-2694b09de74d@tu5.pokerpings.com:2052?security=&encryption=none&host=filimo.com&headerType=http&type=tcp#Am
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@146.185.248.22:989#%F0%9F%87%A6%F0%9F%87%B2AM-146.185.248.22-8713
+ss://b5a71bc7-cc2c-4c6c-90b6-d08c341994c6@46.245.65.49:2053?path=/&security=none&encryption=none&type=ws#Am
+ss://e788cb2b-0024-4c21-b666-4438aeffed73@emergency.layer-ziro.ir:2001?security=none&encryption=none&host=anten.ir&headerType=http&type=tcp#Am
+ss://eab91931-2b85-4cd0-91fc-78fb5e4f0ad5@emergency.layer-ziro.ir:2001?security=none&encryption=none&host=anten.ir&headerType=http&type=tcp#Am
+ss://fe3ce5db-627f-4cb6-857d-f18eed038742@vzb.piko-network.top:3306?security=none&encryption=none&headerType=none&type=tcp#Am
 vless://0413702d-739b-4c8a-80b1-8296ba54cfe6@gb1.vnet500.xyz:32030?security=none&allowInsecure=0&encryption=none&type=tcp&host=soft98.ir&path=/&headerType=http#Am
 vless://0413702d-739b-4c8a-80b1-8296ba54cfe6@gb1.vnet500.xyz:32030?security=none&encryption=none&host=soft98.ir&headerType=http&type=tcp#Am
+vless://60e82f83-e9e4-46f7-8559-2589f170d27c@xc.smjhh.ir:8080?path=/&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=x.smjhh.ir#Am
 vless://65e7f833-78f3-4013-9402-2694b09de74d@tu5.pokerpings.com:2052?security=&encryption=none&host=filimo.com&headerType=http&type=tcp#Am
+vless://b5a71bc7-cc2c-4c6c-90b6-d08c341994c6@46.245.65.49:2053?path=/&security=none&encryption=none&type=ws#Am
+vless://e788cb2b-0024-4c21-b666-4438aeffed73@emergency.layer-ziro.ir:2001?security=none&encryption=none&host=anten.ir&headerType=http&type=tcp#Am
+vless://eab91931-2b85-4cd0-91fc-78fb5e4f0ad5@emergency.layer-ziro.ir:2001?security=none&encryption=none&host=anten.ir&headerType=http&type=tcp#Am
+vless://fe3ce5db-627f-4cb6-857d-f18eed038742@vzb.piko-network.top:3306?security=none&encryption=none&headerType=none&type=tcp#Am
