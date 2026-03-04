@@ -118,7 +118,6 @@ ss://ca73d911-29f4-42d8-ada5-81dee679e96a@vps.zakir.web.id:80?type=ws&encryption
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@68.183.227.4:8080#%F0%9F%87%B8%F0%9F%87%ACSG-68.183.227.4-0332
 ss://d6d7e024-0a49-483d-bcd7-048c4d30eca6@66.42.54.48:22539?type=tcp&encryption=none&flow=&security=tls&sni=node1.nanonet.host&allowInsecure=1#SG🇸🇬
 ss://dc5ca27e-8ab3-476a-94a4-7b29a0c00b3f@yes.hate-me.eu.org:80?type=ws&encryption=none&flow=&host=cdn.who.int.path.xyz-my.eu.org&path=%2Fvless#SG🇸🇬
-ss://e4598260-fb5e-4d0a-f0c2-64259f5c38e7@38.48.124.146:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.xbox.com&fp=chrome&security=reality&pbk=Anr46KtqOMc-YF76WafAAMT-0JBv85RtgSTHRvHxwUg&sid=#%3E%3E%40oneclickvpnkeys%3A%3ASG
 ss://e85ce618-50cd-42e0-a8ba-5052e6be9498@91.242.241.45:8443?security=reality&fp=chrome&type=tcp&flow=xtls-rprx-vision&pbk=1-2fy8f8XeOHzmdFmCENHV1mr_tzJX1M9UXp42mUIiM&sni=google.com#VPNKEY-Singapore
 ss://ecb90d6e-1bbf-42ec-a742-822fad6936da@172.104.175.11:443?security=tls&flow=xtls-rprx-vision&sni=sg-full.privateip.net&type=tcp&path=%2F&allowInsecure=1#SG🇸🇬
 trojan://08964210-e7b8-11ec-95aa-1239d0255272@w12.udpgw.com:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-172.104.177.105-5666
@@ -134,7 +133,7 @@ trojan://842b5f9dd11e458d8613c907c4cc5723@149.28.151.140:443?encryption=none&sec
 trojan://973ef350-f6a5-11ec-9274-1239d0255272@trojan2.udpgw.com:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-128.199.185.211-5661
 trojan://BxceQaOe@18.162.41.211:25343?allowInsecure=1&sni=t.me%252Fripaojiedian#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A13%7C%40ripaojiedian
 trojan://BxceQaOe@18.162.41.211:25343?allowInsecure=1&sni=t.me%252Fripaojiedian#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A13%7C%40stairnode
-trojan://BxceQaOe@18.162.41.211:25343?sni=t.me%2Fripaojiedian#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A12
+trojan://BxceQaOe@18.162.41.211:25343?sni=t.me%2Fripaojiedian#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A13
 trojan://BxceQaOe@43.199.64.100:25343?allowInsecure=1&sni=t.me%252Fripaojiedian#%E6%96%B0%E5%8A%A0%E5%9D%A13%7C%40ripaojiedian
 trojan://BxceQaOe@43.199.64.100:25343?allowInsecure=1&sni=t.me%252Fripaojiedian#%E6%96%B0%E5%8A%A0%E5%9D%A13%7C%40ripaojiedian%202
 trojan://BxceQaOe@43.199.64.100:25343?allowInsecure=1&sni=t.me%252Fripaojiedian#%E6%96%B0%E5%8A%A0%E5%9D%A13%7C%40ripaojiedian%205
@@ -155,7 +154,7 @@ trojan://f7dbed8b1ca85124e793ba6c0bcfd0db@153.121.45.139:4674?allowInsecure=0&sn
 trojan://f7dbed8b1ca85124e793ba6c0bcfd0db@153.121.45.139:4674?allowInsecure=0&sni=www.nintendogames.net#%E6%96%B0%E5%8A%A0%E5%9D%A1%7C%40ripaojiedian%205
 trojan://f7dbed8b1ca85124e793ba6c0bcfd0db@52.68.27.2:3419?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A1%7C%40ripaojiedian
 trojan://f7dbed8b1ca85124e793ba6c0bcfd0db@52.68.27.2:3419?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A1%7C%40stairnode
-trojan://f7dbed8b1ca85124e793ba6c0bcfd0db@52.68.27.2:3419?sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A13
+trojan://f7dbed8b1ca85124e793ba6c0bcfd0db@52.68.27.2:3419?sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A12
 trojan://f7dbed8b1ca85124e793ba6c0bcfd0db@57.180.36.84:3419?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A12%7C%40stairnode
 trojan://f7dbed8b1ca85124e793ba6c0bcfd0db@57.180.36.84:3419?allowInsecure=1&sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A12%7C%40ripaojiedian
 trojan://f7dbed8b1ca85124e793ba6c0bcfd0db@57.180.36.84:3419?sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A1
@@ -181,7 +180,6 @@ vless://ca73d911-29f4-42d8-ada5-81dee679e96a@vps.zakir.web.id:80?&security=false
 vless://ca73d911-29f4-42d8-ada5-81dee679e96a@vps.zakir.web.id:80?type=ws&encryption=none&flow=&host=vps.zakir.web.id&path=vless#SG🇸🇬
 vless://d6d7e024-0a49-483d-bcd7-048c4d30eca6@66.42.54.48:22539?type=tcp&encryption=none&flow=&security=tls&sni=node1.nanonet.host&allowInsecure=1#SG🇸🇬
 vless://dc5ca27e-8ab3-476a-94a4-7b29a0c00b3f@yes.hate-me.eu.org:80?type=ws&encryption=none&flow=&host=cdn.who.int.path.xyz-my.eu.org&path=%2Fvless#SG🇸🇬
-vless://e4598260-fb5e-4d0a-f0c2-64259f5c38e7@38.48.124.146:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.xbox.com&fp=chrome&security=reality&pbk=Anr46KtqOMc-YF76WafAAMT-0JBv85RtgSTHRvHxwUg&sid=#%3E%3E%40oneclickvpnkeys%3A%3ASG
 vless://e85ce618-50cd-42e0-a8ba-5052e6be9498@91.242.241.45:8443?security=reality&fp=chrome&type=tcp&flow=xtls-rprx-vision&pbk=1-2fy8f8XeOHzmdFmCENHV1mr_tzJX1M9UXp42mUIiM&sni=google.com#VPNKEY-Singapore
 vless://ecb90d6e-1bbf-42ec-a742-822fad6936da@172.104.175.11:443?security=tls&flow=xtls-rprx-vision&sni=sg-full.privateip.net&type=tcp&path=%2F&allowInsecure=1#SG🇸🇬
 vmess://ewogICAgImFkZCI6ICI0My4xMzQuMTY3LjEzNSIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogIm1uMXJheS5qYWdvYW52aXAueHl6IiwKICAgICJpZCI6ICI0NjJkOTY5NC02MmI1LTQ3ODEtYTI4Ny02MWE0MjJiOTIwZTgiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvdnZpcCIsCiAgICAicG9ydCI6IDk5NTIsCiAgICAicHMiOiAi8J+HuPCfh6xTRy00My4xMzQuMTY3LjEzNS0wODg4IiwKICAgICJ0bHMiOiAidGxzIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=
