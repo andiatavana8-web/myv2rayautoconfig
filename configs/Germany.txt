@@ -157,7 +157,6 @@ ss://8cf73792-0b3e-8e8b-f833-e86067f7a22c@45.131.4.5:2052?path=/&security=none&e
 ss://8d99fda8-4df2-41ff-8b41-1316773e096f@172.233.222.233:443?type=tcp&path=/&host=zula.ir&headerType=http&security=none#Germany
 ss://8d99fda8-4df2-41ff-8b41-1316773e096f@172.237.128.156:443?type=tcp&path=/&host=zula.ir&headerType=http&security=none#Germany
 ss://8ed851cb-a9ac-4be7-97d3-cf74f0d72d75@45.56.69.74:443?type=xhttp&path=/&host=&mode=stream-one&security=none#Germany
-ss://92a63509-786e-4dbd-8b4b-4a2a309fa823@82sub.infospeedtest.com:2443?encryption=none&fp=chrome&host=mikrotik.com&mode=auto&path=/&pbk=utoWLfwSjJ6IK7z6iIiZlc7LoEYpBb4y9WQg5B7hnRQ&security=reality&sid=30ced3d2443e&sni=yahoo.com&spx=/Asnsd0pHsdcn2U8&type=xhttp#DE🇩🇪
 ss://94daa8ad-75ed-4dbf-a6de-d05036d98df5@108.162.193.217:443?allowInsecure=1&encryption=none&host=vangoghhh.info&path=%2Ftixvuws&security=tls&sni=vangoghhh.info&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ADE
 ss://94daa8ad-75ed-4dbf-a6de-d05036d98df5@norman.ns.cloudflare.com:443?allowInsecure=1&encryption=none&host=vangoghhh.info&path=%2Ftixvuws&security=tls&sni=vangoghhh.info&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ADE
 ss://98fb333c-3d84-4fa4-b1f7-1683b509f65a@91.99.218.107:36454?&security=false&fp=chrome&type=tcp&headerType=none&path=%2F#_%E5%BE%B7%E5%9B%BD%202
@@ -260,7 +259,6 @@ ss://c031d6c7-5132-4d81-8efc-3b13a947984e@81.88.25.20:59029?&security=false&fp=c
 ss://c031d6c7-5132-4d81-8efc-3b13a947984e@81.88.25.20:59029?security=none&%3Bencryption=none&%3BheaderType=none&%3Btype=tcp#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20VLESS%20%7C%20%40netmellianti%20%231
 ss://c031d6c7-5132-4d81-8efc-3b13a947984e@81.88.25.20:59029?security=none&amp%3Bencryption=none&amp%3BheaderType=none&amp%3Btype=tcp#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20VLESS%20%7C%20%40netmellianti%20%231
 ss://c031d6c7-5132-4d81-8efc-3b13a947984e@81.88.25.20:59029?type=tcp&encryption=none&security=none#DE🇩🇪
-ss://c19fb567-74a9-454f-9757-e612fc4be371@ss.02020.sbs:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=dropbox.com&type=tcp#DE🇩🇪
 ss://c19fb567-74a9-454f-9757-e612fc4be371@ss.02020.sbs:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=dropbox.com#%3E%3E%40v2nodes%3A%3ADE
 ss://c19fb567-74a9-454f-9757-e612fc4be371@ss.02020.sbs:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=dropbox.com#REALITY|DE🇩🇪
 ss://c33275fd-a4fa-470d-90e4-55da39d849a8@tawananet.panbehpanel.ir:80?path=%2F&security=none&encryption=none&type=ws#DE🇩🇪
@@ -366,7 +364,6 @@ trojan://telegram-id-directvpn@18.196.127.24:22222?security=tls&sni=trj.rollingn
 trojan://telegram-id-directvpn@3.123.87.45:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#%F0%9F%87%A9%F0%9F%87%AA_DE_%E5%BE%B7%E5%9B%BD
 trojan://telegram-id-directvpn@35.156.35.238:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%A9%F0%9F%87%AADE-35.156.35.238-8136
 trojan://telegram-id-directvpn@35.156.35.238:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%A9%F0%9F%87%AADE-35.156.35.238-8138
-trojan://telegram-id-directvpn@63.182.150.196:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#DE🇩🇪
 trojan://telegram-id-privatevpns@18.184.9.101:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%A9%F0%9F%87%AADE-18.184.9.101-8359
 trojan://telegram-id-privatevpns@3.120.187.229:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%A9%F0%9F%87%AADE-3.120.187.229-8170
 trojan://telegram-id-privatevpns@3.120.187.229:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%A9%F0%9F%87%AADE-3.120.187.229-8172
@@ -523,7 +520,6 @@ vless://8cf73792-0b3e-8e8b-f833-e86067f7a22c@45.131.4.5:2052?path=/&security=non
 vless://8d99fda8-4df2-41ff-8b41-1316773e096f@172.233.222.233:443?type=tcp&path=/&host=zula.ir&headerType=http&security=none#Germany
 vless://8d99fda8-4df2-41ff-8b41-1316773e096f@172.237.128.156:443?type=tcp&path=/&host=zula.ir&headerType=http&security=none#Germany
 vless://8ed851cb-a9ac-4be7-97d3-cf74f0d72d75@45.56.69.74:443?type=xhttp&path=/&host=&mode=stream-one&security=none#Germany
-vless://92a63509-786e-4dbd-8b4b-4a2a309fa823@82sub.infospeedtest.com:2443?encryption=none&fp=chrome&host=mikrotik.com&mode=auto&path=/&pbk=utoWLfwSjJ6IK7z6iIiZlc7LoEYpBb4y9WQg5B7hnRQ&security=reality&sid=30ced3d2443e&sni=yahoo.com&spx=/Asnsd0pHsdcn2U8&type=xhttp#DE🇩🇪
 vless://94daa8ad-75ed-4dbf-a6de-d05036d98df5@108.162.193.217:443?allowInsecure=1&encryption=none&host=vangoghhh.info&path=%2Ftixvuws&security=tls&sni=vangoghhh.info&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ADE
 vless://94daa8ad-75ed-4dbf-a6de-d05036d98df5@norman.ns.cloudflare.com:443?allowInsecure=1&encryption=none&host=vangoghhh.info&path=%2Ftixvuws&security=tls&sni=vangoghhh.info&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ADE
 vless://98fb333c-3d84-4fa4-b1f7-1683b509f65a@91.99.218.107:36454?&security=false&fp=chrome&type=tcp&headerType=none&path=%2F#_%E5%BE%B7%E5%9B%BD%202
@@ -554,7 +550,6 @@ vless://c031d6c7-5132-4d81-8efc-3b13a947984e@81.88.25.20:59029?&security=false&f
 vless://c031d6c7-5132-4d81-8efc-3b13a947984e@81.88.25.20:59029?security=none&%3Bencryption=none&%3BheaderType=none&%3Btype=tcp#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20VLESS%20%7C%20%40netmellianti%20%231
 vless://c031d6c7-5132-4d81-8efc-3b13a947984e@81.88.25.20:59029?security=none&amp%3Bencryption=none&amp%3BheaderType=none&amp%3Btype=tcp#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20VLESS%20%7C%20%40netmellianti%20%231
 vless://c031d6c7-5132-4d81-8efc-3b13a947984e@81.88.25.20:59029?type=tcp&encryption=none&security=none#DE🇩🇪
-vless://c19fb567-74a9-454f-9757-e612fc4be371@ss.02020.sbs:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=dropbox.com&type=tcp#DE🇩🇪
 vless://c19fb567-74a9-454f-9757-e612fc4be371@ss.02020.sbs:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=dropbox.com#%3E%3E%40v2nodes%3A%3ADE
 vless://c19fb567-74a9-454f-9757-e612fc4be371@ss.02020.sbs:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=dropbox.com#REALITY|DE🇩🇪
 vless://c33275fd-a4fa-470d-90e4-55da39d849a8@tawananet.panbehpanel.ir:80?path=%2F&security=none&encryption=none&type=ws#DE🇩🇪
