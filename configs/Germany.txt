@@ -78,7 +78,6 @@ ss://4e125438-1a39-440e-95fc-36b9dec03e5f@141.101.115.71:443?path=%2Ffaq&securit
 ss://4ed8fd78-f50a-4dfb-bf88-da2394652ca0@69.164.207.38:443?type=xhttp&path=/&host=&mode=stream-one&security=none#Germany
 ss://53fff6cc-b4ec-43e8-ade5-e0c42972fc33@193.151.135.21:44443?security=reality&encryption=none&pbk=XHjKkrNBYXOaamOx8IUCrwX0zp5dAQRVErHiQ5bwAEQ&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.speedtest.net#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%40oneclickvpnkeys
 ss://53fff6cc-b4ec-43e8-ade5-e0c42972fc33@hybrid.arvancloud.online:44443?security=reality&encryption=none&pbk=XHjKkrNBYXOaamOx8IUCrwX0zp5dAQRVErHiQ5bwAEQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.speedtest.net#%F0%9F%87%A9%F0%9F%87%AA%20Germany
-ss://5774ae61-7402-41db-9388-1db9c43c11c3@84.200.33.52:8080?type=tcp&encryption=none&path=/&host=testspeed-foreign.tci.ir&headerType=http&security=none#DE🇩🇪
 ss://5a4abb78-ecd7-4d68-ab2a-c11a3842f261@198.62.62.248:443?security=tls&type=ws&path=%2Flove&host=tar.alabama-tigr.info&sni=tar.alabama-tigr.info&fp=chrome#%F0%9F%87%AC%F0%9F%87%A7%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E8%8B%B1%E5%9B%BD%2001
 ss://5d77589d-8553-4955-a1bc-16969a5fe8e5@172.237.133.129:443?type=xhttp&path=/&host=&mode=stream-one&security=none#Germany
 ss://5d77589d-8553-4955-a1bc-16969a5fe8e5@172.238.160.113:443?type=xhttp&path=/&host=&mode=stream-one&security=none#Germany
@@ -335,7 +334,6 @@ trojan://telegram-id-directvpn@18.196.127.24:22222?security=tls&sni=trj.rollingn
 trojan://telegram-id-directvpn@3.123.87.45:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#%F0%9F%87%A9%F0%9F%87%AA_DE_%E5%BE%B7%E5%9B%BD
 trojan://telegram-id-directvpn@35.156.35.238:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%A9%F0%9F%87%AADE-35.156.35.238-8113
 trojan://telegram-id-directvpn@35.156.35.238:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%A9%F0%9F%87%AADE-35.156.35.238-8115
-trojan://telegram-id-directvpn@63.183.63.206:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#DE🇩🇪
 trojan://telegram-id-privatevpns@18.184.9.101:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%A9%F0%9F%87%AADE-18.184.9.101-8336
 trojan://telegram-id-privatevpns@3.120.187.229:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%A9%F0%9F%87%AADE-3.120.187.229-8147
 trojan://telegram-id-privatevpns@3.120.187.229:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%A9%F0%9F%87%AADE-3.120.187.229-8149
@@ -421,7 +419,6 @@ vless://4e125438-1a39-440e-95fc-36b9dec03e5f@141.101.115.71:443?path=%2Ffaq&secu
 vless://4ed8fd78-f50a-4dfb-bf88-da2394652ca0@69.164.207.38:443?type=xhttp&path=/&host=&mode=stream-one&security=none#Germany
 vless://53fff6cc-b4ec-43e8-ade5-e0c42972fc33@193.151.135.21:44443?security=reality&encryption=none&pbk=XHjKkrNBYXOaamOx8IUCrwX0zp5dAQRVErHiQ5bwAEQ&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.speedtest.net#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%40oneclickvpnkeys
 vless://53fff6cc-b4ec-43e8-ade5-e0c42972fc33@hybrid.arvancloud.online:44443?security=reality&encryption=none&pbk=XHjKkrNBYXOaamOx8IUCrwX0zp5dAQRVErHiQ5bwAEQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.speedtest.net#%F0%9F%87%A9%F0%9F%87%AA%20Germany
-vless://5774ae61-7402-41db-9388-1db9c43c11c3@84.200.33.52:8080?type=tcp&encryption=none&path=/&host=testspeed-foreign.tci.ir&headerType=http&security=none#DE🇩🇪
 vless://5a4abb78-ecd7-4d68-ab2a-c11a3842f261@198.62.62.248:443?security=tls&type=ws&path=%2Flove&host=tar.alabama-tigr.info&sni=tar.alabama-tigr.info&fp=chrome#%F0%9F%87%AC%F0%9F%87%A7%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E8%8B%B1%E5%9B%BD%2001
 vless://5d77589d-8553-4955-a1bc-16969a5fe8e5@172.237.133.129:443?type=xhttp&path=/&host=&mode=stream-one&security=none#Germany
 vless://5d77589d-8553-4955-a1bc-16969a5fe8e5@172.238.160.113:443?type=xhttp&path=/&host=&mode=stream-one&security=none#Germany
