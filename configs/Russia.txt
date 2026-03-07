@@ -60,7 +60,6 @@ ss://YWVzLTI1Ni1jZmI6UzdLd1V1N3lCeTU4UzNHYQ==@45.89.52.66:9042#%F0%9F%87%B7%F0%9
 ss://YWVzLTI1Ni1jZmI6VE4yWXFnaHhlRkRLWmZMVQ==@45.89.52.66:9037#%F0%9F%87%B7%F0%9F%87%BARU-45.89.52.66-7993
 ss://YWVzLTI1Ni1jZmI6VTZxbllSaGZ5RG1uOHNnbg==@45.89.52.66:9041#%F0%9F%87%B7%F0%9F%87%BARU-45.89.52.66-7991
 ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@31.172.67.43:443#%F0%9F%87%B7%F0%9F%87%BARU-31.172.67.43-8069
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@38.60.223.8:989#%F0%9F%87%B7%F0%9F%87%BARU-38.60.223.8-0164
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@38.60.223.8:989#%F0%9F%87%B7%F0%9F%87%BARU-38.60.223.8-0298
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@92.223.109.126:989#%F0%9F%87%B7%F0%9F%87%BARU-92.223.109.126-3778
 ss://YWVzLTI1Ni1jZmI6cDl6NUJWQURIMllGczNNTg==@45.89.52.66:9040#%F0%9F%87%B7%F0%9F%87%BARU-45.89.52.66-7992
@@ -84,6 +83,7 @@ ss://e0ff43e6-76ed-42f3-a1f0-1bbd5f8ee59d@217.114.15.157:443?mode=auto&path=%2F&
 ss://e5bd3d75-06b3-490e-9651-930b1dc29cdb@45.145.163.115:39771?security=reality&encryption=none&pbk=GMnXK7wz7qTo_IFmPy--pQcODPhYJG_CLaY2Sh4fTCI&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=yahoo.com&sid=33f2#REALITY|RU🇷🇺
 ss://edc9daf2-fc2e-435b-a87b-8427020b1d40@217.16.25.94:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=urvTdWo4dZxKfyZPbqMnVhX319f-6W_7pZtHITljvy4&security=reality&sid=aca9&sni=max.ru&type=tcp#REALITY|RU🇷🇺
 ss://f1449968-0329-468b-b56b-1c573ac2a767@46.243.233.78:8081?encryption=none&fp=chrome&pbk=ejkcpsl0dv7mtu26gg6tumkpw_advo2ahrargnn6b14&security=reality&sid=425ba80cd1a821a8&sni=sun6-21.userapi.com&type=tcp#REALITY|RU🇷🇺
+ss://f1e74548-4c0b-463b-b68d-0d1ec48c965d@45.12.114.73:8443?path=%2Fws-vless%2F&security=tls&encryption=none&insecure=1&host=rus21.unboundworld.org&type=ws&allowInsecure=1&sni=rus21.unboundworld.org#%3E%3E%40outline_vpn%3A%3ARU
 ss://f1e74548-4c0b-463b-b68d-0d1ec48c965d@45.12.114.73:8443?path=/ws-vless/&security=tls&encryption=none&insecure=1&host=rus21.unboundworld.org&type=ws&allowInsecure=1&sni=rus21.unboundworld.org#RU🇷🇺
 ss://f23b2b7e-c876-4f7f-bca5-20a4f57c3864@185.39.206.212:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.jobinvest.ru&fp=chrome&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=#REALITY|RU🇷🇺
 ss://f23dd209-5f9a-4e82-b975-38b32df69e86@62.84.119.10:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=yandex.ru&fp=chrome&security=reality&pbk=36hklag_tQNTa-asdzniCl22p3f5jgPK7RsMOBckpkc&sid=02468ace13579bdf#REALITY|RU🇷🇺
@@ -133,6 +133,7 @@ vless://e0ff43e6-76ed-42f3-a1f0-1bbd5f8ee59d@217.114.15.157:443?mode=auto&path=%
 vless://e5bd3d75-06b3-490e-9651-930b1dc29cdb@45.145.163.115:39771?security=reality&encryption=none&pbk=GMnXK7wz7qTo_IFmPy--pQcODPhYJG_CLaY2Sh4fTCI&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=yahoo.com&sid=33f2#REALITY|RU🇷🇺
 vless://edc9daf2-fc2e-435b-a87b-8427020b1d40@217.16.25.94:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=urvTdWo4dZxKfyZPbqMnVhX319f-6W_7pZtHITljvy4&security=reality&sid=aca9&sni=max.ru&type=tcp#REALITY|RU🇷🇺
 vless://f1449968-0329-468b-b56b-1c573ac2a767@46.243.233.78:8081?encryption=none&fp=chrome&pbk=ejkcpsl0dv7mtu26gg6tumkpw_advo2ahrargnn6b14&security=reality&sid=425ba80cd1a821a8&sni=sun6-21.userapi.com&type=tcp#REALITY|RU🇷🇺
+vless://f1e74548-4c0b-463b-b68d-0d1ec48c965d@45.12.114.73:8443?path=%2Fws-vless%2F&security=tls&encryption=none&insecure=1&host=rus21.unboundworld.org&type=ws&allowInsecure=1&sni=rus21.unboundworld.org#%3E%3E%40outline_vpn%3A%3ARU
 vless://f1e74548-4c0b-463b-b68d-0d1ec48c965d@45.12.114.73:8443?path=/ws-vless/&security=tls&encryption=none&insecure=1&host=rus21.unboundworld.org&type=ws&allowInsecure=1&sni=rus21.unboundworld.org#RU🇷🇺
 vless://f23b2b7e-c876-4f7f-bca5-20a4f57c3864@185.39.206.212:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.jobinvest.ru&fp=chrome&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=#REALITY|RU🇷🇺
 vless://f23dd209-5f9a-4e82-b975-38b32df69e86@62.84.119.10:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=yandex.ru&fp=chrome&security=reality&pbk=36hklag_tQNTa-asdzniCl22p3f5jgPK7RsMOBckpkc&sid=02468ace13579bdf#REALITY|RU🇷🇺
