@@ -192,7 +192,11 @@ ss://6a7383fe-dcc1-491d-89b1-c902e4be8eb1@151.101.194.219:80?security=none&type=
 ss://6e44b298-a091-4433-af5e-c89afd438c98@us-4.hwowst.ru:8443?mode=auto&path=%2Fxhttp&security=reality&encryption=none&pbk=alCKf4MZILvvBYncFnXEpX1V1rcdFJb78JtDBL-VjFE&fp=chrome&spx=%2F&type=xhttp&sni=www.samsung.com#REALITY|US🇺🇸
 ss://6fab6cc6-e340-4073-93e1-c6c6802002c7@104.26.14.21:443?path=/167.179.110.68=8443&security=tls&encryption=none&insecure=1&host=afrcloud22.mmv.kr&type=ws&allowInsecure=1&sni=afrcloud22.mmv.kr#US🇺🇸
 ss://6ff581e0-4622-4af2-9b57-37dbcd6dee1e@151.101.10.79:443?security=tls&encryption=none&insecure=1&host=nesfhab.global.ssl.fastly.net&type=ws&allowInsecure=1&sni=speedtest.net#US🇺🇸
+ss://6ff581e0-4622-4af2-9b57-37dbcd6dee1e@151.101.10.79:443?security=tls&type=ws&headerType=&path=&host=nesfhab.global.ssl.fastly.net&sni=speedtest.net&fp=&allowInsecure=1#US🇺🇸
 ss://6ff581e0-4622-4af2-9b57-37dbcd6dee1e@fs.cedriklorenz.ir:443?security=tls&encryption=none&insecure=1&host=geroijji.global.ssl.fastly.net&type=ws&allowInsecure=1&sni=speedtest.net#US🇺🇸
+ss://6ff581e0-4622-4af2-9b57-37dbcd6dee1e@fs.cedriklorenz.ir:443?security=tls&type=ws&headerType=&path=&host=finloijji.global.ssl.fastly.net&sni=speedtest.net&fp=&allowInsecure=1#US🇺🇸
+ss://6ff581e0-4622-4af2-9b57-37dbcd6dee1e@fs.cedriklorenz.ir:443?security=tls&type=ws&headerType=&path=&host=frenchboijji.global.ssl.fastly.net&sni=speedtest.net&fp=&allowInsecure=1#US🇺🇸
+ss://6ff581e0-4622-4af2-9b57-37dbcd6dee1e@fs.cedriklorenz.ir:443?security=tls&type=ws&headerType=&path=&host=geroijji.global.ssl.fastly.net&sni=speedtest.net&fp=&allowInsecure=1#US🇺🇸
 ss://6ff581e0-4622-4af2-9b57-37dbcd6dee1e@fs.cedriklorenz.ir:443?security=tls&type=ws&headerType=&path=&host=italyforme.global.ssl.fastly.net&sni=speedtest.net&fp=&allowInsecure=1#US🇺🇸
 ss://6ff581e0-4622-4af2-9b57-37dbcd6dee1e@fs.cedriklorenz.ir:443?security=tls&type=ws&headerType=&path=&host=swedenjji.global.ssl.fastly.net&sni=speedtest.net&fp=&allowInsecure=1#US🇺🇸
 ss://6ff581e0-4622-4af2-9b57-37dbcd6dee1e@fs.cedriklorenz.ir:443?security=tls&type=ws&headerType=&path=&host=ukamanaji.global.ssl.fastly.net&sni=speedtest.net&fp=&allowInsecure=1#US🇺🇸
@@ -1897,7 +1901,11 @@ vless://6a7383fe-dcc1-491d-89b1-c902e4be8eb1@151.101.194.219:80?security=none&ty
 vless://6e44b298-a091-4433-af5e-c89afd438c98@us-4.hwowst.ru:8443?mode=auto&path=%2Fxhttp&security=reality&encryption=none&pbk=alCKf4MZILvvBYncFnXEpX1V1rcdFJb78JtDBL-VjFE&fp=chrome&spx=%2F&type=xhttp&sni=www.samsung.com#REALITY|US🇺🇸
 vless://6fab6cc6-e340-4073-93e1-c6c6802002c7@104.26.14.21:443?path=/167.179.110.68=8443&security=tls&encryption=none&insecure=1&host=afrcloud22.mmv.kr&type=ws&allowInsecure=1&sni=afrcloud22.mmv.kr#US🇺🇸
 vless://6ff581e0-4622-4af2-9b57-37dbcd6dee1e@151.101.10.79:443?security=tls&encryption=none&insecure=1&host=nesfhab.global.ssl.fastly.net&type=ws&allowInsecure=1&sni=speedtest.net#US🇺🇸
+vless://6ff581e0-4622-4af2-9b57-37dbcd6dee1e@151.101.10.79:443?security=tls&type=ws&headerType=&path=&host=nesfhab.global.ssl.fastly.net&sni=speedtest.net&fp=&allowInsecure=1#US🇺🇸
 vless://6ff581e0-4622-4af2-9b57-37dbcd6dee1e@fs.cedriklorenz.ir:443?security=tls&encryption=none&insecure=1&host=geroijji.global.ssl.fastly.net&type=ws&allowInsecure=1&sni=speedtest.net#US🇺🇸
+vless://6ff581e0-4622-4af2-9b57-37dbcd6dee1e@fs.cedriklorenz.ir:443?security=tls&type=ws&headerType=&path=&host=finloijji.global.ssl.fastly.net&sni=speedtest.net&fp=&allowInsecure=1#US🇺🇸
+vless://6ff581e0-4622-4af2-9b57-37dbcd6dee1e@fs.cedriklorenz.ir:443?security=tls&type=ws&headerType=&path=&host=frenchboijji.global.ssl.fastly.net&sni=speedtest.net&fp=&allowInsecure=1#US🇺🇸
+vless://6ff581e0-4622-4af2-9b57-37dbcd6dee1e@fs.cedriklorenz.ir:443?security=tls&type=ws&headerType=&path=&host=geroijji.global.ssl.fastly.net&sni=speedtest.net&fp=&allowInsecure=1#US🇺🇸
 vless://6ff581e0-4622-4af2-9b57-37dbcd6dee1e@fs.cedriklorenz.ir:443?security=tls&type=ws&headerType=&path=&host=italyforme.global.ssl.fastly.net&sni=speedtest.net&fp=&allowInsecure=1#US🇺🇸
 vless://6ff581e0-4622-4af2-9b57-37dbcd6dee1e@fs.cedriklorenz.ir:443?security=tls&type=ws&headerType=&path=&host=swedenjji.global.ssl.fastly.net&sni=speedtest.net&fp=&allowInsecure=1#US🇺🇸
 vless://6ff581e0-4622-4af2-9b57-37dbcd6dee1e@fs.cedriklorenz.ir:443?security=tls&type=ws&headerType=&path=&host=ukamanaji.global.ssl.fastly.net&sni=speedtest.net&fp=&allowInsecure=1#US🇺🇸
