@@ -197,7 +197,6 @@ ss://bf3f47cb-de07-4d7f-b8c6-ffff0c7516ac@212.233.98.234:443?encryption=none&flo
 ss://c0c2c64b-cf04-49bf-bfa1-7a04169e2cf4@87.239.108.175:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=rbc.ru&fp=chrome&pbk=KYlgK96xPZJq10GbhF-BaCXRxXc9XzxzfICdooYvMlg&sid=f45c9665f3261108&type=tcp&headerType=none#https://t.me/allproconf
 ss://c0c2c64b-cf04-49bf-bfa1-7a04169e2cf4@87.239.108.175:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=rbc.ru&fp=chrome&pbk=KYlgK96xPZJq10GbhF-BaCXRxXc9XzxzfICdooYvMlg&sid=d020b987f84eb78a&type=tcp&headerType=none#https://t.me/allproconf
 ss://c8c75018-26ab-4501-be3e-f7bb33ed8c57@ja3.diiginet.ir:1500?security=none&encryption=none&host=reata.ir&headerType=http&type=tcp#https://t.me/ConfigX2ray
-ss://ccac781d-1f3e-4e5b-99c2-d07d653b81e8@rk4no3.cdnhoo.top:80?encryption=none&security=none&type=ws&path=%2Fget#https://t.me/ConfigX2ray
 ss://ccac781d-1f3e-4e5b-99c2-d07d653b81e8@rk4no3.cdnhoo.top:80?encryption=none&security=none&type=ws&path=%2Fget#https://t.me/v
 ss://ccac781d-1f3e-4e5b-99c2-d07d653b81e8@rk4no3.cdnhoo.top:80?encryption=none&security=none&type=ws&path=/get#https://t.me/ConfigX2ray
 ss://ccdf58c8-b9d4-4bc7-a55e-e6965cc71fc7@51.250.43.209:8080?encryption=none&security=reality&sni=max.ru&fp=chrome&pbk=w28tNIWZCfW4X9aQDLwXECK3pU59zihJ0GIMA13u5X8&type=tcp&headerType=none#https://t.me/allproconf
@@ -468,7 +467,6 @@ vless://bf3f47cb-de07-4d7f-b8c6-ffff0c7516ac@212.233.98.234:443?encryption=none&
 vless://c0c2c64b-cf04-49bf-bfa1-7a04169e2cf4@87.239.108.175:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=rbc.ru&fp=chrome&pbk=KYlgK96xPZJq10GbhF-BaCXRxXc9XzxzfICdooYvMlg&sid=f45c9665f3261108&type=tcp&headerType=none#https://t.me/allproconf
 vless://c0c2c64b-cf04-49bf-bfa1-7a04169e2cf4@87.239.108.175:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=rbc.ru&fp=chrome&pbk=KYlgK96xPZJq10GbhF-BaCXRxXc9XzxzfICdooYvMlg&sid=d020b987f84eb78a&type=tcp&headerType=none#https://t.me/allproconf
 vless://c8c75018-26ab-4501-be3e-f7bb33ed8c57@ja3.diiginet.ir:1500?security=none&encryption=none&host=reata.ir&headerType=http&type=tcp#https://t.me/ConfigX2ray
-vless://ccac781d-1f3e-4e5b-99c2-d07d653b81e8@rk4no3.cdnhoo.top:80?encryption=none&security=none&type=ws&path=%2Fget#https://t.me/ConfigX2ray
 vless://ccac781d-1f3e-4e5b-99c2-d07d653b81e8@rk4no3.cdnhoo.top:80?encryption=none&security=none&type=ws&path=%2Fget#https://t.me/v
 vless://ccac781d-1f3e-4e5b-99c2-d07d653b81e8@rk4no3.cdnhoo.top:80?encryption=none&security=none&type=ws&path=/get#https://t.me/ConfigX2ray
 vless://ccdf58c8-b9d4-4bc7-a55e-e6965cc71fc7@51.250.43.209:8080?encryption=none&security=reality&sni=max.ru&fp=chrome&pbk=w28tNIWZCfW4X9aQDLwXECK3pU59zihJ0GIMA13u5X8&type=tcp&headerType=none#https://t.me/allproconf
