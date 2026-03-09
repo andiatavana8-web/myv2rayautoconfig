@@ -117,6 +117,7 @@ ss://a611c5bb-ffc8-4ef7-876e-35248b5b389d@45.84.222.48:2053?security=reality&enc
 ss://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@104.16.2.90:443?path=/&security=tls&encryption=none&insecure=0&host=afrcloud22.mmv.kr&type=ws&allowInsecure=0&sni=ProxyVPN11.afrcloud22.mmv.kr#@Proxyiranip
 ss://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@104.16.2.90:443?path=/43.218.77.16=1443&security=tls&encryption=none&insecure=0&host=afrcloud22.mmv.kr&type=ws&allowInsecure=0&sni=ProxyVPN11.afrcloud22.mmv.kr#IR-@V2rayAlpha-10
 ss://ab8543cd-0e65-4b74-f5ad-932cffe0a12a@37.156.145.183:40652?security=none&encryption=none&headerType=none&type=tcp#@Proxyiranip
+ss://ab8543cd-0e65-4b74-f5ad-932cffe0a12a@37.156.145.183:40652?security=none&encryption=none&headerType=none&type=tcp#IR🇮🇷
 ss://ac97a0e4-6b24-4437-a9c8-8f08ff59ca1c@farzandeiran.iransalar.top:21531?security=none&encryption=none&headerType=http&type=tcp#@Proxyiranip
 ss://b1f74879-f4a1-415f-ad8a-c92d9ef5376a@ns.cloudflare.com:8880?path=/@iraniV2ray_config,+@iraniV2ray_config/?ed=2560&security=none&encryption=none&host=iraniV2ray.nanowaash-shop.ir.&type=httpupgrade#🇩🇪-@iraniV2ray_config-
 ss://b31c46fe-25db-4109-ab46-3f1343bd752b@airman-defense.oblivionspark.com:5874?security=none&encryption=none&headerType=http&type=tcp#%40vmess_iran
@@ -133,12 +134,12 @@ ss://c060fdc3-2144-b7b8-209b-43758b9e7d97@[::ffff:5eb8:0721]:49888?security=none
 ss://c060fdd9-3b5e-ada2-3a81-596f9184671b@[::ffff:5eb8:1fa2]:58059?security=none&encryption=none&host=arvancloud.ir&headerType=http&type=tcp#@Proxyiranip
 ss://c060fdda-385d-aea1-3982-5a6c92876481@[::ffff:5585:f92b]:58387?security=none&encryption=none&host=arvancloud.ir&headerType=http&type=tcp#@Proxyiranip
 ss://c060fdfd-1f7a-8986-1ea5-7d4bb5a04302@[::ffff:5eb8:071b]:49888?security=none&encryption=none&headerType=none&type=tcp#@Proxyiranip
+ss://c17682e5-0b20-4e6d-b58d-8a0f753f3513@109.95.65.242:8032?security=none&encryption=none&host=soft98.ir&headerType=http&type=tcp#IR🇮🇷
 ss://c8e902d8-a6aa-4d63-a5b3-553ed9fb4dd2@94.101.180.186:3000?type=tcp&security=none#@Proxyiranip
 ss://c967de89-af86-4eba-be64-34e5656ca994@185.126.203.167:16957?security=none&encryption=none&headerType=none&type=tcp#IR🇮🇷
 ss://c970f910-1103-446a-bdc8-a9cfb22381bf@144.31.214.13:443?security=reality&encryption=none&pbk=6HaGh1HqaHwxHL7-y-Xpi1vj1lsIM_b-jdY7iG5eOFA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fr4.darknet.run&sid=a1b223d4#@Proxyiranip
 ss://ca492b57-4e98-49d5-aed2-61b67a2ec559@85.133.240.160:35812?security=reality&encryption=none&pbk=LOS87LofEJA0paPzrS2mIFhmTaqkOZC-AUFgNvE1UEs&headerType=none&fp=chrome&type=tcp&sni=learn.microsoft.com&sid=82cada35130f1ef2#IR🇮🇷
 ss://cc2c5e42-1693-4d54-8e03-afbaf88ca93f@94.183.241.82:1000?encryption=none&security=none&type=tcp&headerType=none#%40vmess_iran
-ss://cfa16ab9-d5f2-4121-afae-114bc5bb0b3f@dl-film.digitalvortex.ir:3038?type=ws&path=/&host=&security=none#IR🇮🇷
 ss://d0298536-d670-4045-bbb1-ddd5ea68683e@172.67.110.232:443?path=%2Fazadnet-919.pages.dev%2F%3Fed%3D2560%26prot_type%3Dvless&security=tls&encryption=none&insecure=0&host=azadnet-919.pages.dev&fp=randomized&type=ws&allowInsecure=0&sni=azadnet-919.pages.dev#%40vmess_iran
 ss://d40e96b2-0203-4e62-bffb-cc8f338917dd@L-iq-emergency2-7788yo.j0je.ir:5480?security=none&encryption=none&host=anten.ir&headerType=http&type=tcp#@Proxyiranip
 ss://d40e96b2-0203-4e62-bffb-cc8f338917dd@L-iq-emergency2-7788yo.j0je.ir:5480?security=none&encryption=none&host=anten.ir&headerType=http&type=tcp#IR🇮🇷
@@ -291,6 +292,7 @@ vless://a611c5bb-ffc8-4ef7-876e-35248b5b389d@45.84.222.48:2053?security=reality&
 vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@104.16.2.90:443?path=/&security=tls&encryption=none&insecure=0&host=afrcloud22.mmv.kr&type=ws&allowInsecure=0&sni=ProxyVPN11.afrcloud22.mmv.kr#@Proxyiranip
 vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@104.16.2.90:443?path=/43.218.77.16=1443&security=tls&encryption=none&insecure=0&host=afrcloud22.mmv.kr&type=ws&allowInsecure=0&sni=ProxyVPN11.afrcloud22.mmv.kr#IR-@V2rayAlpha-10
 vless://ab8543cd-0e65-4b74-f5ad-932cffe0a12a@37.156.145.183:40652?security=none&encryption=none&headerType=none&type=tcp#@Proxyiranip
+vless://ab8543cd-0e65-4b74-f5ad-932cffe0a12a@37.156.145.183:40652?security=none&encryption=none&headerType=none&type=tcp#IR🇮🇷
 vless://ac97a0e4-6b24-4437-a9c8-8f08ff59ca1c@farzandeiran.iransalar.top:21531?security=none&encryption=none&headerType=http&type=tcp#@Proxyiranip
 vless://b1f74879-f4a1-415f-ad8a-c92d9ef5376a@ns.cloudflare.com:8880?path=/@iraniV2ray_config,+@iraniV2ray_config/?ed=2560&security=none&encryption=none&host=iraniV2ray.nanowaash-shop.ir.&type=httpupgrade#🇩🇪-@iraniV2ray_config-
 vless://b31c46fe-25db-4109-ab46-3f1343bd752b@airman-defense.oblivionspark.com:5874?security=none&encryption=none&headerType=http&type=tcp#%40vmess_iran
@@ -307,12 +309,12 @@ vless://c060fdc3-2144-b7b8-209b-43758b9e7d97@[::ffff:5eb8:0721]:49888?security=n
 vless://c060fdd9-3b5e-ada2-3a81-596f9184671b@[::ffff:5eb8:1fa2]:58059?security=none&encryption=none&host=arvancloud.ir&headerType=http&type=tcp#@Proxyiranip
 vless://c060fdda-385d-aea1-3982-5a6c92876481@[::ffff:5585:f92b]:58387?security=none&encryption=none&host=arvancloud.ir&headerType=http&type=tcp#@Proxyiranip
 vless://c060fdfd-1f7a-8986-1ea5-7d4bb5a04302@[::ffff:5eb8:071b]:49888?security=none&encryption=none&headerType=none&type=tcp#@Proxyiranip
+vless://c17682e5-0b20-4e6d-b58d-8a0f753f3513@109.95.65.242:8032?security=none&encryption=none&host=soft98.ir&headerType=http&type=tcp#IR🇮🇷
 vless://c8e902d8-a6aa-4d63-a5b3-553ed9fb4dd2@94.101.180.186:3000?type=tcp&security=none#@Proxyiranip
 vless://c967de89-af86-4eba-be64-34e5656ca994@185.126.203.167:16957?security=none&encryption=none&headerType=none&type=tcp#IR🇮🇷
 vless://c970f910-1103-446a-bdc8-a9cfb22381bf@144.31.214.13:443?security=reality&encryption=none&pbk=6HaGh1HqaHwxHL7-y-Xpi1vj1lsIM_b-jdY7iG5eOFA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fr4.darknet.run&sid=a1b223d4#@Proxyiranip
 vless://ca492b57-4e98-49d5-aed2-61b67a2ec559@85.133.240.160:35812?security=reality&encryption=none&pbk=LOS87LofEJA0paPzrS2mIFhmTaqkOZC-AUFgNvE1UEs&headerType=none&fp=chrome&type=tcp&sni=learn.microsoft.com&sid=82cada35130f1ef2#IR🇮🇷
 vless://cc2c5e42-1693-4d54-8e03-afbaf88ca93f@94.183.241.82:1000?encryption=none&security=none&type=tcp&headerType=none#%40vmess_iran
-vless://cfa16ab9-d5f2-4121-afae-114bc5bb0b3f@dl-film.digitalvortex.ir:3038?type=ws&path=/&host=&security=none#IR🇮🇷
 vless://d0298536-d670-4045-bbb1-ddd5ea68683e@172.67.110.232:443?path=%2Fazadnet-919.pages.dev%2F%3Fed%3D2560%26prot_type%3Dvless&security=tls&encryption=none&insecure=0&host=azadnet-919.pages.dev&fp=randomized&type=ws&allowInsecure=0&sni=azadnet-919.pages.dev#%40vmess_iran
 vless://d40e96b2-0203-4e62-bffb-cc8f338917dd@L-iq-emergency2-7788yo.j0je.ir:5480?security=none&encryption=none&host=anten.ir&headerType=http&type=tcp#@Proxyiranip
 vless://d40e96b2-0203-4e62-bffb-cc8f338917dd@L-iq-emergency2-7788yo.j0je.ir:5480?security=none&encryption=none&host=anten.ir&headerType=http&type=tcp#IR🇮🇷
