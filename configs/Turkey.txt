@@ -1,5 +1,5 @@
 ss://309fa273-6579-4cb2-9143-7cad50401eba@45.12.143.84:8443?security=reality&type=tcp&sni=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&sid=7cad5040&pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&encryption=none#REALITY|TR🇹🇷
-ss://77ea8d6c-1a96-11f1-be1f-1744d2a6f511@tr2.vpnjantit.com:10004?path=/vpnjantit&security=&encryption=none&type=ws#TR🇹🇷
+ss://77ea8d6c-1a96-11f1-be1f-1744d2a6f511@tr2.vpnjantit.com:10004?path=/vpnjantit&security=none&encryption=none&type=ws#TR🇹🇷
 ss://95fef34acace4297a21d4c1279e3c1e3@62.133.63.16:8443?encryption=none&type=xhttp&path=%2Fx&security=reality&sni=ya.ru&pbk=FGrarac77zQTx2fWhZvnxy_hLzBqUtQ7xWktrapS3gY&sid=aabbccdd&fp=random#REALITY|TR🇹🇷
 ss://9bde09b3-09b5-4d7a-b5fd-3fae8dfeed5a@185.72.9.200:56126?encryption=none&security=none&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3ATR
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3SW9wblgwd3pFa3JjM1pjVlE5Nzh6@185.39.204.189:34085#TR%F0%9F%87%B9%F0%9F%87%B7+%7C+185.39.204.189-34085+%7C+187.44ms
@@ -29,7 +29,7 @@ ss://a44e0875-210f-4941-9062-89b6361a14c6@94.131.123.167:443?security=reality&en
 ss://bbed94d9-1120-4b54-8a9c-72d81e411fb8@144.31.130.98:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=google.com&fp=chrome&security=reality&pbk=grtFOGUrAtlH0xAPpkqkXTAnaCHALmEn7nsohxxx3iE&sid=729c8d42f7bb139a#REALITY|TR🇹🇷
 ss://c10999b4-7f93-5a50-3908-1467b1e52ae2@155.212.110.2:993?security=reality&encryption=none&pbk=GfTzhy59k9CXlAdF819OUVeBdrqIILaDIWa1bddjGnA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com#REALITY|TR🇹🇷
 vless://309fa273-6579-4cb2-9143-7cad50401eba@45.12.143.84:8443?security=reality&type=tcp&sni=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&sid=7cad5040&pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&encryption=none#REALITY|TR🇹🇷
-vless://77ea8d6c-1a96-11f1-be1f-1744d2a6f511@tr2.vpnjantit.com:10004?path=/vpnjantit&security=&encryption=none&type=ws#TR🇹🇷
+vless://77ea8d6c-1a96-11f1-be1f-1744d2a6f511@tr2.vpnjantit.com:10004?path=/vpnjantit&security=none&encryption=none&type=ws#TR🇹🇷
 vless://95fef34acace4297a21d4c1279e3c1e3@62.133.63.16:8443?encryption=none&type=xhttp&path=%2Fx&security=reality&sni=ya.ru&pbk=FGrarac77zQTx2fWhZvnxy_hLzBqUtQ7xWktrapS3gY&sid=aabbccdd&fp=random#REALITY|TR🇹🇷
 vless://9bde09b3-09b5-4d7a-b5fd-3fae8dfeed5a@185.72.9.200:56126?encryption=none&security=none&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3ATR
 vless://a40b0a127d65404a9e15b31e1c0c352b@185.39.204.189:443?security=reality&sni=m.vk.com&alpn=h2&fp=chrome&pbk=8xKzWSx8JZFIJPRBaxbznHriYpsb5HWqIz9sdDmWgks&sid=aabbccdd&type=tcp&flow=xtls-rprx-vision&encryption=none#REALITY|TR🇹🇷
