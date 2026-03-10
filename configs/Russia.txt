@@ -6,7 +6,6 @@ ss://14b02e2a-8930-4afb-8412-ea4a4954ca5b@46.8.227.138:8443?&security=tls&fp=chr
 ss://1537344c-663d-45d7-aeee-0c89e3430fff@51.250.119.248:16409?&security=reality&flow=xtls-rprx-vision&pbk=G9mVzpnzkZkCJz-2yBZlDcPifowapcFvKNacVDroynk&sid=ac43&fp=chrome&sni=www.microsoft.com&type=tcp&headerType=none&path=%2F#_%E4%BF%84%E7%BD%97%E6%96%AF%205
 ss://1537344c-663d-45d7-aeee-0c89e3430fff@51.250.119.248:16409?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=G9mVzpnzkZkCJz-2yBZlDcPifowapcFvKNacVDroynk&security=reality&sid=ac43&sni=www.microsoft.com&type=tcp#REALITY|RU🇷🇺
 ss://36c5bf57-569d-4826-9175-f9ae69dabd09@51.250.8.26:8449?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=eWc4OGy6tScPuAS_MCVSrFpqJRj1uC9f1gh6YLc332M&security=reality&sni=ads.x5.ru&type=tcp#REALITY|RU🇷🇺
-ss://36d63b0e-af50-4989-adf0-5a0787948237@217.16.27.208:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=max.ru&fp=chrome&pbk=sbU_YZa-qqOoo3MY3lyLdAYFn1ZQVXKR4ewqwVRBB1E&sid=00&spx=%2F&allowInsecure=1&type=tcp&headerType=none#%3E%3E%40v2line%3A%3ARU
 ss://466b66c5f281499e8bec5eb5ee5a5311@91.184.245.60:8443?encryption=none&type=xhttp&path=%2Fx&security=reality&sni=ya.ru&pbk=_uDfJdzfvDID9RWp38olWW45rgvDL1ne8OQWE_GAyH4&sid=aabbccdd&fp=random#REALITY|RU🇷🇺
 ss://46c9a909-2e81-4f6f-b999-def280062188@185.234.59.89:17443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&security=reality&sid=e499f276e7bd6420&sni=hls-svod.itunes.apple.com&type=tcp#REALITY|RU🇷🇺
 ss://4706e106-9637-46fb-9536-1dacd57889fe@185.86.147.96:5443?security=reality&encryption=none&pbk=UZZZh7NCnRvU1y7D45FgrZFwIDVIrdLm8TVjx6IudGQ&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=yandex.ru&sid=a1b2c3d4e5f60789#REALITY|RU🇷🇺
@@ -56,7 +55,6 @@ ss://YWVzLTI1Ni1jZmI6VE4yWXFnaHhlRkRLWmZMVQ==@45.89.52.66:9037#%F0%9F%87%B7%F0%9
 ss://YWVzLTI1Ni1jZmI6VTZxbllSaGZ5RG1uOHNnbg==@45.89.52.66:9041#%F0%9F%87%B7%F0%9F%87%BARU-45.89.52.66-7961
 ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@31.172.67.43:443#%F0%9F%87%B7%F0%9F%87%BARU-31.172.67.43-8039
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@38.60.223.8:989#%F0%9F%87%B7%F0%9F%87%BARU-38.60.223.8-0264
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@38.60.223.8:989#%F0%9F%87%B7%F0%9F%87%BARU-38.60.223.8-0293
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@92.223.109.126:989#%F0%9F%87%B7%F0%9F%87%BARU-92.223.109.126-3740
 ss://YWVzLTI1Ni1jZmI6cDl6NUJWQURIMllGczNNTg==@45.89.52.66:9040#%F0%9F%87%B7%F0%9F%87%BARU-45.89.52.66-7962
 ss://YWVzLTI1Ni1jZmI6dWVMWFZrdmg0aGNraEVyUUAyMTcuMzAuMTAuMTg6OTA2MA==#%F0%9F%87%B7%F0%9F%87%BA_RU_%E4%BF%84%E7%BD%97%E6%96%AF
@@ -98,7 +96,6 @@ vless://14b02e2a-8930-4afb-8412-ea4a4954ca5b@46.8.227.138:8443?&security=tls&fp=
 vless://1537344c-663d-45d7-aeee-0c89e3430fff@51.250.119.248:16409?&security=reality&flow=xtls-rprx-vision&pbk=G9mVzpnzkZkCJz-2yBZlDcPifowapcFvKNacVDroynk&sid=ac43&fp=chrome&sni=www.microsoft.com&type=tcp&headerType=none&path=%2F#_%E4%BF%84%E7%BD%97%E6%96%AF%205
 vless://1537344c-663d-45d7-aeee-0c89e3430fff@51.250.119.248:16409?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=G9mVzpnzkZkCJz-2yBZlDcPifowapcFvKNacVDroynk&security=reality&sid=ac43&sni=www.microsoft.com&type=tcp#REALITY|RU🇷🇺
 vless://36c5bf57-569d-4826-9175-f9ae69dabd09@51.250.8.26:8449?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=eWc4OGy6tScPuAS_MCVSrFpqJRj1uC9f1gh6YLc332M&security=reality&sni=ads.x5.ru&type=tcp#REALITY|RU🇷🇺
-vless://36d63b0e-af50-4989-adf0-5a0787948237@217.16.27.208:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=max.ru&fp=chrome&pbk=sbU_YZa-qqOoo3MY3lyLdAYFn1ZQVXKR4ewqwVRBB1E&sid=00&spx=%2F&allowInsecure=1&type=tcp&headerType=none#%3E%3E%40v2line%3A%3ARU
 vless://466b66c5f281499e8bec5eb5ee5a5311@91.184.245.60:8443?encryption=none&type=xhttp&path=%2Fx&security=reality&sni=ya.ru&pbk=_uDfJdzfvDID9RWp38olWW45rgvDL1ne8OQWE_GAyH4&sid=aabbccdd&fp=random#REALITY|RU🇷🇺
 vless://46c9a909-2e81-4f6f-b999-def280062188@185.234.59.89:17443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&security=reality&sid=e499f276e7bd6420&sni=hls-svod.itunes.apple.com&type=tcp#REALITY|RU🇷🇺
 vless://4706e106-9637-46fb-9536-1dacd57889fe@185.86.147.96:5443?security=reality&encryption=none&pbk=UZZZh7NCnRvU1y7D45FgrZFwIDVIrdLm8TVjx6IudGQ&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=yandex.ru&sid=a1b2c3d4e5f60789#REALITY|RU🇷🇺
