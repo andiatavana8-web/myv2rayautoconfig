@@ -1,6 +1,5 @@
 ss://00a9b792-2bb4-437b-9228-565c1c994f1c@ghyu.huangzi.cfd:443?encryption=none&type=ws&host=ghyu.huangzi.cfd&path=/9ELnrxvuY6f5UlQSLlXnsEj2y6&security=tls#@Proxyiranip
 ss://0195d3b8-8bfa-4c6e-9988-56396952a50a@finland.dehnavy.ir:39461?path=/&security=none&encryption=none&type=ws#@Proxyiranip
-ss://0195d3b8-8bfa-4c6e-9988-56396952a50a@finland.dehnavy.ir:39461?path=/&security=none&encryption=none&type=ws#IR🇮🇷
 ss://0449df84-00de-4d7f-8d2f-edd02636441b@164.138.17.41:58841?security=&encryption=none&headerType=&type=tcp#@Proxyiranip
 ss://0509acee-63e3-4364-95cc-21c601f059be@kz-general.vps-m.ru:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&pbk=6r6uq4tZym5wRhJ5uti-h-UvN6uatQodMcG8rBU79Q4&sni=booking.com#@Proxyiranip
 ss://07d8f3e0-6093-4887-940d-3c729e84b552@file900.fineartsnet.com:900?security=&encryption=none&host=myket.ir&headerType=http&type=tcp#%40vmess_iran
@@ -143,6 +142,7 @@ ss://a27d67a1-4ed5-4d06-83e2-f7762e0f5423@haji.arezoni1.ir:666?security=none&enc
 ss://a5bab260-afbc-4667-9e41-78927bc3c778@37.32.6.3:8090?type=tcp&path=/&host=Telewebion.ir&headerType=http&security=none#@Proxyiranip
 ss://a5c05c1e-aa68-443f-8598-09800244bd4b@192.71.82.2:443?path=%2FLiL%3Fed%3D2560&security=tls&encryption=none&alpn=h3&host=kingmethode.bIack.ir&fp=firefox&type=ws&sni=kingmethode.bIack.ir#IR🇮🇷
 ss://a72f055b-8929-4947-bbcd-1eb567e1f69e@demo.fllanagan.shop:443?security=none&encryption=none&headerType=none&type=tcp#@Proxyiranip
+ss://a77c4ad0-8934-4ff8-a67d-e97769150d80@37.152.179.252:443/?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.digikala.com&fp=chrome&pbk=8yHuzZK-w0BKPDvvbKC5-bmMb5mTYCP300N30XGulzM&sid=768ef2dd2dd43b00&spx=/&type=tcp&headerType=none#IR🇮🇷
 ss://a78d795d-ab77-49dd-8962-f630115f617c@2.188.241.144:29332?security=none&encryption=none&headerType=none&type=tcp#@Proxyiranip
 ss://a78d795d-ab77-49dd-8962-f630115f617c@2.188.241.144:29332?type=tcp&encryption=none&security=none#@Proxyiranip
 ss://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@104.16.2.90:443?path=/43.218.77.16=1443&security=tls&encryption=none&insecure=0&host=afrcloud22.mmv.kr&type=ws&allowInsecure=0&sni=ProxyVPN11.afrcloud22.mmv.kr#IR-@V2rayAlpha-10
@@ -196,7 +196,6 @@ trojan://humanity@188.114.98.0:443?path=%2Fassignment&security=tls&host=www.crea
 trojan://humanity@www.multiplydose.com:443?type=ws&security=tls&path=%2Fassignment&sni=www.multiplydose.com&fp=chrome&allowInsecure=1#@Proxyiranip
 vless://00a9b792-2bb4-437b-9228-565c1c994f1c@ghyu.huangzi.cfd:443?encryption=none&type=ws&host=ghyu.huangzi.cfd&path=/9ELnrxvuY6f5UlQSLlXnsEj2y6&security=tls#@Proxyiranip
 vless://0195d3b8-8bfa-4c6e-9988-56396952a50a@finland.dehnavy.ir:39461?path=/&security=none&encryption=none&type=ws#@Proxyiranip
-vless://0195d3b8-8bfa-4c6e-9988-56396952a50a@finland.dehnavy.ir:39461?path=/&security=none&encryption=none&type=ws#IR🇮🇷
 vless://0449df84-00de-4d7f-8d2f-edd02636441b@164.138.17.41:58841?security=&encryption=none&headerType=&type=tcp#@Proxyiranip
 vless://0509acee-63e3-4364-95cc-21c601f059be@kz-general.vps-m.ru:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&pbk=6r6uq4tZym5wRhJ5uti-h-UvN6uatQodMcG8rBU79Q4&sni=booking.com#@Proxyiranip
 vless://07d8f3e0-6093-4887-940d-3c729e84b552@file900.fineartsnet.com:900?security=&encryption=none&host=myket.ir&headerType=http&type=tcp#%40vmess_iran
@@ -327,6 +326,7 @@ vless://a27d67a1-4ed5-4d06-83e2-f7762e0f5423@haji.arezoni1.ir:666?security=none&
 vless://a5bab260-afbc-4667-9e41-78927bc3c778@37.32.6.3:8090?type=tcp&path=/&host=Telewebion.ir&headerType=http&security=none#@Proxyiranip
 vless://a5c05c1e-aa68-443f-8598-09800244bd4b@192.71.82.2:443?path=%2FLiL%3Fed%3D2560&security=tls&encryption=none&alpn=h3&host=kingmethode.bIack.ir&fp=firefox&type=ws&sni=kingmethode.bIack.ir#IR🇮🇷
 vless://a72f055b-8929-4947-bbcd-1eb567e1f69e@demo.fllanagan.shop:443?security=none&encryption=none&headerType=none&type=tcp#@Proxyiranip
+vless://a77c4ad0-8934-4ff8-a67d-e97769150d80@37.152.179.252:443/?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.digikala.com&fp=chrome&pbk=8yHuzZK-w0BKPDvvbKC5-bmMb5mTYCP300N30XGulzM&sid=768ef2dd2dd43b00&spx=/&type=tcp&headerType=none#IR🇮🇷
 vless://a78d795d-ab77-49dd-8962-f630115f617c@2.188.241.144:29332?security=none&encryption=none&headerType=none&type=tcp#@Proxyiranip
 vless://a78d795d-ab77-49dd-8962-f630115f617c@2.188.241.144:29332?type=tcp&encryption=none&security=none#@Proxyiranip
 vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@104.16.2.90:443?path=/43.218.77.16=1443&security=tls&encryption=none&insecure=0&host=afrcloud22.mmv.kr&type=ws&allowInsecure=0&sni=ProxyVPN11.afrcloud22.mmv.kr#IR-@V2rayAlpha-10
