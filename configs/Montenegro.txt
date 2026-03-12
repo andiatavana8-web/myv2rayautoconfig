@@ -190,7 +190,6 @@ ss://c0c2c64b-cf04-49bf-bfa1-7a04169e2cf4@87.239.108.175:443?encryption=none&flo
 ss://c0c2c64b-cf04-49bf-bfa1-7a04169e2cf4@87.239.108.175:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=rbc.ru&fp=chrome&pbk=KYlgK96xPZJq10GbhF-BaCXRxXc9XzxzfICdooYvMlg&sid=d020b987f84eb78a&type=tcp&headerType=none#https://t.me/allproconf
 ss://c4ba282f-7a69-4255-ef80-671c66f5833d@ir.mvahid.sbs:35812?security=none&encryption=none&headerType=none&type=tcp#[🇮🇷]t.me/V2HUBIR
 ss://cbb6913b-1c5f-45f9-8e5a-bc42f81e5332@e357d4d5-98ce-4658-8c17-85edf0070fbb.hsvc.ir:32061?security=none&encryption=none&headerType=none&type=tcp#[🇮🇷]t.me/V2HUBIR
-ss://ccac781d-1f3e-4e5b-99c2-d07d653b81e8@rk4no3.cdnhoo.top:80?encryption=none&security=none&type=ws&path=%2Fget#https://t.me/v
 ss://ccdf58c8-b9d4-4bc7-a55e-e6965cc71fc7@51.250.43.209:8080?encryption=none&security=reality&sni=max.ru&fp=chrome&pbk=w28tNIWZCfW4X9aQDLwXECK3pU59zihJ0GIMA13u5X8&type=tcp&headerType=none#https://t.me/allproconf
 ss://ccdf58c8-b9d4-4bc7-a55e-e6965cc71fc7@51.250.43.209:8443?encryption=none&security=reality&sni=max.ru&fp=chrome&pbk=FvOly67pgEBE5pxHE939c23pmLgjmXTb3M7TI9TAQ2Q&sid=7dbf7d3233971d5c&type=tcp&headerType=none#https://t.me/allproconf
 ss://ccdf58c8-b9d4-4bc7-a55e-e6965cc71fc7@95.163.210.159:80?encryption=none&security=reality&sni=max.ru&fp=chrome&pbk=w28tNIWZCfW4X9aQDLwXECK3pU59zihJ0GIMA13u5X8&type=tcp&headerType=none#https://t.me/allproconf
@@ -444,7 +443,6 @@ vless://c0c2c64b-cf04-49bf-bfa1-7a04169e2cf4@87.239.108.175:443?encryption=none&
 vless://c0c2c64b-cf04-49bf-bfa1-7a04169e2cf4@87.239.108.175:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=rbc.ru&fp=chrome&pbk=KYlgK96xPZJq10GbhF-BaCXRxXc9XzxzfICdooYvMlg&sid=d020b987f84eb78a&type=tcp&headerType=none#https://t.me/allproconf
 vless://c4ba282f-7a69-4255-ef80-671c66f5833d@ir.mvahid.sbs:35812?security=none&encryption=none&headerType=none&type=tcp#[🇮🇷]t.me/V2HUBIR
 vless://cbb6913b-1c5f-45f9-8e5a-bc42f81e5332@e357d4d5-98ce-4658-8c17-85edf0070fbb.hsvc.ir:32061?security=none&encryption=none&headerType=none&type=tcp#[🇮🇷]t.me/V2HUBIR
-vless://ccac781d-1f3e-4e5b-99c2-d07d653b81e8@rk4no3.cdnhoo.top:80?encryption=none&security=none&type=ws&path=%2Fget#https://t.me/v
 vless://ccdf58c8-b9d4-4bc7-a55e-e6965cc71fc7@51.250.43.209:8080?encryption=none&security=reality&sni=max.ru&fp=chrome&pbk=w28tNIWZCfW4X9aQDLwXECK3pU59zihJ0GIMA13u5X8&type=tcp&headerType=none#https://t.me/allproconf
 vless://ccdf58c8-b9d4-4bc7-a55e-e6965cc71fc7@51.250.43.209:8443?encryption=none&security=reality&sni=max.ru&fp=chrome&pbk=FvOly67pgEBE5pxHE939c23pmLgjmXTb3M7TI9TAQ2Q&sid=7dbf7d3233971d5c&type=tcp&headerType=none#https://t.me/allproconf
 vless://ccdf58c8-b9d4-4bc7-a55e-e6965cc71fc7@95.163.210.159:80?encryption=none&security=reality&sni=max.ru&fp=chrome&pbk=w28tNIWZCfW4X9aQDLwXECK3pU59zihJ0GIMA13u5X8&type=tcp&headerType=none#https://t.me/allproconf
