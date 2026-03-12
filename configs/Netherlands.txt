@@ -51,7 +51,6 @@ ss://61757901-3818-46c7-8482-683fa7f6ba10@103.90.75.252:3001?security=none&encry
 ss://6f183280b258437aa216e83f7dece776Og==@45.131.7.93:80#NL%F0%9F%87%B3%F0%9F%87%B1+%7C+45.131.7.93-80+%7C+2.84ms
 ss://6f8923d9-f812-4ca6-b93a-8f9227bf2eab@195.93.253.49:33094?security=reality&encryption=none&pbk=35JazACyPS6LcDwpGibneEeMzkzGYWf4KTG_Oqp0oBE&headerType=none&type=tcp&sni=yahoo.com&sid=29489194da0d5d#%F0%9F%87%B3%F0%9F%87%B1%20Ultra%20NL
 ss://6fd9f786-d974-49d0-b5c4-397678de69a2@193.233.127.219:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs&security=reality&sni=www.cybo.com&type=tcp#REALITY|NL🇳🇱
-ss://7a1f4deb-0ea9-427e-bc9d-9297a08afa12@ams2.shubnechkin.online:443?security=reality&encryption=none&pbk=QQarqFQYr7LYxP_wlqWwTIgl9PE3YWgDAuYbwrsgKTo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=vk.com#NL🇳🇱
 ss://83fcd827-fa11-460f-9cb2-e2ffe088c4c1@194.87.31.160:8443?security=reality&encryption=none&pbk=P-3bYKbPp5YeCefayC3S3PvLanBv_lp0p_5qfrjbM34&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ir.ozone.ru&sid=39a1eb3ec417cd66#REALITY|NL🇳🇱
 ss://86be7d6e-9dda-433b-8ea8-0c44a7dfcfbd@85.158.110.62:8443?security=reality&fp=chrome&type=tcp&flow=xtls-rprx-vision&pbk=sOjlAEcrubT3nuRzox3bAkQSptuLhelt7CykvSZXW3I&sni=google.com#VPNKEY-Netherlands
 ss://9c42aa2d-3e57-4ce1-ba85-0b11f685dd6b@45.136.126.26:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=pRvemrnDzUPhjXIYQC933GlpoomcZI9LwL4DPW5-aQc&security=reality&sid=b93d114f6a85e9&sni=max.ru&type=tcp#REALITY|NL🇳🇱
@@ -358,7 +357,6 @@ vless://4914cac8-d4f7-4ffe-9c58-1117c9cb1887@192.142.53.38:37321?mode=multi&secu
 vless://61757901-3818-46c7-8482-683fa7f6ba10@103.90.75.252:3001?security=none&encryption=none&headerType=none&type=tcp#Netherlands%20Clodo%20Cloud
 vless://6f8923d9-f812-4ca6-b93a-8f9227bf2eab@195.93.253.49:33094?security=reality&encryption=none&pbk=35JazACyPS6LcDwpGibneEeMzkzGYWf4KTG_Oqp0oBE&headerType=none&type=tcp&sni=yahoo.com&sid=29489194da0d5d#%F0%9F%87%B3%F0%9F%87%B1%20Ultra%20NL
 vless://6fd9f786-d974-49d0-b5c4-397678de69a2@193.233.127.219:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs&security=reality&sni=www.cybo.com&type=tcp#REALITY|NL🇳🇱
-vless://7a1f4deb-0ea9-427e-bc9d-9297a08afa12@ams2.shubnechkin.online:443?security=reality&encryption=none&pbk=QQarqFQYr7LYxP_wlqWwTIgl9PE3YWgDAuYbwrsgKTo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=vk.com#NL🇳🇱
 vless://83fcd827-fa11-460f-9cb2-e2ffe088c4c1@194.87.31.160:8443?security=reality&encryption=none&pbk=P-3bYKbPp5YeCefayC3S3PvLanBv_lp0p_5qfrjbM34&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ir.ozone.ru&sid=39a1eb3ec417cd66#REALITY|NL🇳🇱
 vless://86be7d6e-9dda-433b-8ea8-0c44a7dfcfbd@85.158.110.62:8443?security=reality&fp=chrome&type=tcp&flow=xtls-rprx-vision&pbk=sOjlAEcrubT3nuRzox3bAkQSptuLhelt7CykvSZXW3I&sni=google.com#VPNKEY-Netherlands
 vless://9c42aa2d-3e57-4ce1-ba85-0b11f685dd6b@45.136.126.26:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=pRvemrnDzUPhjXIYQC933GlpoomcZI9LwL4DPW5-aQc&security=reality&sid=b93d114f6a85e9&sni=max.ru&type=tcp#REALITY|NL🇳🇱
