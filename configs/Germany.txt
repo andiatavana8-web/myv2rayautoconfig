@@ -136,6 +136,7 @@ ss://8b648e4c-ac38-4809-951b-e1c8862b13d1@45.149.115.148:443?security=reality&en
 ss://8c6118b9-78a8-3b3b-a49a-6aa9cb5b1d4e@s526.okgg.top:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=u708330u3fcbs526.okgg.top&fp=random#%F0%9F%87%AF%F0%9F%87%B5%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E6%97%A5%E6%9C%AC%2002
 ss://8cbec16e-e110-4ebc-8ae4-827258c4fcb2@172.233.151.82:443?type=xhttp&path=/&host=&mode=stream-one&security=none#Germany
 ss://8cf73792-0b3e-8e8b-f833-e86067f7a22c@45.131.4.5:2052?path=/&security=none&encryption=none&host=2.v2.www.speedtest.net.blue99shop.ir.&type=httpupgrade#Germany+🇩🇪+Telgram+.@Sobi_vpn
+ss://8d893f78-c600-4354-9bc1-5f71ee2e0386@162.55.190.0:50219/?type=tcp&encryption=none&security=none#DE%E3%80%90%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%EF%BC%9Ahttps%3A//a9a.xyz%E3%80%9133
 ss://8d99fda8-4df2-41ff-8b41-1316773e096f@172.233.222.233:443?type=tcp&path=/&host=zula.ir&headerType=http&security=none#Germany
 ss://8d99fda8-4df2-41ff-8b41-1316773e096f@172.237.128.156:443?type=tcp&path=/&host=zula.ir&headerType=http&security=none#Germany
 ss://8ed851cb-a9ac-4be7-97d3-cf74f0d72d75@45.56.69.74:443?type=xhttp&path=/&host=&mode=stream-one&security=none#Germany
@@ -220,7 +221,6 @@ ss://a10791c1-4710-4ac7-901e-143eabe632e4@144.31.116.213:443?encryption=none&flo
 ss://a409d129-70fe-4bc4-906b-73985847e6ab@172.233.218.242:443?type=xhttp&path=/&host=&mode=stream-one&security=none#Germany
 ss://a409d129-70fe-4bc4-906b-73985847e6ab@172.234.31.70:443?type=xhttp&path=/&host=&mode=stream-one&security=none#Germany
 ss://a409d129-70fe-4bc4-906b-73985847e6ab@172.236.103.5:443?type=xhttp&path=/&host=&mode=stream-one&security=none#Germany
-ss://a4b53348-294d-43be-8549-93055291de3f@46.225.61.97:8080?type=ws&encryption=none&path=/ws&host=v.iampedi7.live&security=none#DE🇩🇪
 ss://a544232b-b26e-4dee-a147-f77b2f66168e@172.233.173.124:443?type=xhttp&path=/&host=&mode=stream-one&security=none#Germany
 ss://a544232b-b26e-4dee-a147-f77b2f66168e@172.235.143.100:443?type=xhttp&path=/&host=&mode=stream-one&security=none#Germany
 ss://a774f61d-a518-4c61-902f-807797da6caf@84.201.4.191:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=whYmACpNNY4B3Yv8iBJ9AmxokZL2Tb7O210utmzvGSo&security=reality&sid=6ba85179e30d4fc2&sni=cdn.uxfeedback.ru&type=tcp#REALITY|DE🇩🇪
@@ -322,7 +322,6 @@ trojan://q9870219@181.214.99.54:2035?security=tls&sni=ht.lljllj.buzz#%F0%9F%87%A
 trojan://telegram-id-directvpn@18.196.127.24:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%A9%F0%9F%87%AADE-18.196.127.24-8245
 trojan://telegram-id-directvpn@18.196.127.24:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%A9%F0%9F%87%AADE-18.196.127.24-8247
 trojan://telegram-id-directvpn@3.123.87.45:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#%F0%9F%87%A9%F0%9F%87%AA_DE_%E5%BE%B7%E5%9B%BD
-trojan://telegram-id-directvpn@3.127.99.68:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#DE🇩🇪
 trojan://telegram-id-directvpn@35.156.35.238:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%A9%F0%9F%87%AADE-35.156.35.238-8026
 trojan://telegram-id-directvpn@35.156.35.238:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%A9%F0%9F%87%AADE-35.156.35.238-8028
 trojan://telegram-id-privatevpns@18.184.9.101:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%A9%F0%9F%87%AADE-18.184.9.101-8249
@@ -470,6 +469,7 @@ vless://8b648e4c-ac38-4809-951b-e1c8862b13d1@45.149.115.148:443?security=reality
 vless://8c6118b9-78a8-3b3b-a49a-6aa9cb5b1d4e@s526.okgg.top:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=u708330u3fcbs526.okgg.top&fp=random#%F0%9F%87%AF%F0%9F%87%B5%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E6%97%A5%E6%9C%AC%2002
 vless://8cbec16e-e110-4ebc-8ae4-827258c4fcb2@172.233.151.82:443?type=xhttp&path=/&host=&mode=stream-one&security=none#Germany
 vless://8cf73792-0b3e-8e8b-f833-e86067f7a22c@45.131.4.5:2052?path=/&security=none&encryption=none&host=2.v2.www.speedtest.net.blue99shop.ir.&type=httpupgrade#Germany+🇩🇪+Telgram+.@Sobi_vpn
+vless://8d893f78-c600-4354-9bc1-5f71ee2e0386@162.55.190.0:50219/?type=tcp&encryption=none&security=none#DE%E3%80%90%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%EF%BC%9Ahttps%3A//a9a.xyz%E3%80%9133
 vless://8d99fda8-4df2-41ff-8b41-1316773e096f@172.233.222.233:443?type=tcp&path=/&host=zula.ir&headerType=http&security=none#Germany
 vless://8d99fda8-4df2-41ff-8b41-1316773e096f@172.237.128.156:443?type=tcp&path=/&host=zula.ir&headerType=http&security=none#Germany
 vless://8ed851cb-a9ac-4be7-97d3-cf74f0d72d75@45.56.69.74:443?type=xhttp&path=/&host=&mode=stream-one&security=none#Germany
@@ -486,7 +486,6 @@ vless://a10791c1-4710-4ac7-901e-143eabe632e4@144.31.116.213:443?encryption=none&
 vless://a409d129-70fe-4bc4-906b-73985847e6ab@172.233.218.242:443?type=xhttp&path=/&host=&mode=stream-one&security=none#Germany
 vless://a409d129-70fe-4bc4-906b-73985847e6ab@172.234.31.70:443?type=xhttp&path=/&host=&mode=stream-one&security=none#Germany
 vless://a409d129-70fe-4bc4-906b-73985847e6ab@172.236.103.5:443?type=xhttp&path=/&host=&mode=stream-one&security=none#Germany
-vless://a4b53348-294d-43be-8549-93055291de3f@46.225.61.97:8080?type=ws&encryption=none&path=/ws&host=v.iampedi7.live&security=none#DE🇩🇪
 vless://a544232b-b26e-4dee-a147-f77b2f66168e@172.233.173.124:443?type=xhttp&path=/&host=&mode=stream-one&security=none#Germany
 vless://a544232b-b26e-4dee-a147-f77b2f66168e@172.235.143.100:443?type=xhttp&path=/&host=&mode=stream-one&security=none#Germany
 vless://a774f61d-a518-4c61-902f-807797da6caf@84.201.4.191:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=whYmACpNNY4B3Yv8iBJ9AmxokZL2Tb7O210utmzvGSo&security=reality&sid=6ba85179e30d4fc2&sni=cdn.uxfeedback.ru&type=tcp#REALITY|DE🇩🇪
