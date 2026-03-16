@@ -1,5 +1,4 @@
 ss://195573b7-ea63-485e-b2a5-58dd7bbfc9f7@plb.tunnelguard.ru:443?mode=auto&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&type=xhttp&sni=plb.tunnelguard.ru#PL🇵🇱
-ss://1d8120a6-15de-4001-92ad-eeaf8ba63699@pl.riotvpn.eu:80?mode=auto&%3Bpath=/&%3Bsecurity=tls&%3Balpn=h2%2Chttp/1.1&%3Bencryption=none&%3Binsecure=0&%3Btype=xhttp&%3BallowInsecure=0&%3Bsni=obhod.riotvpn.eu#%F0%9F%87%B5%F0%9F%87%B1%20PL%20%7C%20VLESS%20%7C%20%40config_proxy%20%231
 ss://71322f86-f37a-4929-ada0-05e6a2688145@5.230.195.5:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=www.apple.com&pbk=V6FabatADtcX7aO9KMjGCadJC4LuQ_5nRViab-z-nFQ&sid=23#REALITY|PL🇵🇱
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyWjliYTNHd0RMLXJuNkRTUTBOLWF3SE5oY3V4YUhQMw@auto.poland.ray-vpn.ru:4495#%F0%9F%87%B5%F0%9F%87%B1%20Warsaw%2C%2014%2C%20Poland
 ss://YWVzLTI1Ni1jZmI6NFIzaFVmWjJGSGhEbU5jUA==@217.30.10.65:9061#%F0%9F%87%B5%F0%9F%87%B1PL-217.30.10.65-4107
@@ -84,7 +83,6 @@ ss://f69fb3fd-fec4-8b01-301b-787c7edad2f9@po.jijibiji.online:1010?security=none&
 trojan://555034c8-6420-45d0-893c-905c02342150@51.83.186.142:443?security=tls&sni=pl1.trojanvh.xyz#%F0%9F%87%B5%F0%9F%87%B1PL-51.83.186.142-2567
 trojan://555034c8-6420-45d0-893c-905c02342150@51.83.186.142:80?security=tls&sni=pl1.trojanvh.xyz#%F0%9F%87%B5%F0%9F%87%B1PL-51.83.186.142-3596
 vless://195573b7-ea63-485e-b2a5-58dd7bbfc9f7@plb.tunnelguard.ru:443?mode=auto&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&type=xhttp&sni=plb.tunnelguard.ru#PL🇵🇱
-vless://1d8120a6-15de-4001-92ad-eeaf8ba63699@pl.riotvpn.eu:80?mode=auto&%3Bpath=/&%3Bsecurity=tls&%3Balpn=h2%2Chttp/1.1&%3Bencryption=none&%3Binsecure=0&%3Btype=xhttp&%3BallowInsecure=0&%3Bsni=obhod.riotvpn.eu#%F0%9F%87%B5%F0%9F%87%B1%20PL%20%7C%20VLESS%20%7C%20%40config_proxy%20%231
 vless://71322f86-f37a-4929-ada0-05e6a2688145@5.230.195.5:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=www.apple.com&pbk=V6FabatADtcX7aO9KMjGCadJC4LuQ_5nRViab-z-nFQ&sid=23#REALITY|PL🇵🇱
 vless://a68c90a4-a560-489a-ab4b-d918e78e9dee@92.62.251.205:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=YH_QnUEGzMHf8RjEDh5bRXocz7gq_QdrZWysD2yF_i8&security=reality&sni=github.com&type=tcp#REALITY|PL🇵🇱
 vless://f69fb3fd-fec4-8b01-301b-787c7edad2f9@po.jijibiji.online:1010?security=none&encryption=none&host=tv3.ir&headerType=http&type=tcp&sni=57.128.255.3#PL🇵🇱
