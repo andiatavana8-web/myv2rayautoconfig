@@ -182,7 +182,12 @@ trojan://humanity@188.114.98.0:443?path=%2Fassignment&security=tls&host=www.crea
 trojan://humanity@www.gossipglove.com:443?path=%2Fassignment&security=tls&fp=chrome&type=ws&sni=www.gossipglove.com#%40Golestan_VPN%20%F0%9F%86%93%20IRAN
 trojan://humanity@www.gossipglove.com:443?path=%2Fassignment&security=tls&fp=chrome&type=ws&sni=www.gossipglove.com#%40Golestan_VPN%20%F0%9F%86%93%20IRANvless://bdf97c06-ae1f-47e9-b47a-9d9ff47b5820@45.130.125.107:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&type=ws&sni=cdn-no.lopzo.ir#%40Golestan_VPN%20%F0%9F%86%93%20IRAN
 trojan://telegram-id-directvpn@13.37.160.17:22223?security=tls&alpn=http/1.1&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=trojan.burgerip.co.uk#@Proxyiranip
+trojan://telegram-id-directvpn@15.188.103.210:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@Proxyiranip
+trojan://telegram-id-directvpn@15.188.103.210:22223?security=tls&alpn=http/1.1&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=trojan.burgerip.co.uk#@Proxyiranip
+trojan://telegram-id-directvpn@18.158.21.192:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@Proxyiranip
+trojan://telegram-id-directvpn@18.158.21.192:22223?security=tls&alpn=http/1.1&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=trojan.burgerip.co.uk#@Proxyiranip
 trojan://telegram-id-privatevpns@15.188.103.210:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@Proxyiranip
+trojan://telegram-id-privatevpns@18.158.21.192:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@Proxyiranip
 vless://00000000-0000-4000-8000-000000000000@62.60.156.158:8085?&security=tls&fp=chrome&sni=sub.mot.ip-ddns.com&type=ws&headerType=none&host=sub.mot.ip-ddns.com&path=%2F#_%E4%BC%8A%E6%9C%97%204
 vless://00000000-0000-4000-8000-000000000000@62.60.156.252:8085?&security=tls&fp=chrome&sni=jmc9f8ao6n5xq.saghv.filegear-sg.me&type=ws&headerType=none&host=jmc9f8ao6n5xq.saghv.filegear-sg.me&path=%2F%40Marisa_kristi#_%E4%BC%8A%E6%9C%97%203
 vless://049f0970-4160-f0f1-9519-0e9349419709@mak3.vpsino.com:20960?security=none&encryption=none&host=nobitex.ir&headerType=none&type=tcp#@Proxyiranip
