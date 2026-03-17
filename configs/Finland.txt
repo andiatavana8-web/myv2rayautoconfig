@@ -34,6 +34,7 @@ ss://a16bd0e2-ff2e-4e4c-a955-0c684255a065@ndt.fasti.win:443?encryption=none&flow
 ss://b61f440d-2fdf-4232-8779-0f618b146efc@193.35.17.175:6443?security=reality&encryption=none&pbk=EhuKqEHHG-dQPFdT55oVEXAi9-cpGXPcxbpd6lGFoz4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com#REALITY|FI🇫🇮
 ss://d895b002-32b9-4b4c-a5f8-3de9eab1c9ef@node-de1.melonpanel.ir:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=Z6QEOugutnMCkDshhYng_x283HVcTcV8nrr4zDxghhI&security=reality&sid=b0dcc7de8e60bdb2&sni=yahoo.com&type=tcp#REALITY|FI🇫🇮
 trojan://Yr6a2AD8P4@95.216.238.249:35153?security=none&headerType=none&type=tcp#FI🇫🇮
+trojan://ZblhWr0mqMakCPg.N@212.193.18.144:36158?allowInsecure=1&sni=ya.ru#FI-212.193.18.144-40
 trojan://ZblhWr0mqMakCPg.N@212.193.18.144:36158?security=tls&sni=ya.ru#%F0%9F%87%AB%F0%9F%87%AEFI-212.193.18.144-0578
 vless://09748875-9da3-440e-9809-9752e1dda1e4@38.244.137.198:443?security=reality&encryption=none&pbk=QXGsw1KqljvUiarkvFdBs3T1TeUQq4skwHFlsmbj31o&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=google.com&sid=365c07ed#REALITY|FI🇫🇮
 vless://176aee59b9904f3a8b4f88f647bf1d98@95.164.55.74:8443?encryption=none&type=xhttp&path=%2Fx&security=reality&sni=suomikauppa.fi&pbk=tXzxfP2OYobUYo51xz3QwzEP7BJzSe04fy9cakVUV1Q&sid=aabbccdd&fp=random#REALITY|FI🇫🇮
