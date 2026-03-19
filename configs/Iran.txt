@@ -145,7 +145,13 @@ ss://v2NeT_IraN@www.speedtest.net:8080?path=/V2NETIRAN?ed=2048&security=none&enc
 trojan://biS%28YrwB%2C3L%24@185.143.235.5:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=mydigipay.com#IR🇮🇷
 trojan://biS%28YrwB,3L$@185.143.235.5:443?security=tls&sni=mydigipay.com&type=#IR🇮🇷
 trojan://biS(YrwB,3L$@185.143.235.5:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=mydigipay.com#@Proxyiranip
+trojan://humanity@104.18.32.47:443?security=tls&sni=www.multiplydose.com&type=ws&host=www.multiplydose.com&path=/assignment#@Proxyiranip
+trojan://humanity@172.64.152.23:443?security=tls&sni=www.calmlunch.com&type=ws&host=www.calmlunch.com&path=/assignment#@Proxyiranip
+trojan://humanity@172.67.180.92:443?security=tls&sni=www.multiplydose.com&type=ws&host=www.multiplydose.com&path=/assignment#@Proxyiranip
 trojan://humanity@188.114.98.0:443?path=%2Fassignment&security=tls&host=www.creationlong.org&type=ws&sni=www.creationlong.org#%40hi_proxy_iran%20%3A%F0%9F%91%88%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85
+trojan://telegram-id-directvpn@15.236.16.104:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@Proxyiranip
+trojan://telegram-id-privatevpns@15.236.16.104:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@Proxyiranip
+trojan://telegram-id-privatevpns@15.236.3.3:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@Proxyiranip
 vless://0195d3b8-8bfa-4c6e-9988-56396952a50a@finland.dehnavy.ir:39461?security=none&allowInsecure=0&encryption=none&type=ws&path=/#@Proxyiranip
 vless://06170a65-3876-4771-bfef-ff787554ed81@IR-FanAva2-AlphaOmega.AlphaOmegaVIP.IR:200?security=&encryption=none&host=www.soft98.ir.&headerType=none&type=tcp#@Proxyiranip
 vless://0825a0e2-496a-470f-a855-a47e657054ea@legenderyserversirn.ddns.net:2083?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@LegenderY_Servers&sni=wel.mrphh.me#Irancell+%40vpn_proxy_custom
