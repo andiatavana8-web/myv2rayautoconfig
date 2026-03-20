@@ -1706,6 +1706,7 @@ trojan://4d111af8-5078-37e0-a583-34155f60b32c@129.146.175.86:44302?security=tls&
 trojan://4d111af8-5078-37e0-a583-34155f60b32c@152.70.143.228:44302?security=tls#%F0%9F%87%BA%F0%9F%87%B8US-152.70.143.228-1348
 trojan://5027e2a4-c4d2-463a-9508-83a2c7d1ad83@216.24.57.250:443?allowInsecure=0&sni=afrcloud1.mmv.kr&ws=1&wspath=%2F5.223.47.32%3D443#%F0%9F%87%BA%F0%9F%87%B8%20_US_%E7%BE%8E%E5%9B%BD
 trojan://5027e2a4-c4d2-463a-9508-83a2c7d1ad83@216.24.57.250:443?security=tls&sni=afrcloud1.mmv.kr&type=ws&path=%2F5.223.47.32%3D443&Host=afrcloud1.mmv.kr#%F0%9F%87%BA%F0%9F%87%B8US-216.24.57.250-0847
+trojan://5027e2a4-c4d2-463a-9508-83a2c7d1ad83@216.24.57.250:443?sni=afrcloud1.mmv.kr#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD3
 trojan://5027e2a4-c4d2-463a-9508-83a2c7d1ad83@216.24.57.250:443?sni=afrcloud1.mmv.kr#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD4
 trojan://61605c66-6d41-4b9d-a496-b9898f3f95d0@jp-h1.sshub.xyz:443?security=tls#%F0%9F%87%BA%F0%9F%87%B8US-13.248.169.48-2316
 trojan://64de1de7-e3bb-3dc4-ab04-d1e601e18ac5@gz01.xiaohouzi.club:51058?security=tls&sni=$$aru01.xiaohouzi.club#%F0%9F%87%BA%F0%9F%87%B8US-13.248.169.48-1443
@@ -1748,10 +1749,12 @@ trojan://86e150eb21c6faee48e81d496d7f61c2@160.16.214.104:4019?sni=www.nintendoga
 trojan://86e150eb21c6faee48e81d496d7f61c2@52.195.215.60:4920?allowInsecure=0&sni=www.nintendogames.net#%E7%BE%8E%E5%9B%BD%7C%40ripaojiedian
 trojan://86e150eb21c6faee48e81d496d7f61c2@52.195.215.60:4920?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%7C%40ripaojiedian
 trojan://86e150eb21c6faee48e81d496d7f61c2@52.195.215.60:4920?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%7C%40stairnode
+trojan://86e150eb21c6faee48e81d496d7f61c2@52.195.215.60:4920?sni=www.nintendogames.net#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD4
 trojan://86e150eb21c6faee48e81d496d7f61c2@54.199.166.248:4920?sni=www.nintendogames.net#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD2
 trojan://86e150eb21c6faee48e81d496d7f61c2@57.180.252.251:4920?allowInsecure=0&sni=www.nintendogames.net#%E7%BE%8E%E5%9B%BD2%7C%40ripaojiedian
 trojan://86e150eb21c6faee48e81d496d7f61c2@57.180.252.251:4920?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD2%7C%40ripaojiedian
 trojan://86e150eb21c6faee48e81d496d7f61c2@57.180.252.251:4920?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD2%7C%40stairnode
+trojan://86e150eb21c6faee48e81d496d7f61c2@57.180.252.251:4920?sni=www.nintendogames.net#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD2
 trojan://8OXD5VVt8s@176.32.39.29:443?security=reality&pbk=f_av3K6BFEs9abRaFgPJMKHz4ElZP7BP34ZlRtxysQ0&headerType=none&fp=random&spx=%2FyethePcHjaf&type=tcp&sni=journalofbigdata.springeropen.com&sid=109cb5faeb6b#REALITY|US🇺🇸
 trojan://AdPYCBfMUM@ru2.asc-sam.ir:443?type=tcp&security=reality&pbk=f_av3K6BFEs9abRaFgPJMKHz4ElZP7BP34ZlRtxysQ0&fp=random&sni=journalofbigdata.springeropen.com&sid=109cb5faeb6b&spx=%2FyethePcHjaf#REALITY|US🇺🇸
 trojan://BxceQaOe@54.95.208.150:14919?allowInsecure=1&sni=t.me%2Fripaojiedian#%E7%BE%8E%E5%9B%BD3%7C%40ripaojiedian
@@ -1760,6 +1763,7 @@ trojan://BxceQaOe@54.95.208.150:14919?allowInsecure=1&sni=t.me%2Fripaojiedian#%E
 trojan://BxceQaOe@54.95.208.150:14919?allowInsecure=1&sni=t.me%2Fripaojiedian#%E7%BE%8E%E5%9B%BD3%7C%40ripaojiedian%205
 trojan://BxceQaOe@54.95.208.150:14919?allowInsecure=1&sni=t.me%2Fripaojiedian#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD3%7C%40ripaojiedian
 trojan://BxceQaOe@54.95.208.150:14919?allowInsecure=1&sni=t.me%2Fripaojiedian#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD3%7C%40stairnode
+trojan://BxceQaOe@54.95.208.150:14919?sni=t.me/ripaojiedian#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD9
 trojan://BxceQaOe@95.40.3.110:8401?sni=t.me/ripaojiedian#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD9
 trojan://Gl123qwe@los2.playstone.info:23443?security=tls#%F0%9F%87%BA%F0%9F%87%B8US-45.63.60.28-2306
 trojan://Gl123qwe@us.playstone.info:23443?security=tls#%F0%9F%87%BA%F0%9F%87%B8US-104.224.176.186-2526
