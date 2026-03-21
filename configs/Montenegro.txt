@@ -26,7 +26,6 @@ ss://6202b230-417c-4d8e-b624-0f71afa9c75d@51.75.16.73:2053/?type=ws&encryption=n
 ss://6202b230-417c-4d8e-b624-0f71afa9c75d@51.91.248.251:443/?type=ws&encryption=none&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560&security=tls&sni=sni.111000.indevs.in#https%3A%2F%2Ft.me%2Fallproconf
 ss://6202b230-417c-4d8e-b624-0f71afa9c75d@87.98.237.23:8443/?type=ws&encryption=none&host=sni.111000.v6.navy&path=%2F%3Fed%3D2560&security=tls&sni=sni.111000.v6.navy#https%3A%2F%2Ft.me%2Fallproconf
 ss://682f13ec-421f-4a71-b116-60c45d6dc1ed@trailers.sv1.cdn.yoozmovie.com:16771?encryption=none&security=none&type=tcp&headerType=http&host=google.com#[🇮🇷]t.me/ConfigsHub
-ss://682f13ec-421f-4a71-b116-60c45d6dc1ed@trailers.sv1.cdn.yoozmovie.com:16771?encryption=none&type=tcp&headerType=http&host=google.com&path=/&security=none#https://t.me/ConfigX2ray
 ss://682f13ec-421f-4a71-b116-60c45d6dc1ed@trailers.sv1.cdn.yoozmovie.com:16771?type=tcp&headerType=http&host=google.com&path=/&security=none#https://t.me/ConfigX2ray
 ss://6b2d86e5df054511a79f82d53ce99b36Og==@fsdns1.ectunnelvpn.me:80#GB%F0%9F%87%AC%F0%9F%87%A7+%7C+fsdns1.ectunnelvpn.me-80+%7C+118.1ms
 ss://6fab6cc6-e340-4073-93e1-c6c6802002c7@afrcloud22.mmv.kr:443?path=%2F167.179.110.68%3D8443&security=tls&encryption=none&insecure=0&host=afrcloud22.mmv.kr&fp=chrome&type=ws&allowInsecure=0&sni=afrcloud22.mmv.kr#T.me%2Fi10VPN%F0%9F%8C%92
@@ -55,6 +54,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.62:80
 ss://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@104.16.2.90:443/?type=ws&encryption=none&host=afrcloud22.mmv.kr&path=%2F43.218.77.16&security=tls&sni=Pulavpn11.afrcloud22.mmv.kr#https%3A%2F%2Ft.me%2Fallproconf
 ss://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@104.17.98.251:443?path=%2F150.109.11.223%3D443&security=tls&encryption=none&insecure=0&host=afrcloud22.mmv.kr&fp=chrome&type=ws&allowInsecure=0&sni=joinProxyVPN11.afrcloud22.mmv.kr#T.me%2Fi10VPN%F0%9F%8C%93
 ss://b8d3105d-e282-45ba-e39d-a0bce821c4b1@91.107.148.117:8443?security=none&encryption=none&seed=L2Ebgtp7HB&headerType=none&type=kcp#https%3A%2F%2Ft.me%2Fvpn_proxy_custom🔵قبل
+ss://bf710ad2-4a43-4379-aa73-e684f00b6240@broad-sky-9360.k7uztejf9ief.workers.dev:443?path=%2F&security=tls&encryption=none&host=broad-sky-9360.k7uztejf9ief.workers.dev&fp=chrome&type=ws&sni=broad-sky-9360.k7uztejf9ief.workers.dev#https://t.me/ConfigX2ray
 ss://c1291c40-dfa1-4b27-bad8-6fb127d44441@185.18.215.156:2083/?type=tcp&security=none#[🇮🇷]t.me/ConfigsHub
 ss://c1e4b6e9-71ac-4e41-992a-c1bdb0d0654a@n4.zeneco.ir:4090?security=none&encryption=none&headerType=none&type=tcp#[🇮🇷]t.me/ConfigsHub
 ss://ca6e4902-1e1f-11f1-8d30-2ddfba49052f@jsv-ir2.randino.ir:8004?security=none&encryption=none&headerType=none&type=tcp#[🇮🇷]t.me/ConfigsHub
@@ -208,7 +208,6 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@51.75.16.73:2053/?type=ws&encryptio
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@51.91.248.251:443/?type=ws&encryption=none&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560&security=tls&sni=sni.111000.indevs.in#https%3A%2F%2Ft.me%2Fallproconf
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@87.98.237.23:8443/?type=ws&encryption=none&host=sni.111000.v6.navy&path=%2F%3Fed%3D2560&security=tls&sni=sni.111000.v6.navy#https%3A%2F%2Ft.me%2Fallproconf
 vless://682f13ec-421f-4a71-b116-60c45d6dc1ed@trailers.sv1.cdn.yoozmovie.com:16771?encryption=none&security=none&type=tcp&headerType=http&host=google.com#[🇮🇷]t.me/ConfigsHub
-vless://682f13ec-421f-4a71-b116-60c45d6dc1ed@trailers.sv1.cdn.yoozmovie.com:16771?encryption=none&type=tcp&headerType=http&host=google.com&path=/&security=none#https://t.me/ConfigX2ray
 vless://682f13ec-421f-4a71-b116-60c45d6dc1ed@trailers.sv1.cdn.yoozmovie.com:16771?type=tcp&headerType=http&host=google.com&path=/&security=none#https://t.me/ConfigX2ray
 vless://6fab6cc6-e340-4073-93e1-c6c6802002c7@afrcloud22.mmv.kr:443?path=%2F167.179.110.68%3D8443&security=tls&encryption=none&insecure=0&host=afrcloud22.mmv.kr&fp=chrome&type=ws&allowInsecure=0&sni=afrcloud22.mmv.kr#T.me%2Fi10VPN%F0%9F%8C%92
 vless://705f96ea-9a3f-9d89-4ed9-c1b8b6e802da@tunn.vpsino.com:2087?encryption=none&type=tcp&headerType=none&path=/&security=none#[🇮🇷]t.me/ConfigsHub
@@ -226,6 +225,7 @@ vless://@SEGVPN@gcre.segstar.info:10100?type=tcp&security=reality&pbk=2zN5MhusgS
 vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@104.16.2.90:443/?type=ws&encryption=none&host=afrcloud22.mmv.kr&path=%2F43.218.77.16&security=tls&sni=Pulavpn11.afrcloud22.mmv.kr#https%3A%2F%2Ft.me%2Fallproconf
 vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@104.17.98.251:443?path=%2F150.109.11.223%3D443&security=tls&encryption=none&insecure=0&host=afrcloud22.mmv.kr&fp=chrome&type=ws&allowInsecure=0&sni=joinProxyVPN11.afrcloud22.mmv.kr#T.me%2Fi10VPN%F0%9F%8C%93
 vless://b8d3105d-e282-45ba-e39d-a0bce821c4b1@91.107.148.117:8443?security=none&encryption=none&seed=L2Ebgtp7HB&headerType=none&type=kcp#https%3A%2F%2Ft.me%2Fvpn_proxy_custom🔵قبل
+vless://bf710ad2-4a43-4379-aa73-e684f00b6240@broad-sky-9360.k7uztejf9ief.workers.dev:443?path=%2F&security=tls&encryption=none&host=broad-sky-9360.k7uztejf9ief.workers.dev&fp=chrome&type=ws&sni=broad-sky-9360.k7uztejf9ief.workers.dev#https://t.me/ConfigX2ray
 vless://c1291c40-dfa1-4b27-bad8-6fb127d44441@185.18.215.156:2083/?type=tcp&security=none#[🇮🇷]t.me/ConfigsHub
 vless://c1e4b6e9-71ac-4e41-992a-c1bdb0d0654a@n4.zeneco.ir:4090?security=none&encryption=none&headerType=none&type=tcp#[🇮🇷]t.me/ConfigsHub
 vless://ca6e4902-1e1f-11f1-8d30-2ddfba49052f@jsv-ir2.randino.ir:8004?security=none&encryption=none&headerType=none&type=tcp#[🇮🇷]t.me/ConfigsHub
