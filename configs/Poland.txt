@@ -1,5 +1,6 @@
 ss://07cd9dbe-21ac-4871-817d-c772687e4b7c@178.17.59.73:2053?security=reality&encryption=none&pbk=WckOSneVajAzpH0sZSAFAWPnmwuuEXKZrTICNj5_hHU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.ibm.com&sid=423bccc9c13fb509#REALITY|PL🇵🇱
 ss://096d2cea-e1d5-4b68-ada3-6349a272ecad@uk1.santexnika24.com:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=V6FabatADtcX7aO9KMjGCadJC4LuQ_5nRViab-z-nFQ&security=reality&sid=23&sni=www.apple.com&type=tcp#REALITY|PL🇵🇱
+ss://1d8120a6-15de-4001-92ad-eeaf8ba63699@pl.riotvpn.eu:80?security=tls&%3Bencryption=none&%3Balpn=h2%2Chttp/1.1&%3Btype=xhttp&%3Bsni=obhod.riotvpn.eu#%F0%9F%87%B5%F0%9F%87%B1%20PL%20%7C%20VLESS%20%7C%20%40config_proxy%20%231
 ss://4f2ca3ab-7cd2-4257-871a-2536c20769a7@178.17.59.161:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=tls&sni=pl.chunkyvpn.shop&alpn=h2#PL🇵🇱
 ss://576993a0-3b23-4c65-8c6d-2165b098826b@144.31.1.91:443?allowInsecure=1&encryption=none&security=tls&sni=plcdn6.dramatorg.net&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3APL
 ss://576993a0-3b23-4c65-8c6d-2165b098826b@144.31.1.91:443?encryption=none&type=tcp&security=tls&fp=chrome&sni=plcdn6.dramatorg.net#PL🇵🇱
@@ -113,6 +114,7 @@ trojan://IL37892054@outgoing-ladybird.rooster465.autos:443?security=tls&sni=outg
 trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&host=www.creationlong.org&type=ws&sni=www.creationlong.org#%3E%3E%40vmess_vless_v2rayng%3A%3APL
 vless://07cd9dbe-21ac-4871-817d-c772687e4b7c@178.17.59.73:2053?security=reality&encryption=none&pbk=WckOSneVajAzpH0sZSAFAWPnmwuuEXKZrTICNj5_hHU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.ibm.com&sid=423bccc9c13fb509#REALITY|PL🇵🇱
 vless://096d2cea-e1d5-4b68-ada3-6349a272ecad@uk1.santexnika24.com:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=V6FabatADtcX7aO9KMjGCadJC4LuQ_5nRViab-z-nFQ&security=reality&sid=23&sni=www.apple.com&type=tcp#REALITY|PL🇵🇱
+vless://1d8120a6-15de-4001-92ad-eeaf8ba63699@pl.riotvpn.eu:80?security=tls&%3Bencryption=none&%3Balpn=h2%2Chttp/1.1&%3Btype=xhttp&%3Bsni=obhod.riotvpn.eu#%F0%9F%87%B5%F0%9F%87%B1%20PL%20%7C%20VLESS%20%7C%20%40config_proxy%20%231
 vless://4f2ca3ab-7cd2-4257-871a-2536c20769a7@178.17.59.161:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=tls&sni=pl.chunkyvpn.shop&alpn=h2#PL🇵🇱
 vless://576993a0-3b23-4c65-8c6d-2165b098826b@144.31.1.91:443?allowInsecure=1&encryption=none&security=tls&sni=plcdn6.dramatorg.net&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3APL
 vless://576993a0-3b23-4c65-8c6d-2165b098826b@144.31.1.91:443?encryption=none&type=tcp&security=tls&fp=chrome&sni=plcdn6.dramatorg.net#PL🇵🇱
