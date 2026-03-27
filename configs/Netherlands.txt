@@ -1,8 +1,10 @@
 hy2://123456789StrongPass@144.31.224.14:443/?insecure=1&sni=www.cloudflare.com#%3E%3E%40oneclickvpnkeys%3A%3ANL
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?insecure=1&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#%F0%9F%87%B3%F0%9F%87%B1%20-%20NL%20-%20%40FreeOnlineVPN
 ss://00000000-0000-4000-8000-000000000000@138.226.240.199:4433?allowInsecure=1&encryption=none&host=atgr83pyg-gy4t6-79mqpil2.gike.dpdns.org&path=%2F%40Marisa_kristi&security=tls&sni=atgr83pyg-gy4t6-79mqpil2.gike.dpdns.org&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ANL
+ss://00000000-0000-4000-8000-000000000000@185.94.29.156:4001?&security=tls&fp=chrome&sni=sub.mot.ip-ddns.com&type=ws&headerType=none&host=sub.mot.ip-ddns.com&path=%2F#_%E8%8D%B7%E5%85%B0%202
 ss://00000000-0000-4000-8000-000000000000@206.245.157.134:444?allowInsecure=1&encryption=none&host=jmc9f8ao6n5xq.saghv.filegear-sg.me&path=%2F%40Marisa_kristi&security=tls&sni=jmc9f8ao6n5xq.saghv.filegear-sg.me&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ANL
 ss://05dc09d5-5c56-454b-a34e-6ef743d91e1a@netherland.boot-lee.ru:8443?security=reality&encryption=none&pbk=3JGwSDrfkiCPdU3rvQP5m0z4Ag_UB_2w8Qq3VMXmo28&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=yandex.ru&sid=abc123#REALITY|NL🇳🇱
+ss://0991a0c4-0ee5-4213-af89-7ad589f853f3@188.114.98.112:80?&security=false&fp=chrome&type=ws&headerType=none&host=elenaaaaaaaaaa.cloudns.pro.&path=%2FELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY%3Fed%3D2560#_%E8%8D%B7%E5%85%B0
 ss://18308ac9a11748dd990f15d7e6ae9ce9@194.61.120.198:8443?encryption=none&type=xhttp&path=%2Fx&security=reality&sni=dutchnews.nl&pbk=0TkdMgzG5Cyuv0h8LY4PPX_yt5xfTu1rl11oZqDXBWQ&sid=aabbccdd&fp=random#REALITY|NL🇳🇱
 ss://19a1e5b1-6289-4fe6-9aad-be285510942d@5.255.100.32:8080/?encryption=none&flow=&host=check-host.net&type=tcp&headerType=http#%3E%3E%40v2ray_configs_pool%3A%3ANL
 ss://19a1e5b1-6289-4fe6-9aad-be285510942d@av.nexconnx.com:8080/?encryption=none&flow=&host=check-host.net&type=tcp&headerType=http#%3E%3E%40oneclickvpnkeys%3A%3ANL
@@ -232,6 +234,7 @@ ss://df0680ca-e43c-498d-ed86-8e196eedd012@638928668169310838.rasht-drc-tusabp.in
 ss://e08f1ad7-0c60-446d-baec-08b3b69bb3d0@146.103.102.82:80/?type=ws&encryption=none&flow=&path=%2FgetWorkerUpdates#%3E%3E%40oneclickvpnkeys%3A%3ANL
 ss://e08f1ad7-0c60-446d-baec-08b3b69bb3d0@146.103.102.82:80?encryption=none&path=%2FgetWorkerUpdates&security=none&type=ws#NL🇳🇱
 ss://e08f1ad7-0c60-446d-baec-08b3b69bb3d0@nl-90w-c.southnetworks.cloud:80/?type=ws&encryption=none&flow=&path=%2FgetWorkerUpdates#%3E%3E%40oneclickvpnkeys%3A%3ANL
+ss://e2e1ddaa-1acf-4c4c-a211-92284f6440ed@nll.scroogethebest.com:443?&security=reality&flow=xtls-rprx-vision&pbk=AYQOZFxjvHN-RIzKYEibwFiFsp03cdlWGdCmyFfuNVc&sid=4fa44664f6a566d3&fp=chrome&sni=nll.scroogethebest.com&type=tcp&headerType=none&host=nll.scroogethebest.com&path=%2F#_NL_%E8%8D%B7%E5%85%B0_1
 ss://e31085f9-7f55-4a7d-b00e-ce94149477cb@104.18.32.47:80?encryption=none&security=none&type=ws&host=PrICKLy-AdverTisEMEnt6OaD5Z64MK.onEEaT.cO.&path=%2F%3Fed#%3E%3E%40v2rayng_fast%3A%3ANL
 ss://e81a36d5-b3c3-48e0-bf08-d8938a247391@194.85.249.173:433?encryption=none&fp=chrome&pbk=LSqEbA7EfGiohFgxMYtFJq61jSd9wuSWqR__krgtERc&security=reality&sid=d239de8e&sni=www.google.com&type=grpc#REALITY|NL🇳🇱
 ss://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?path=%2F&security=tls&alpn=h3%2Ch2&encryption=none&host=I78nThHk0Q.sOlEnTrAa.InFo&fp=chrome&type=ws&sni=I78nThHk0Q.sOlEnTrAa.InFo#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
@@ -247,19 +250,21 @@ ss://telegram-id-qeshmserver@95.179.138.190:443?type=tcp&%3Bsecurity=reality&%3B
 ssr://OTQuMTAyLjU3LjE2MzoxMTcwODpvcmlnaW46YWVzLTI1Ni1jZmI6aHR0cF9zaW1wbGU6YzBWelkxQkNhVUZFT1Vza0prQTNPUT09Lz9vYmZzcGFyYW09JnJlbWFya3M9OEolMkJIcyUyRkNmaDdGT1RDMDVOQzR4TURJdU5UY3VNVFl6TFRVeU9UayUzRCZwcm90b3BhcmFtPQ==
 ssr://OTQuMTAyLjU3LjE2MzoxMTcwODpvcmlnaW46YWVzLTI1Ni1jZmI6aHR0cF9zaW1wbGU6YzBWelkxQkNhVUZFT1Vza0prQTNPUT09Lz9vYmZzcGFyYW09VjFkWExsbFBWVTVGUlVRdVYwbE8mcmVtYXJrcz04SiUyQkhzJTJGQ2ZoN0ZPVEMwNU5DNHhNREl1TlRjdU1UWXpMVFV5TnpjJTNEJnByb3RvcGFyYW09VjFkWExsbFBWVTVGUlVRdVYwbE8=
 trojan://3690911436885991424@careful-platypus.opossum872.cfd:443?allowInsecure=1#%F0%9F%87%B3%F0%9F%87%B1_NL_%E8%8D%B7%E5%85%B0
-trojan://M08tvzYWtUEJNtbpHp@nl-4.tr202512.com:443?allowInsecure=0&sni=nl-4.tr202512.com#NL-194.124.216.190-0182
-trojan://M08tvzYWtUEJNtbpHp@nl-4.tr202512.com:443?allowInsecure=0&sni=nl-4.tr202512.com#NL-194.124.216.190-0182%202
 trojan://M08tvzYWtUEJNtbpHp@nl-4.tr202512.com:443?allowInsecure=1#NL🇳🇱
 trojan://M08tvzYWtUEJNtbpHp@nl-4.tr202512.com:443?security=tls&sni=nl-4.tr202512.com#%F0%9F%87%B3%F0%9F%87%B1NL-194.124.216.190-0182
 trojan://TestingServer@@@94.102.53.19:443?security=tls#%F0%9F%87%B3%F0%9F%87%B1NL-94.102.53.19-0627
+trojan://WF42809561@model-stingray.crayfish192.xyz:443?allowInsecure=0&sni=model-stingray.crayfish192.xyz#NL-85.234.65.205-0505
+trojan://WF42809561@model-stingray.crayfish192.xyz:443?allowInsecure=0&sni=model-stingray.crayfish192.xyz#NL-85.234.65.205-0505%202
 trojan://f6a0a650-306e-11ee-b692-1239d0255272@51.158.146.183:443?security=tls&sni=Speedtest.net#%F0%9F%87%B3%F0%9F%87%B1NL-51.158.146.183-8132
 trojan://humanity@v1.dabache.top:443?allowInsecure=1&host=www.multiplydose.com&path=%2Fassignment&sni=www.multiplydose.com&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ANL
 trojan://humanity@www.multiplydose.com:443?allowInsecure=1&host=www.multiplydose.com&path=%2F%2Fassignment&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ANL
 trojan://uThbm8eGmXZ7GKqnWy@nl-4.tr202507.com:443?allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3ANL
 trojan://uThbm8eGmXZ7GKqnWy@nl-4.tr202507.com:443?allowInsecure=1#NL🇳🇱
 vless://00000000-0000-4000-8000-000000000000@138.226.240.199:4433?allowInsecure=1&encryption=none&host=atgr83pyg-gy4t6-79mqpil2.gike.dpdns.org&path=%2F%40Marisa_kristi&security=tls&sni=atgr83pyg-gy4t6-79mqpil2.gike.dpdns.org&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ANL
+vless://00000000-0000-4000-8000-000000000000@185.94.29.156:4001?&security=tls&fp=chrome&sni=sub.mot.ip-ddns.com&type=ws&headerType=none&host=sub.mot.ip-ddns.com&path=%2F#_%E8%8D%B7%E5%85%B0%202
 vless://00000000-0000-4000-8000-000000000000@206.245.157.134:444?allowInsecure=1&encryption=none&host=jmc9f8ao6n5xq.saghv.filegear-sg.me&path=%2F%40Marisa_kristi&security=tls&sni=jmc9f8ao6n5xq.saghv.filegear-sg.me&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ANL
 vless://05dc09d5-5c56-454b-a34e-6ef743d91e1a@netherland.boot-lee.ru:8443?security=reality&encryption=none&pbk=3JGwSDrfkiCPdU3rvQP5m0z4Ag_UB_2w8Qq3VMXmo28&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=yandex.ru&sid=abc123#REALITY|NL🇳🇱
+vless://0991a0c4-0ee5-4213-af89-7ad589f853f3@188.114.98.112:80?&security=false&fp=chrome&type=ws&headerType=none&host=elenaaaaaaaaaa.cloudns.pro.&path=%2FELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY%3Fed%3D2560#_%E8%8D%B7%E5%85%B0
 vless://18308ac9a11748dd990f15d7e6ae9ce9@194.61.120.198:8443?encryption=none&type=xhttp&path=%2Fx&security=reality&sni=dutchnews.nl&pbk=0TkdMgzG5Cyuv0h8LY4PPX_yt5xfTu1rl11oZqDXBWQ&sid=aabbccdd&fp=random#REALITY|NL🇳🇱
 vless://19a1e5b1-6289-4fe6-9aad-be285510942d@5.255.100.32:8080/?encryption=none&flow=&host=check-host.net&type=tcp&headerType=http#%3E%3E%40v2ray_configs_pool%3A%3ANL
 vless://19a1e5b1-6289-4fe6-9aad-be285510942d@av.nexconnx.com:8080/?encryption=none&flow=&host=check-host.net&type=tcp&headerType=http#%3E%3E%40oneclickvpnkeys%3A%3ANL
@@ -331,6 +336,7 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@638928668169310838.rasht-drc-tusabp
 vless://e08f1ad7-0c60-446d-baec-08b3b69bb3d0@146.103.102.82:80/?type=ws&encryption=none&flow=&path=%2FgetWorkerUpdates#%3E%3E%40oneclickvpnkeys%3A%3ANL
 vless://e08f1ad7-0c60-446d-baec-08b3b69bb3d0@146.103.102.82:80?encryption=none&path=%2FgetWorkerUpdates&security=none&type=ws#NL🇳🇱
 vless://e08f1ad7-0c60-446d-baec-08b3b69bb3d0@nl-90w-c.southnetworks.cloud:80/?type=ws&encryption=none&flow=&path=%2FgetWorkerUpdates#%3E%3E%40oneclickvpnkeys%3A%3ANL
+vless://e2e1ddaa-1acf-4c4c-a211-92284f6440ed@nll.scroogethebest.com:443?&security=reality&flow=xtls-rprx-vision&pbk=AYQOZFxjvHN-RIzKYEibwFiFsp03cdlWGdCmyFfuNVc&sid=4fa44664f6a566d3&fp=chrome&sni=nll.scroogethebest.com&type=tcp&headerType=none&host=nll.scroogethebest.com&path=%2F#_NL_%E8%8D%B7%E5%85%B0_1
 vless://e31085f9-7f55-4a7d-b00e-ce94149477cb@104.18.32.47:80?encryption=none&security=none&type=ws&host=PrICKLy-AdverTisEMEnt6OaD5Z64MK.onEEaT.cO.&path=%2F%3Fed#%3E%3E%40v2rayng_fast%3A%3ANL
 vless://e81a36d5-b3c3-48e0-bf08-d8938a247391@194.85.249.173:433?encryption=none&fp=chrome&pbk=LSqEbA7EfGiohFgxMYtFJq61jSd9wuSWqR__krgtERc&security=reality&sid=d239de8e&sni=www.google.com&type=grpc#REALITY|NL🇳🇱
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?path=%2F&security=tls&alpn=h3%2Ch2&encryption=none&host=I78nThHk0Q.sOlEnTrAa.InFo&fp=chrome&type=ws&sni=I78nThHk0Q.sOlEnTrAa.InFo#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
@@ -374,5 +380,6 @@ vmess://ewogICAgImFkZCI6ICIxOTUuNTQuMTc0LjE4IiwKICAgICJhaWQiOiAwLAogICAgImhvc3Qi
 vmess://ewogICAgImFkZCI6ICIxOTUuNTQuMTc0LjE4IiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAiMTk1LjU0LjE3NC4xOCIsCiAgICAiaWQiOiAiNmQ2ZjQxM2YtM2RjMi00ZDAyLThkMzUtOGI0NWUzOWZlYjcyIiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiLyIsCiAgICAicG9ydCI6IDgwLAogICAgInBzIjogIvCfh7Pwn4exTkwtMTk1LjU0LjE3NC4xOC0xMDM5IiwKICAgICJ0bHMiOiAiIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=
 vmess://ewogICAgImFkZCI6ICIxOTkuMjQ3LjMwLjQ1IiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAiIiwKICAgICJpZCI6ICJjYTgwNDUxZS03NjhhLTQ2OWYtOTkxMy01N2EyNzI2OGZkNzAiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvIiwKICAgICJwb3J0IjogODA4MCwKICAgICJwcyI6ICLwn4ez8J+HsU5MLTE5OS4yNDcuMzAuNDUtODM4NiIsCiAgICAidGxzIjogIiIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
 vmess://ewogICAgImFkZCI6ICIzNy40OC4xMDIuOTUiLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICIiLAogICAgImlkIjogIjE0N2U4OTI0LTQwNzktNDEyNS1iZTVmLTE1YjNkMDQ2MmM0ZCIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi9kZ2Zkcmc1R0I1dDVlciIsCiAgICAicG9ydCI6IDQyMDY2LAogICAgInBzIjogIvCfh7Pwn4exTkwtMzcuNDguMTAyLjk1LTM4MjMiLAogICAgInRscyI6ICIiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==
+vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGYzXHVkODNjXHVkZGYxW29wZW5wcm94eWxpc3QuY29tXSB2bWVzcy1OTCIsImFkZCI6InYzMC5oZGFjZC5jb20iLCJwb3J0IjoiMzA4MzAiLCJpZCI6ImNiYjNmODc3LWQxZmItMzQ0Yy04N2E5LWQxNTNiZmZkNTQ4NCIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiY2RuZmlyZS54aWFvbWlzcGVlZC5jb20iLCJwYXRoIjoiXC8iLCJ0bHMiOiIiLCJzbmkiOiIiLCJhbHBuIjoiIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0=
 vmess://eyJhZGQiOiI2Mi42MC4yNDUuMTI4IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjdiYTUyODAyLTMxMDgtNGNmYS04ZDQ0LTkxNzk2NWZmNjFkZCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMTgxODgiLCJwcyI6IvCfh7Pwn4exIE5MIHwgNjIuNjAuMjQ1LjEyOCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
 vmess://eyJhZGQiOiI4NS4xNy4xOTIuMTEwIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImVmOTg0ZDE5LTRkZjctNDU5Mi04Y2E4LWEzZjY1OGI3OGMwYSIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiJcLyIsInBvcnQiOiIxNjYyMyIsInBzIjoiTkxcdWQ4M2NcdWRkZjNcdWQ4M2NcdWRkZjEgfCA4NS4xNy4xOTIuMTEwLTE2NjIzIHwgMTA2Ljk0bXMiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9
