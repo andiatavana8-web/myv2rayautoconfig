@@ -4,6 +4,7 @@ ss://00000000-0000-4000-8000-000000000000@88.218.0.184:8085?allowInsecure=1&encr
 ss://02db10db44e04d6aae77331b0694ac1b@91.231.186.24:8443?encryption=none&type=xhttp&path=%2Fx&security=reality&sni=nytimes.com&pbk=WhRQP6-muqar8s2OsjHGZZnSiG5LEGsp-CGv6wkhdDs&sid=aabbccdd&fp=random#REALITY|GB🇬🇧
 ss://037e395f-f79d-4d61-bb92-dafcc27e53ba@46.101.57.231:443?path=%2Fesoznjws&security=tls&encryption=none&type=ws&sni=m.vk.com#United%20Kingdom%20Digital%20Ocean
 ss://04621baeab3611ecb9090242ac120002Og==@66.163.117.58:22324#GB%F0%9F%87%AC%F0%9F%87%A7+%7C+66.163.117.58-22324+%7C+95.3ms
+ss://394f6981-a782-4779-9a85-e6cf22935d93@uk1.fromblancwithlove.com:8443?encryption=none&security=tls&insecure=0&allowInsecure=0&type=tcp&headerType=none#GB%E3%80%90%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%EF%BC%9Ahttps%3A//a9a.xyz%E3%80%911
 ss://3c982e8b-b0da-4254-9287-80d2fcd136a3@185.5.38.111:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.hollywoodreporter.com&fp=chrome&security=reality&pbk=NiZvpTYGynbH6RueETAVgkj2XfxoIPiNNoZtQfpQPj8&sid=5a16e7375299#REALITY|GB🇬🇧
 ss://48b36b6a-eaa6-4843-9231-0bb8b38b5da5@152.67.158.177:2443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.cloudflare.com&fp=chrome&security=reality&pbk=498LE1B8NFnfagrOnGGmuh80KqgKXMKiHbgcpxRqBB0&sid=2d989d13dba1#REALITY|GB🇬🇧
 ss://53821f3c-5b03-456a-89f3-f8379f130752@51.89.229.134:443?encryption=none&fp=chrome&pbk=4e4FI0siWxFtLCRCVDQurn1wLTuvKWhRY0zj1SaUcyw&security=reality&sid=a13a7cc5&sni=www.samsung.com&type=tcp#REALITY|GB🇬🇧
@@ -253,6 +254,7 @@ trojan://8697fe6b-1lWNFc1RmRBNk5NQU5KSnga3fa58ac5a3ef0-b4ab-11eb-b65e-1239d02552
 trojan://8a03bc28-2a33-42c4-be59-30464dbb9954@london11.yukiss.eu.org:18818?security=tls#%F0%9F%87%AC%F0%9F%87%A7GB-140.238.123.200-2236
 trojan://WF42809561@model-stingray.crayfish192.xyz:443?allowInsecure=0&sni=model-stingray.crayfish192.xyz#_%E8%8B%B1%E5%9B%BD%2053
 trojan://WF42809561@touching-pigeon.rooster465.autos:443?#%F0%9F%87%AC%F0%9F%87%A7GB%E8%8B%B1%E5%9B%BD%20301.9KB%2Fs
+trojan://WF42809561@touching-pigeon.rooster465.autos:443?allowInsecure=1#%E8%8B%B1%E5%9B%BD+V2CROSS.COM
 trojan://WF42809561@touching-pigeon.rooster465.autos:443?allowInsecure=1#%F0%9F%87%AC%F0%9F%87%A7%20%E8%8B%B1%E5%9B%BD%20V2CROSS.COM
 trojan://b640d791-ff83-4300-b509-c2a02f97f167@51.38.71.175:80?security=tls&sni=uk1.trojanvh.xyz#%F0%9F%87%AC%F0%9F%87%A7GB-51.38.71.175-8183
 trojan://dd6dcb10-4683-11f0-ae79-1239d0255272@51.38.65.155:443?security=tls#%F0%9F%87%AC%F0%9F%87%A7GB-51.38.65.155-4679
@@ -279,6 +281,7 @@ vless://00000000-0000-4000-8000-000000000000@8.208.10.113:17817?allowInsecure=1&
 vless://00000000-0000-4000-8000-000000000000@88.218.0.184:8085?allowInsecure=1&encryption=none&host=sub.mot.ip-ddns.com&path=%2F&security=tls&sni=sub.mot.ip-ddns.com&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AGB
 vless://02db10db44e04d6aae77331b0694ac1b@91.231.186.24:8443?encryption=none&type=xhttp&path=%2Fx&security=reality&sni=nytimes.com&pbk=WhRQP6-muqar8s2OsjHGZZnSiG5LEGsp-CGv6wkhdDs&sid=aabbccdd&fp=random#REALITY|GB🇬🇧
 vless://037e395f-f79d-4d61-bb92-dafcc27e53ba@46.101.57.231:443?path=%2Fesoznjws&security=tls&encryption=none&type=ws&sni=m.vk.com#United%20Kingdom%20Digital%20Ocean
+vless://394f6981-a782-4779-9a85-e6cf22935d93@uk1.fromblancwithlove.com:8443?encryption=none&security=tls&insecure=0&allowInsecure=0&type=tcp&headerType=none#GB%E3%80%90%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%EF%BC%9Ahttps%3A//a9a.xyz%E3%80%911
 vless://3c982e8b-b0da-4254-9287-80d2fcd136a3@185.5.38.111:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.hollywoodreporter.com&fp=chrome&security=reality&pbk=NiZvpTYGynbH6RueETAVgkj2XfxoIPiNNoZtQfpQPj8&sid=5a16e7375299#REALITY|GB🇬🇧
 vless://48b36b6a-eaa6-4843-9231-0bb8b38b5da5@152.67.158.177:2443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.cloudflare.com&fp=chrome&security=reality&pbk=498LE1B8NFnfagrOnGGmuh80KqgKXMKiHbgcpxRqBB0&sid=2d989d13dba1#REALITY|GB🇬🇧
 vless://53821f3c-5b03-456a-89f3-f8379f130752@51.89.229.134:443?encryption=none&fp=chrome&pbk=4e4FI0siWxFtLCRCVDQurn1wLTuvKWhRY0zj1SaUcyw&security=reality&sid=a13a7cc5&sni=www.samsung.com&type=tcp#REALITY|GB🇬🇧
