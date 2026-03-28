@@ -31,13 +31,11 @@ trojan://9c822f05-cfdc-479a-9534-60f3d4127435@138.2.113.248:443?security=tls#%F0
 trojan://IL37892054@select-marmoset.rooster465.autos:443?allowInsecure=0&sni=select-marmoset.rooster465.autos#KR-3.34.140.83-0204
 trojan://IL37892054@select-marmoset.rooster465.autos:443?allowInsecure=0&sni=select-marmoset.rooster465.autos#KR-3.34.140.83-0204%202
 trojan://IL37892054@select-marmoset.rooster465.autos:443?allowInsecure=1#KR🇰🇷
-trojan://IL37892054@select-marmoset.rooster465.autos:443?security=tls&sni=select-marmoset.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7KR-3.34.140.83-0202
 trojan://IL37892054@select-marmoset.rooster465.autos:443?security=tls&sni=select-marmoset.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7KR-3.34.140.83-0209
 trojan://KLF0qOU0ZZGw5Tnu@121.78.213.3:443?security=tls&sni=swift.protocolbuffer.com#%F0%9F%87%B0%F0%9F%87%B7KR-121.78.213.3-6938
 trojan://ZDAAFTxBNu5j9pl3Re834a3xSXwOZYeIlE30Dp86qc7yYgKaDCaROCSSnz2FCy@121.78.213.3:443?security=tls&sni=csharp.protocolbuffer.com#%F0%9F%87%B0%F0%9F%87%B7KR-121.78.213.3-6959
 trojan://ZY07256934@glowing-deer.rooster465.autos:443?allowInsecure=0&sni=glowing-deer.rooster465.autos#KR-54.180.131.34-0253
 trojan://ZY07256934@glowing-deer.rooster465.autos:443?allowInsecure=0&sni=glowing-deer.rooster465.autos#KR-54.180.131.34-0253%202
-trojan://ZY07256934@glowing-deer.rooster465.autos:443?security=tls&sni=glowing-deer.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7KR-54.180.131.34-0257
 trojan://ZY07256934@glowing-deer.rooster465.autos:443?security=tls&sni=glowing-deer.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7KR-54.180.131.34-0266
 trojan://b291d129-ee55-4801-a9b8-b5316e5c37b7@138.2.113.84:443?security=tls#%F0%9F%87%B0%F0%9F%87%B7KR-138.2.113.84-2285
 trojan://b5fc9fa9-796d-4185-a316-395ecac04a85@150.230.249.20:443?security=tls&sni=www.gomacau.gq#%F0%9F%87%B0%F0%9F%87%B7KR-150.230.249.20-4235
@@ -47,7 +45,6 @@ trojan://f2117e99-9b6e-47fd-b0a9-634a0b15b998@146.56.189.146:443?security=tls#%F
 trojan://f2117e99-9b6e-47fd-b0a9-634a0b15b998@146.56.189.146:443?security=tls#%F0%9F%87%B0%F0%9F%87%B7KR-146.56.189.146-3058
 trojan://trojan@118.35.208.37:11434?security=tls&sni=jflsjlaf.pages.dev#%F0%9F%87%B0%F0%9F%87%B7KR-118.35.208.37-1678
 trojan://trojan@211.110.32.47:20000?security=tls&sni=jflsjlaf.pages.dev#%F0%9F%87%B0%F0%9F%87%B7KR-211.110.32.47-1677
-trojan://trojan@221.146.116.77:10003?sni=jflsjlaf.pages.dev#%F0%9F%87%B0%F0%9F%87%B7KR%E9%9F%A9%E5%9B%BD
 trojan://xxoo@3.34.6.217:443?security=tls#%F0%9F%87%B0%F0%9F%87%B7KR-3.34.6.217-3562
 vmess://ewogICAgImFkZCI6ICI0NS4xNDEuMTM5LjEwOSIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogIiIsCiAgICAiaWQiOiAiNjc1MmUyYzQtZmY3Yy00ZGE1LWE4MTUtYzMwN2JmODNhYjQ4IiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiLyIsCiAgICAicG9ydCI6IDEzMzExLAogICAgInBzIjogIvCfh7Dwn4e3S1ItNDUuMTQxLjEzOS4xMDktNzM2OCIsCiAgICAidGxzIjogIiIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
 vmess://ewogICAgImFkZCI6ICI0OS4xMjguMjE5LjIxMyIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogIiIsCiAgICAiaWQiOiAiM2M5ZDAxMjMtNjYyMS00NDhlLWIyMzItNDU0N2Q0NzYwNTJlIiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiLyIsCiAgICAicG9ydCI6IDM4MjY1LAogICAgInBzIjogIvCfh7Dwn4e3S1ItNDkuMTI4LjIxOS4yMTMtNzExOCIsCiAgICAidGxzIjogIiIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
