@@ -29,13 +29,13 @@ trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.seoulcitygovernment.com.u
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.seoulcityhall.com.ua:2053?security=tls#%F0%9F%87%B0%F0%9F%87%B7KR-119.193.20.250-2576
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.seoulcityhall.com.ua:8443?security=tls#%F0%9F%87%B0%F0%9F%87%B7KR-119.193.20.250-2447
 trojan://9c822f05-cfdc-479a-9534-60f3d4127435@138.2.113.248:443?security=tls#%F0%9F%87%B0%F0%9F%87%B7KR-138.2.113.248-0556
-trojan://IL37892054@select-marmoset.rooster465.autos:443?allowInsecure=0&sni=select-marmoset.rooster465.autos#KR-3.34.140.83-0193
-trojan://IL37892054@select-marmoset.rooster465.autos:443?allowInsecure=0&sni=select-marmoset.rooster465.autos#KR-3.34.140.83-0193%202
+trojan://IL37892054@select-marmoset.rooster465.autos:443?allowInsecure=0&sni=select-marmoset.rooster465.autos#KR-3.34.140.83-0200
+trojan://IL37892054@select-marmoset.rooster465.autos:443?allowInsecure=0&sni=select-marmoset.rooster465.autos#KR-3.34.140.83-0200%202
 trojan://IL37892054@select-marmoset.rooster465.autos:443?security=tls&sni=select-marmoset.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7KR-3.34.140.83-0193
 trojan://KLF0qOU0ZZGw5Tnu@121.78.213.3:443?security=tls&sni=swift.protocolbuffer.com#%F0%9F%87%B0%F0%9F%87%B7KR-121.78.213.3-6922
 trojan://ZDAAFTxBNu5j9pl3Re834a3xSXwOZYeIlE30Dp86qc7yYgKaDCaROCSSnz2FCy@121.78.213.3:443?security=tls&sni=csharp.protocolbuffer.com#%F0%9F%87%B0%F0%9F%87%B7KR-121.78.213.3-6943
-trojan://ZY07256934@glowing-deer.rooster465.autos:443?allowInsecure=0&sni=glowing-deer.rooster465.autos#KR-54.180.131.34-0212
-trojan://ZY07256934@glowing-deer.rooster465.autos:443?allowInsecure=0&sni=glowing-deer.rooster465.autos#KR-54.180.131.34-0212%202
+trojan://ZY07256934@glowing-deer.rooster465.autos:443?allowInsecure=0&sni=glowing-deer.rooster465.autos#KR-54.180.131.34-0198
+trojan://ZY07256934@glowing-deer.rooster465.autos:443?allowInsecure=0&sni=glowing-deer.rooster465.autos#KR-54.180.131.34-0198%202
 trojan://ZY07256934@glowing-deer.rooster465.autos:443?security=tls&sni=glowing-deer.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7KR-54.180.131.34-0212
 trojan://b291d129-ee55-4801-a9b8-b5316e5c37b7@138.2.113.84:443?security=tls#%F0%9F%87%B0%F0%9F%87%B7KR-138.2.113.84-2269
 trojan://b5fc9fa9-796d-4185-a316-395ecac04a85@150.230.249.20:443?security=tls&sni=www.gomacau.gq#%F0%9F%87%B0%F0%9F%87%B7KR-150.230.249.20-4219
@@ -78,4 +78,4 @@ vmess://ewogICAgImFkZCI6ICJmdWxsYWNjZXNzdG9rb3JlYW5uZXRzdWJub2RlMS5henVyZXdlYnNp
 vmess://ewogICAgImFkZCI6ICJrci1hcm0yLjAxODk5OS54eXoiLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICJrci1hcm0yLjAxODk5OS54eXoiLAogICAgImlkIjogImU5OGZjMWEwLTljNTItNDA5MS05MWE1LWMxNTliMGFhMjc0ZSIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi9lOThmYzFhMC05YzUyLTQwOTEtOTFhNS1jMTU5YjBhYTI3NGUiLAogICAgInBvcnQiOiA0NDMsCiAgICAicHMiOiAi8J+HsPCfh7dLUi0xNDYuNTYuNDcuMS0xNjExIiwKICAgICJ0bHMiOiAidGxzIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=
 vmess://ewogICAgImFkZCI6ICJzZW91bDAyLnpnam9rLmNvbSIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogInNlb3VsMDIuemdqb2suY29tIiwKICAgICJpZCI6ICIxYTFlNTE5Ni1lYWI0LTQ3NzItOTAxMi02NWMyN2YxOWE1MjQiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvIiwKICAgICJwb3J0IjogNDQzLAogICAgInBzIjogIvCfh7Dwn4e3S1ItMTQ2LjU2LjEzNi4yMzctNzA4NiIsCiAgICAidGxzIjogInRscyIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogZmFsc2UsCiAgICAic25pIjogInNlb3VsMDIuemdqb2suY29tIgp9
 vmess://eyJhZGQiOiIzLjM2LjcyLjE1IiwiYWlkIjoiMCIsImFscG4iOiIiLCJob3N0IjoiIiwiaWQiOiJjZDk5MDRlZS00NzI5LTRmNmUtZjNmYi0yNmIzMzQzOWM1ZWMiLCJuZXQiOiJ3cyIsInBhdGgiOiIvYXJpZXMiLCJwb3J0IjoiODAiLCJwcyI6ImtyIEB2MnJheU5HX1ZQTiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==@v2rayNG_VPN
-vmess://eyJhZGQiOiJjaHVuY2hlb24wMy56Z2pvay5jb20iLCJhaWQiOjAsImhvc3QiOiJjaHVuY2hlb24wMy56Z2pvay5jb20iLCJpZCI6IjgxZDVjYWM0LWQwMzktNDg3NC05YTIwLWMzOTFmNTgwMDEyZCIsIm5ldCI6IndzIiwicGF0aCI6IlwvIiwicG9ydCI6NDQzLCJwcyI6Ilx1ZDgzY1x1ZGRmMFx1ZDgzY1x1ZGRmN1tvcGVucHJveHlsaXN0LmNvbV0gdm1lc3MtS1IiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiJ9
+vmess://eyJhZGQiOiJjaHVuY2hlb24wMy56Z2pvay5jb20iLCJhaWQiOjAsImhvc3QiOiJjaHVuY2hlb24wMy56Z2pvay5jb20iLCJpZCI6IjgxZDVjYWM0LWQwMzktNDg3NC05YTIwLWMzOTFmNTgwMDEyZCIsIm5ldCI6IndzIiwicGF0aCI6IlwvIiwicG9ydCI6NDQzLCJwcyI6Ilx1ZDgzY1x1ZGRmMFx1ZDgzY1x1ZGRmN1tvcGVucHJveHlsaXN0LmNvbV0gdm1lc3MtS1IiLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiYXV0byJ9
