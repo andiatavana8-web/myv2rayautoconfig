@@ -55,6 +55,7 @@ ss://4dde0df3-aa67-417c-882e-28beb3886961@138.124.105.77:443?encryption=none&flo
 ss://61757901-3818-46c7-8482-683fa7f6ba10@103.90.75.252:3001?security=none&encryption=none&headerType=none&type=tcp#Netherlands%20Clodo%20Cloud
 ss://6202b230-417c-4d8e-b624-0f71afa9c75d@212.34.152.234:8443?allowInsecure=1&encryption=none&host=sni.111000.dynv6.net&path=%2F%3FTelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%2B%2540WangCai2%3D&security=tls&sni=sni.111000.dynv6.net&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ANL
 ss://6202b230-417c-4d8e-b624-0f71afa9c75d@45.91.202.224:443?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&path=%2F%3FTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2%3D&security=tls&sni=sni.111000.indevs.in&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ANL
+ss://6d0e9ded-d23d-4ffb-b165-7bc757be84d3@45.90.116.22:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=F7gtHphkYI2iIvNKuEzTpDqYjAdmyHreNhZP1EKcgW0&security=reality&sid=a4b2fe3d56752288&sni=sun6-21.userapi.com&type=tcp#🇳🇱[openproxylist.com]vless-NL
 ss://6d0e9ded-d23d-4ffb-b165-7bc757be84d3@89.124.80.54:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=g1S1MrT0IaHrLmaUhPxZyv4BSQyWg1T_nAJeYF0qpkE&security=reality&sid=4e8678d7eb7f57cc&sni=sun6-21.userapi.com&type=tcp#REALITY|NL🇳🇱
 ss://6d0e9ded-d23d-4ffb-b165-7bc757be84d3@nl9.404-it.ru:5443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=DeZ1yrB7w_bpjIB3vrVo6veYiSQEwXWu1ZUOG8KzMCE&security=reality&sid=62d5daa7ca19fc73&sni=sun6-22.userapi.com&type=tcp#REALITY|NL🇳🇱
 ss://6f183280b258437aa216e83f7dece776Og==@45.131.7.93:80#NL%F0%9F%87%B3%F0%9F%87%B1+%7C+45.131.7.93-80+%7C+8.8ms
@@ -257,7 +258,6 @@ trojan://TestingServer@@@94.102.53.19:443?security=tls#%F0%9F%87%B3%F0%9F%87%B1N
 trojan://f6a0a650-306e-11ee-b692-1239d0255272@51.158.146.183:443?security=tls&sni=Speedtest.net#%F0%9F%87%B3%F0%9F%87%B1NL-51.158.146.183-8104
 trojan://humanity@104.18.11.110:443?security=tls&sni=www.multiplydose.com&fp=chrome&allowInsecure=1&type=ws&path=%2Fassignment#%3E%3E%40v2line%3A%3ANL
 trojan://humanity@172.67.180.92:443?allowInsecure=1&host=www.multiplydose.com&path=%2Fassignment&sni=www.multiplydose.com&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ANL
-trojan://humanity@172.67.180.92:443?path=%2Fassignment&security=tls&insecure=0&host=www.multiplydose.com&fp=chrome&type=ws&allowInsecure=0&sni=www.multiplydose.com#🇳🇱[openproxylist.com]trojan-NL
 trojan://humanity@www.multiplydose.com:443?allowInsecure=1&host=www.multiplydose.com&path=%2F%2Fassignment&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ANL
 trojan://strong-secret-pass-777@94.131.105.125:4443?allowInsecure=1#_%E8%8D%B7%E5%85%B0%202
 trojan://strong-secret-pass-777@94.131.105.125:4443?allowInsecure=1&sni=94.131.105.125#_%E8%8D%B7%E5%85%B0%204
@@ -316,6 +316,7 @@ vless://4dde0df3-aa67-417c-882e-28beb3886961@138.124.105.77:443?encryption=none&
 vless://61757901-3818-46c7-8482-683fa7f6ba10@103.90.75.252:3001?security=none&encryption=none&headerType=none&type=tcp#Netherlands%20Clodo%20Cloud
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@212.34.152.234:8443?allowInsecure=1&encryption=none&host=sni.111000.dynv6.net&path=%2F%3FTelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%2B%2540WangCai2%3D&security=tls&sni=sni.111000.dynv6.net&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ANL
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.91.202.224:443?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&path=%2F%3FTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2%3D&security=tls&sni=sni.111000.indevs.in&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ANL
+vless://6d0e9ded-d23d-4ffb-b165-7bc757be84d3@45.90.116.22:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=F7gtHphkYI2iIvNKuEzTpDqYjAdmyHreNhZP1EKcgW0&security=reality&sid=a4b2fe3d56752288&sni=sun6-21.userapi.com&type=tcp#🇳🇱[openproxylist.com]vless-NL
 vless://6d0e9ded-d23d-4ffb-b165-7bc757be84d3@89.124.80.54:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=g1S1MrT0IaHrLmaUhPxZyv4BSQyWg1T_nAJeYF0qpkE&security=reality&sid=4e8678d7eb7f57cc&sni=sun6-21.userapi.com&type=tcp#REALITY|NL🇳🇱
 vless://6d0e9ded-d23d-4ffb-b165-7bc757be84d3@nl9.404-it.ru:5443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=DeZ1yrB7w_bpjIB3vrVo6veYiSQEwXWu1ZUOG8KzMCE&security=reality&sid=62d5daa7ca19fc73&sni=sun6-22.userapi.com&type=tcp#REALITY|NL🇳🇱
 vless://6f8923d9-f812-4ca6-b93a-8f9227bf2eab@195.93.253.49:33094?security=reality&encryption=none&pbk=35JazACyPS6LcDwpGibneEeMzkzGYWf4KTG_Oqp0oBE&headerType=none&type=tcp&sni=yahoo.com&sid=29489194da0d5d#%F0%9F%87%B3%F0%9F%87%B1%20Ultra%20NL
