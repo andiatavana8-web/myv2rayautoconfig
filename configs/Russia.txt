@@ -30,7 +30,7 @@ ss://9f281d4d-1a02-4eb1-a6cc-d9391d3074fb@213.159.76.238:8080?security=none&sni=
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1eTVjd3JDUjhJdW41bmxNU0ZTOHVK@95.142.47.40:62238#RU%F0%9F%87%B7%F0%9F%87%BA+%7C+95.142.47.40-62238+%7C+161.63ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2YVJNMVUyUUl1MVVrcllJRHRHZUR5@77.91.123.173:18332#%F0%9F%87%B7%F0%9F%87%BA_RU_%E4%BF%84%E7%BD%97%E6%96%AF
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyZnd1Zk9tSjlFTGZONHVtemNIQmZWQDE5NC44Ny44Mi4yODoxMjIyNA==#%F0%9F%87%B7%F0%9F%87%BA_RU_%E4%BF%84%E7%BD%97%E6%96%AF
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNlpDSGVhYlVTZktqZlFFdko0SERW@185.242.86.156:54170#%F0%9F%87%B7%F0%9F%87%BARU%E4%BF%84%E7%BD%97%E6%96%AF2
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNlpDSGVhYlVTZktqZlFFdko0SERW@185.242.86.156:54170#%F0%9F%87%B7%F0%9F%87%BARU%E4%BF%84%E7%BD%97%E6%96%AF
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2WTBwV3VPSkRkSVZ1NU9mcWVsa240@145.249.109.14:60245#RU%F0%9F%87%B7%F0%9F%87%BA+%7C+145.249.109.14-60245+%7C+134.6ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3azZsQTRYUm5FV2ZFbkRyZG0wTlk2@145.249.109.144:15544#RU%F0%9F%87%B7%F0%9F%87%BA+%7C+145.249.109.144-15544+%7C+137.37ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCNE5va2ozWXFmdGE2dFdxdW02cjhrQDQ2LjI5LjIzOC44MzoyODc2OA==#%F0%9F%87%B7%F0%9F%87%BA_RU_%E4%BF%84%E7%BD%97%E6%96%AF
@@ -81,7 +81,6 @@ trojan://ba74833c-8c0f-4dcd-8cbc-13e3c32d3765@185.236.233.111:2053?sni=ftp.debia
 trojan://telegram-id-directvpn@51.21.138.5:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#%F0%9F%87%AC%F0%9F%87%A7_GB_%E8%8B%B1%E5%9B%BD-%3E%F0%9F%87%B7%F0%9F%87%BA_RU_%E4%BF%84%E7%BD%97%E6%96%AF
 trojan://telegram-id-privatevpns@54.93.56.163:22222?security=tls&alpn=http%2F1.1&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=trojan.burgerip.co.uk#%40RUSSIAPROXYY%20%F0%9F%87%B7%F0%9F%87%BA
 trojan://trojan@109.234.211.66:8443?allowInsecure=0&sni=store.timimi.dpdns.org&ws=1&wspath=%2F#%F0%9F%87%B7%F0%9F%87%BA%20%E4%BF%84%E7%BD%97%E6%96%AF%28yudou789.top%20%E7%8E%89%E8%B1%86%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B9%29
-trojan://trojan@109.234.211.66:8443?sni=store.timimi.dpdns.org#%F0%9F%87%B7%F0%9F%87%BARU%E4%BF%84%E7%BD%97%E6%96%AF
 trojan://trojan@109.234.211.66:8443?sni=store.timimi.dpdns.org#%F0%9F%87%B7%F0%9F%87%BARU%E4%BF%84%E7%BD%97%E6%96%AF2
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@54.93.56.163:22224?path=%2Ftelegram-channel-vlessconfig&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=trojan.burgerip.co.uk#%40RUSSIAPROXYY%20%F0%9F%87%B7%F0%9F%87%BA
 vless://14b02e2a-8930-4afb-8412-ea4a4954ca5b@199.241.138.38:25631?path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&security=tls&encryption=none&insecure=0&host=ylnhh.cc.cd&type=ws&allowInsecure=0&sni=ylnhh.cc.cd#%40RUSSIAPROXYY%20%F0%9F%87%B7%F0%9F%87%BA
