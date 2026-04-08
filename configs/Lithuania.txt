@@ -5,11 +5,10 @@ ss://c8d1c6d3-388f-48fc-a8f0-ed90d955d096@194.87.106.31:443?encryption=none&flow
 ss://ca05976a-2dea-11f1-9ec5-baabcd4be2cd@46.202.191.75:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=FVL0r87K3-vUP2KXQX1juLMFEHJtvxwKM-nm6_PYllc&security=reality&sid=cafe01234567&sni=www.apple.com&type=tcp#REALITY|LT🇱🇹
 ss://ca5ab635-fbaa-4ff2-8283-3954b92ae477@93.115.25.42:8443?security=reality&encryption=none&pbk=L3X1eh1Jq_6PKJ6LlwjgiWq0XNaDOqCVKgIElJ5nkVA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com&sid=2cfb5a0ae8ab0cb0#REALITY|LT🇱🇹
 ss://d2de6d6d-4735-4fe3-b4b6-00a81ced69f5@lt.srv.happvpn.com:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=cdnjs.com&fp=chrome&security=reality&pbk=MNTWCLyV7EquFn-J0a6KRlQZ0dt6QY5mmu7Dq8uDkxw&sid=4c02bbbfa833b3b6#REALITY|LT🇱🇹
-ss://fab7bf9cddb945638a04fb01ce6c0fbfOg==@88.216.66.29:8880#LT%F0%9F%87%B1%F0%9F%87%B9+%7C+88.216.66.29-8880+%7C+1.73ms
+ss://fab7bf9cddb945638a04fb01ce6c0fbfOg==@88.216.66.29:8880#LT%F0%9F%87%B1%F0%9F%87%B9+%7C+88.216.66.29-8880+%7C+3.19ms
 ss://ff6fb512-147d-419a-9672-e131133f7189@lt-cherry-01.com:8443?security=reality&encryption=none&pbk=L3X1eh1Jq_6PKJ6LlwjgiWq0XNaDOqCVKgIElJ5nkVA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com&sid=e0ef3d5c0aacb615#REALITY|LT🇱🇹
 trojan://4f9ca636-5195-406a-b48c-0388689dd9a7@212.24.103.3:443?security=tls#%F0%9F%87%B1%F0%9F%87%B9LT-212.24.103.3-2654
 trojan://q2GRUM1-odJBWq_KV6xv2fuNvu8ed-@195.66.25.251:443?security=tls&headerType=none&type=tcp&sni=8443.golden-cards.me#LT🇱🇹
-trojan://q2GRUM1-odJBWq_KV6xv2fuNvu8ed-@8443.golden-cards.me:443?security=tls&headerType=none&type=tcp#LT🇱🇹
 trojan://q2GRUM1-odJBWq_KV6xv2fuNvu8ed-@8443.golden-cards.me:443?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1#LT🇱🇹
 trojan://q2jXRWncMA7pQren_VjQKhSQfoBWK_@194.87.106.31:2083?allowInsecure=1&host=xo.e0f.cx&path=%2Ftrojan-ws&sni=xo.e0f.cx&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ALT
 vless://95abaefc-7861-417a-81b7-166cb788ce1a@5.199.173.116:443?security=reality&encryption=none&pbk=9ajY_OBOn5CCPnCJTPjxg6J3IWE8uJYAiWQvG9CBGjU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=apple.com&sid=00684d2eae2cdd16#REALITY|LT🇱🇹
