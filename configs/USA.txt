@@ -1362,7 +1362,6 @@ ss://a9900ac8-9aab-4bc8-cb0b-ed380627c8aa@193.58.119.134:443?security=&encryptio
 ss://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@104.16.2.90:443?path=/43.218.77.16=1443&security=tls&encryption=none&insecure=0&host=afrcloud22.mmv.kr&fp=chrome&type=ws&allowInsecure=0&sni=Pulavpn11.afrcloud22.mmv.kr#US🇺🇸
 ss://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@104.17.98.251:443?path=/&security=tls&encryption=none&insecure=0&host=afrcloud22.mmv.kr&type=ws&allowInsecure=0&sni=joinProxyVPN11.afrcloud22.mmv.kr#US🇺🇸
 ss://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@cdn.zoom.us:443?path=/138.2.5.136%3D443&%3Bsecurity=tls&%3Bencryption=none&%3Bhost=afrcloud22.mmv.kr&%3Btype=ws&%3Bsni=afrcloud22.mmv.kr#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20VLESS%20%7C%20%40v2aryng_vpn%20%231
-ss://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@cdn.zoom.us:443?path=138.2.5.136&%3Bsecurity=tls&%3Bencryption=none&%3Binsecure=0&%3Bhost=afrcloud22.mmv.kr&%3Btype=ws&%3BallowInsecure=0&%3Bsni=afrcloud22.mmv.kr#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20VLESS%20%7C%20%40v2ray_free_conf%20%231
 ss://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@nodejs.org:443?path=/164.52.2.98=443&security=tls&encryption=none&insecure=0&host=afrcloud22.mmv.kr&type=ws&allowInsecure=0&sni=afrcloud22.mmv.kr#US🇺🇸
 ss://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@www.speedtest.net:443?path=/209.97.173.243=443&security=tls&encryption=none&insecure=0&host=afrcloud22.mmv.kr&type=ws&allowInsecure=0&sni=afrcloud22.mmv.kr#US🇺🇸
 ss://ac60e14d-f364-417a-ade7-860a70db061f@193.58.119.134:443?security=&encryption=none&host=google.com&headerType=http&type=tcp#US🇺🇸
@@ -1625,7 +1624,6 @@ trojan://humanity@104.18.32.47:443?path=/assignment&security=tls&fp=chrome&type=
 trojan://jKRJgS7uvI@155.248.193.254:31853?security=tls#%F0%9F%87%BA%F0%9F%87%B8US-155.248.193.254-1262
 trojan://kSZddpnUKy@150.136.57.125:41106#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BDssr://MTE2LjE2Mi4xMjAuMjY6NTYxOmF1dGhfYWVzMTI4X21kNTpjaGFjaGEyMC1pZXRmOnBsYWluOmJXSnNZVzVyTVhCdmNuUT0vP2dyb3VwPWFIUjBjSE02THk5Mk1uSmhlWE5sTG1OdmJRPT0mcHJvdG9wYXJhbT1OVEUzTmpBNlRFeE1NRGt3ZFdrNGIyeHNPQT09JnJlbWFya3M9OEorSHFQQ2ZoN05mUTA1ZjVMaXQ1WnU5TFQ3d240ZXQ4SitIc0Y5SVMxL3BwcG5tdUs4PQ==------------------------------------------必进：【TG全网导航】
 trojan://kSZddpnUKy@150.136.57.125:41106?security=tls#%F0%9F%87%BA%F0%9F%87%B8US-150.136.57.125-5180
-trojan://kkzh2prsyr2ik47as615@64.94.95.118:57142?security=tls&sni=64.94.95.118#%E7%BE%8E%E5%9B%BD+%E5%8A%A0%E5%B7%9E
 trojan://kkzh2prsyr2ik47as615@64.94.95.118:57142?security=tls&sni=64.94.95.118#%F0%9F%87%BA%F0%9F%87%B8US-64.94.95.118-4847
 trojan://telegram-id-directvpn@18.222.168.7:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%BA%F0%9F%87%B8US-18.222.168.7-1361
 trojan://telegram-id-directvpn@3.129.217.93:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%BA%F0%9F%87%B8US-3.129.217.93-1427
@@ -1988,7 +1986,6 @@ vless://a9900ac8-9aab-4bc8-cb0b-ed380627c8aa@193.58.119.134:443?security=&encryp
 vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@104.16.2.90:443?path=/43.218.77.16=1443&security=tls&encryption=none&insecure=0&host=afrcloud22.mmv.kr&fp=chrome&type=ws&allowInsecure=0&sni=Pulavpn11.afrcloud22.mmv.kr#US🇺🇸
 vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@104.17.98.251:443?path=/&security=tls&encryption=none&insecure=0&host=afrcloud22.mmv.kr&type=ws&allowInsecure=0&sni=joinProxyVPN11.afrcloud22.mmv.kr#US🇺🇸
 vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@cdn.zoom.us:443?path=/138.2.5.136%3D443&%3Bsecurity=tls&%3Bencryption=none&%3Bhost=afrcloud22.mmv.kr&%3Btype=ws&%3Bsni=afrcloud22.mmv.kr#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20VLESS%20%7C%20%40v2aryng_vpn%20%231
-vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@cdn.zoom.us:443?path=138.2.5.136&%3Bsecurity=tls&%3Bencryption=none&%3Binsecure=0&%3Bhost=afrcloud22.mmv.kr&%3Btype=ws&%3BallowInsecure=0&%3Bsni=afrcloud22.mmv.kr#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20VLESS%20%7C%20%40v2ray_free_conf%20%231
 vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@nodejs.org:443?path=/164.52.2.98=443&security=tls&encryption=none&insecure=0&host=afrcloud22.mmv.kr&type=ws&allowInsecure=0&sni=afrcloud22.mmv.kr#US🇺🇸
 vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@www.speedtest.net:443?path=/209.97.173.243=443&security=tls&encryption=none&insecure=0&host=afrcloud22.mmv.kr&type=ws&allowInsecure=0&sni=afrcloud22.mmv.kr#US🇺🇸
 vless://ac60e14d-f364-417a-ade7-860a70db061f@193.58.119.134:443?security=&encryption=none&host=google.com&headerType=http&type=tcp#US🇺🇸
