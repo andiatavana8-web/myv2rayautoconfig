@@ -63,6 +63,7 @@ trojan://40c89b10235c40321e7a3cef82b53a03@trs16.bolab.net:22?security=tls#%F0%9F
 trojan://40c89b10235c40321e7a3cef82b53a03@trs17.bolab.net:22?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-153.127.203.108-2282
 trojan://44e660b0ee21cf3ac66aee2c08af85d2@160.16.107.37:3169?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#Japan%20NTT%20Pc
 trojan://4f7dc540-d244-4e64-af21-4b5bb300add3@132.226.5.246:443?security=tls&sni=www.tokyo2023.ga#%F0%9F%87%AF%F0%9F%87%B5JP-132.226.5.246-4165
+trojan://6202b230-417c-4d8e-b624-0f71afa9c75d@jp.111000.cc.cd:443?allowInsecure=0&sni=sni.111000.dynv6.net&ws=1&wspath=%2F%3Fed%3D2560%26proxyip%3Dip.111000.de5.net%3A443#%F0%9F%87%AF%F0%9F%87%B5%2000-Trojan-jp-AI
 trojan://64a59181551b5773e390bd717a7b7c06@153.121.45.139:3423/?type=tcp&security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-153.121.45.139-1758
 trojan://64a59181551b5773e390bd717a7b7c06@160.16.106.99:1281/?type=tcp&security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.106.99-0287
 trojan://64a59181551b5773e390bd717a7b7c06@160.16.72.205:1281/?type=tcp&security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.72.205-0275
@@ -80,8 +81,12 @@ trojan://868ecdaf6aed618ec98cf78585672b2b@13.114.50.40:4937?sni=www.nintendogame
 trojan://868ecdaf6aed618ec98cf78585672b2b@13.115.246.132:4674?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-13.115.246.132-1689
 trojan://868ecdaf6aed618ec98cf78585672b2b@13.115.246.132:9201?allowInsecure=0&sni=www.nintendogames.net#%E6%97%A5%E6%9C%AC3%7C%40ripaojiedian
 trojan://868ecdaf6aed618ec98cf78585672b2b@13.115.246.132:9201?allowInsecure=0&sni=www.nintendogames.net#%E6%97%A5%E6%9C%AC3%7C%40ripaojiedian%204
+trojan://868ecdaf6aed618ec98cf78585672b2b@13.115.246.132:9201?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC3%7C%40ripaojiedian
+trojan://868ecdaf6aed618ec98cf78585672b2b@13.115.246.132:9201?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC3%7C%40stairnode
 trojan://868ecdaf6aed618ec98cf78585672b2b@13.115.246.132:9201?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-13.115.246.132-1688
 trojan://868ecdaf6aed618ec98cf78585672b2b@13.231.60.220:34818?allowInsecure=0&sni=www.nintendogames.net#%E6%97%A5%E6%9C%AC2%7C%40ripaojiedian
+trojan://868ecdaf6aed618ec98cf78585672b2b@13.231.60.220:34818?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC2%7C%40ripaojiedian
+trojan://868ecdaf6aed618ec98cf78585672b2b@13.231.60.220:34818?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC2%7C%40stairnode
 trojan://868ecdaf6aed618ec98cf78585672b2b@13.231.60.220:34818?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-13.231.60.220-1687
 trojan://868ecdaf6aed618ec98cf78585672b2b@160.16.132.38:3057?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.132.38-1692
 trojan://868ecdaf6aed618ec98cf78585672b2b@160.16.132.38:4019?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.132.38-1693
@@ -113,6 +118,8 @@ trojan://BxceQaOe@18.182.9.204:3357?security=tls&sni=t.me%252Fripaojiedian#%F0%9
 trojan://BxceQaOe@18.182.9.204:3357?sni=t.me%2Fripaojiedian#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC3
 trojan://BxceQaOe@18.183.212.72:3022?allowInsecure=1&sni=t.me%252Fripaojiedian#%E6%97%A5%E6%9C%AC%7C%40ripaojiedian
 trojan://BxceQaOe@18.183.212.72:3022?allowInsecure=1&sni=t.me%252Fripaojiedian#%E6%97%A5%E6%9C%AC%7C%40ripaojiedian%204
+trojan://BxceQaOe@18.183.212.72:3022?allowInsecure=1&sni=t.me%252Fripaojiedian#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC%7C%40ripaojiedian
+trojan://BxceQaOe@18.183.212.72:3022?allowInsecure=1&sni=t.me%252Fripaojiedian#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC%7C%40stairnode
 trojan://BxceQaOe@18.183.212.72:3022?security=tls&sni=t.me%252Fripaojiedian#%F0%9F%87%AF%F0%9F%87%B5JP-18.183.212.72-1686
 trojan://BxceQaOe@18.183.212.72:39507?security=tls&sni=t.me%2Fripaojiedian#%F0%9F%87%AF%F0%9F%87%B5JP-18.183.212.72-1684
 trojan://BxceQaOe@54.199.28.140:6313?security=tls&sni=t.me%2Fripaojiedian#%F0%9F%87%AF%F0%9F%87%B5JP-54.199.28.140-0815
