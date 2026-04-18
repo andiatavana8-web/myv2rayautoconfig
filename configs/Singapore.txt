@@ -18,8 +18,9 @@ ss://06b65903-406d-4a41-8463-6fd5c0ee7798@8.219.154.217:8443?&security=tls&fp=ch
 ss://06b65903-406d-4a41-8463-6fd5c0ee7798@91.192.81.154:2053?&security=tls&fp=chrome&sni=sn1.skylee5.cloudns.ch&type=ws&headerType=none&host=sn1.skylee5.cloudns.ch&path=%2F#%E6%96%B0%E5%8A%A0%E5%9D%A1%2030
 ss://0deb6f9d-9ad9-4b73-ac33-f3176e7ec1f2@91.242.241.45:8443?security=reality&fp=chrome&type=tcp&flow=xtls-rprx-vision&pbk=1-2fy8f8XeOHzmdFmCENHV1mr_tzJX1M9UXp42mUIiM&sni=google.com#VPNKEY-Singapore
 ss://3047ba53-6f5d-4807-8bd1-135c9d031327@129.226.144.204:36690?&security=false&fp=chrome&type=ws&headerType=none&host=129.226.144.204&path=%2F3047ba53#%E6%96%B0%E5%8A%A0%E5%9D%A1%2006
+ss://3b940e86-7b0d-40da-acf1-12d334e41023@151.101.3.8:80?path=%2F%3Fed%3D1024&security=none&encryption=none&host=Fastapi.Org&type=ws#SG🇸🇬
 ss://603e7eca-fe4d-48f8-a4f8-bc832d7d37ce@5.199.164.117:443?&security=reality&flow=xtls-rprx-vision&pbk=wgoLhL4pRP0y6fu6He4qW_ElohCM_ANWJF3HEoUhNz4&sid=9c2378562188c3cb&fp=chrome&sni=sg.denditop.site&type=tcp&headerType=none&path=%2F#%E6%96%B0%E5%8A%A0%E5%9D%A1%2005
-ss://6f99505678024a1dbff761678e626c3fOg==@52.187.36.104:443#SG%F0%9F%87%B8%F0%9F%87%AC+%7C+52.187.36.104-443+%7C+186.01ms
+ss://6f99505678024a1dbff761678e626c3fOg==@52.187.36.104:443#SG%F0%9F%87%B8%F0%9F%87%AC+%7C+52.187.36.104-443+%7C+199.48ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0SHViMmY5SnloRUN5QXEyT3BtME5T@51.79.161.232:443#%F0%9F%87%B8%F0%9F%87%ACSG-51.79.161.232-7935
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@156.59.243.6:990#%F0%9F%87%B8%F0%9F%87%ACSG-156.59.243.6-0215
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@156.59.243.6:990#Singapore
@@ -117,7 +118,7 @@ ss://YWVzLTI1Ni1nY206OHQyeGVlbVV0eXVpNHpBdg@194.233.94.119:80#%3E%3E%40OutlineVp
 ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@139.99.68.21:6379#%F0%9F%87%B8%F0%9F%87%ACSG-139.99.68.21-5415
 ss://ce069292-c8bf-40dd-a6b1-87818a1e64e9@188.239.9.91:443?&security=tls&fp=chrome&sni=1-axj.pages.dev&type=ws&headerType=none&host=1-axj.pages.dev&path=%2F#%E6%96%B0%E5%8A%A0%E5%9D%A1%2002
 ss://e85ce618-50cd-42e0-a8ba-5052e6be9498@91.242.241.45:8443?security=reality&fp=chrome&type=tcp&flow=xtls-rprx-vision&pbk=1-2fy8f8XeOHzmdFmCENHV1mr_tzJX1M9UXp42mUIiM&sni=google.com#VPNKEY-Singapore
-ss://fab7bf9cddb945638a04fb01ce6c0fbfOg==@27.50.48.29:8880#SG%F0%9F%87%B8%F0%9F%87%AC+%7C+27.50.48.29-8880+%7C+18.31ms
+ss://fab7bf9cddb945638a04fb01ce6c0fbfOg==@27.50.48.29:8880#SG%F0%9F%87%B8%F0%9F%87%AC+%7C+27.50.48.29-8880+%7C+14.36ms
 trojan://08964210-e7b8-11ec-95aa-1239d0255272@w12.udpgw.com:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-172.104.177.105-5426
 trojan://0c6a3341e8d5ab17@103.172.116.196:3389?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-103.172.116.196-1930
 trojan://16bcc187-a1a0-4b8a-8b69-627f38b7cc0d@15.235.197.4:80?security=tls&sni=15.235.197.4#%F0%9F%87%B8%F0%9F%87%ACSG-15.235.197.4-8528
@@ -168,6 +169,7 @@ vless://06b65903-406d-4a41-8463-6fd5c0ee7798@8.219.154.217:8443?&security=tls&fp
 vless://06b65903-406d-4a41-8463-6fd5c0ee7798@91.192.81.154:2053?&security=tls&fp=chrome&sni=sn1.skylee5.cloudns.ch&type=ws&headerType=none&host=sn1.skylee5.cloudns.ch&path=%2F#%E6%96%B0%E5%8A%A0%E5%9D%A1%2030
 vless://0deb6f9d-9ad9-4b73-ac33-f3176e7ec1f2@91.242.241.45:8443?security=reality&fp=chrome&type=tcp&flow=xtls-rprx-vision&pbk=1-2fy8f8XeOHzmdFmCENHV1mr_tzJX1M9UXp42mUIiM&sni=google.com#VPNKEY-Singapore
 vless://3047ba53-6f5d-4807-8bd1-135c9d031327@129.226.144.204:36690?&security=false&fp=chrome&type=ws&headerType=none&host=129.226.144.204&path=%2F3047ba53#%E6%96%B0%E5%8A%A0%E5%9D%A1%2006
+vless://3b940e86-7b0d-40da-acf1-12d334e41023@151.101.3.8:80?path=%2F%3Fed%3D1024&security=none&encryption=none&host=Fastapi.Org&type=ws#SG🇸🇬
 vless://603e7eca-fe4d-48f8-a4f8-bc832d7d37ce@5.199.164.117:443?&security=reality&flow=xtls-rprx-vision&pbk=wgoLhL4pRP0y6fu6He4qW_ElohCM_ANWJF3HEoUhNz4&sid=9c2378562188c3cb&fp=chrome&sni=sg.denditop.site&type=tcp&headerType=none&path=%2F#%E6%96%B0%E5%8A%A0%E5%9D%A1%2005
 vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@188.239.9.91:443?&security=tls&fp=chrome&sni=1-axj.pages.dev&type=ws&headerType=none&host=1-axj.pages.dev&path=%2F#%E6%96%B0%E5%8A%A0%E5%9D%A1%2002
 vless://e85ce618-50cd-42e0-a8ba-5052e6be9498@91.242.241.45:8443?security=reality&fp=chrome&type=tcp&flow=xtls-rprx-vision&pbk=1-2fy8f8XeOHzmdFmCENHV1mr_tzJX1M9UXp42mUIiM&sni=google.com#VPNKEY-Singapore
@@ -238,4 +240,4 @@ vmess://eyJhZGQiOiI4LjIyMi4xMzguMTY0IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhv
 vmess://eyJhZGQiOiIxMDMuMjUzLjI2LjEzNCIsImFpZCI6IjQiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiZWVoN2lld2UuY29tIiwiaWQiOiJhYmE1MGRkNC01NDg0LTNiMDUtYjE0YS00NjYxY2FmODYyZDUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvd3MiLCJwb3J0IjoiNDQzIiwicHMiOiLwn4e48J+HrFNHLTEwMy4yNTMuMjYuMTM0LTAyMjkiLCJzY3kiOiJhdXRvIiwic25pIjoiZWVoN2lld2UuY29tIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
 vmess://eyJhZGQiOiIxMjguMTk5LjI0My4xNTciLCJ2IjoyLCJwcyI6IvCfh7jwn4esX1NHX+aWsOWKoOWdoV83IiwicG9ydCI6IjgwODAiLCJpZCI6ImJkZDIyODQxLWM0ZDItNGFhOC1hY2YyLTk1YWE5MTI1ZjE1OSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiIiwidGxzIjoidGxzIiwicGF0aCI6Ii8ifQ==
 vmess://eyJhZGQiOiIzNS4yNDAuMjI1LjIzIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImM1ZGQ2NjgwLTY0YWQtNGYwNC05OTUyLTQ5ZDk0OTg0ZjllYiIsIm5ldCI6IndzIiwicGF0aCI6IlwvIiwicG9ydCI6Ijg4ODAiLCJwcyI6Ilx1ZDgzY1x1ZGRmOFx1ZDgzY1x1ZGRlY1tvcGVucHJveHlsaXN0LmNvbV0gdm1lc3MtU0ciLCJzY3kiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
-vmess://eyJhZGQiOiJ2MTIuaGRhY2QuY29tIiwiYWlkIjoiMCIsImhvc3QiOiJBWkVSQi5ORVQiLCJpZCI6ImNiYjNmODc3LWQxZmItMzQ0Yy04N2E5LWQxNTNiZmZkNTQ4NCIsIm5ldCI6InRjcCIsInBhdGgiOiJcLz9CSUFfVEVMRUdSQU1AQVpBUkJBWUpBQjFfQVpBUkJBWUpBQjFfQVpBUkJBWUpBQjFfQVpBUkJBWUpBQjEiLCJwb3J0IjoiMzA4MTIiLCJwcyI6Ilx1ZDgzY1x1ZGRmOFx1ZDgzY1x1ZGRlY1tvcGVucHJveHlsaXN0LmNvbV0gdm1lc3MtU0ciLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
+vmess://eyJhZGQiOiJ2MTIuaGRhY2QuY29tIiwiYWlkIjoiMCIsImhvc3QiOiJBWkVSQi5ORVQiLCJpZCI6ImNiYjNmODc3LWQxZmItMzQ0Yy04N2E5LWQxNTNiZmZkNTQ4NCIsIm5ldCI6InRjcCIsInBhdGgiOiJcLz9CSUFfVEVMRUdSQU1AQVpBUkJBWUpBQjFfQVpBUkJBWUpBQjFfQVpBUkJBWUpBQjFfQVpBUkJBWUpBQjEiLCJwb3J0IjoiMzA4MTIiLCJwcyI6Ilx1ZDgzY1x1ZGRmOFx1ZDgzY1x1ZGRlY1tvcGVucHJveHlsaXN0LmNvbV0gdm1lc3MtU0ciLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0=
