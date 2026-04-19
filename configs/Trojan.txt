@@ -309,6 +309,7 @@ trojan://13561080-8b99-11ee-8d87-1239d0255272@162.159.137.232:443/?type=tcp&secu
 trojan://13561080-8b99-11ee-8d87-1239d0255272@162.159.137.232:443?security=tls&sni=🔒
 trojan://13c169be-8592-4eaa-94cb-69c859e7d987@ubu.okaoclax.me:443/?type=ws&host=ubu.okaoclax.me&path=/trojan-ws&security=tls&sni=ubu.okaoclax.me&allowInsecure=1#INT🌍
 trojan://13c169be-8592-4eaa-94cb-69c859e7d987@ubu.okaoclax.me:443?path=%2Ftrojan-ws&security=tls&host=ubu.okaoclax.me&type=ws&sni=ubu.okaoclax.me#SG🇸🇬
+trojan://13c169be-8592-4eaa-94cb-69c859e7d987@ubu.okaoclax.me:443?path=/trojan-ws&security=tls&host=ubu.okaoclax.me&type=ws&sni=ubu.okaoclax.me#🇸🇬[openproxylist.com]
 trojan://13c169be-8592-4eaa-94cb-69c859e7d987@ubu.okaoclax.me:443?path=🔒
 trojan://13e26f64-2e0c-4461-92cd-d83294cc18f0@104.21.76.21:443?security=tls&sni=🔒
 trojan://13e26f64-2e0c-4461-92cd-d83294cc18f0@104.21.94.69:443?security=tls&sni=🔒
@@ -4694,7 +4695,7 @@ trojan://e136d465-0558-43b9-b50c-b1f45d4cb2c2@jp2-8sb.6121999.dpdns.org:24534?al
 trojan://e136d465-0558-43b9-b50c-b1f45d4cb2c2@jp2-8sb.6121999.dpdns.org:24534?allowInsecure=0&sni=jp2-8sb.6121999.dpdns.org#✅@AR14N24b
 trojan://e136d465-0558-43b9-b50c-b1f45d4cb2c2@jp2-8sb.6121999.dpdns.org:24534?allowInsecure=0&sni=jp2-8sb.6121999.dpdns.org#🔥Join+Telegram:@Farah_VPN🟣
 trojan://e136d465-0558-43b9-b50c-b1f45d4cb2c2@jp2-8sb.6121999.dpdns.org:24534?allowInsecure=1&sni=jp2-8sb.6121999.dpdns.org#JP-140.238.43.40-102
-trojan://e136d465-0558-43b9-b50c-b1f45d4cb2c2@jp2-8sb.6121999.dpdns.org:24534?security=tls&sni=jp2-8sb.6121999.dpdns.org#🇯🇵[openproxylist.com]
+trojan://e136d465-0558-43b9-b50c-b1f45d4cb2c2@jp2-8sb.6121999.dpdns.org:24534?security=tls&sni=jp2-8sb.6121999.dpdns.org&type=tcp&headerType=none#🇯🇵[openproxylist.com]
 trojan://e14c0c0e-f838-49e9-bcee-01ead9208af2@cf.dalazhi.eu.org:8443?security=tls&sni=🔒
 trojan://e14c0c0e-f838-49e9-bcee-01ead9208af2@cf3.dalazhi.eu.org:8443?security=tls&sni=🔒
 trojan://e23f408a-012e-4030-8b31-02022031cb50@129.146.135.157:443?security=tls
@@ -5148,7 +5149,6 @@ trojan://humanity@172.67.180.92:443?path=%2Fassignment&security=tls&insecure=0&h
 trojan://humanity@172.67.180.92:443?path=%2Fassignment&security=tls&insecure=0&host=www.multiplydose.com&fp=chrome&type=ws&allowInsecure=0&sni=www.multiplydose.com#🔥Join+Telegram:@Farah_VPN🟣
 trojan://humanity@172.67.180.92:443?path=🔒
 trojan://humanity@172.67.180.92:443?security=tls&sni=www.multiplydose.com&fp=chrome&allowInsecure=1&type=ws&host=www.multiplydose.com&path=%2Fassignment#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40v2Line
-trojan://humanity@172.67.180.92:443?security=tls&sni=www.multiplydose.com&fp=chrome&allowInsecure=1&type=ws&host=www.multiplydose.com&path=%2Fassignment#🇳🇱[openproxylist.com]
 trojan://humanity@172.67.180.92:443?security=tls&sni=www.multiplydose.com&fp=chrome&allowInsecure=1&type=ws&host=www.multiplydose.com&path=%2Fassignment#🔥Join+Telegram:@Farah_VPN🟣
 trojan://humanity@172.67.180.92:443?security=tls&sni=🔒
 trojan://humanity@172.67.180.92:443?security=tls&type=ws&sni=www.multiplydose.com&path=/assignment&host=www.multiplydose.com#%E6%9C%AA%E7%9F%A515
@@ -6105,6 +6105,7 @@ trojan://trojan@109.234.211.66:8443/?type=ws&host=store.timimi.dpdns.org&path=�
 trojan://trojan@109.234.211.66:8443?allowInsecure=0&sni=🔒
 trojan://trojan@109.234.211.66:8443?path=🔒
 trojan://trojan@109.234.211.66:8443?security=tls&sni=store.timimi.dpdns.org&type=ws&host=store.timimi.dpdns.org&path=%2F#RELAY🚩
+trojan://trojan@109.234.211.66:8443?security=tls&sni=store.timimi.dpdns.org&type=ws&host=store.timimi.dpdns.org&path=%2F#🇸🇬[openproxylist.com]
 trojan://trojan@109.234.211.66:8443?sni=🔒
 trojan://trojan@136.244.105.89:82?allowInsecure=1&sni=jflsjlaf.pages.dev&type=ws&host=jflsjlaf.pages.dev&path=/#%F0%9F%87%B3%F0%9F%87%B18433%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
 trojan://trojan@136.244.105.89:82?allowInsecure=1&sni=jflsjlaf.pages.dev&type=ws&host=jflsjlaf.pages.dev&path=/#[30018]
@@ -6123,7 +6124,6 @@ trojan://trojan@152.53.45.251:8888?allowInsecure=0&sni=🔒
 trojan://trojan@152.53.45.251:8888?security=tls&%3Bsni=jflsjlaf.pages.dev&%3Btype=ws&%3Bhost=jflsjlaf.pages.dev&%3Bpath=/#%F0%9F%87%A6%F0%9F%87%B9%20AT%20%7C%20TROJAN%20%7C%20%40mpproxy%20%231
 trojan://trojan@152.53.45.251:8888?security=tls&%3Bsni=jflsjlaf.pages.dev&%3Btype=ws&%3Bhost=jflsjlaf.pages.dev&%3Bpath=/#🔥Join+Telegram:@Farah_VPN🟣
 trojan://trojan@152.53.45.251:8888?security=tls&sni=jflsjlaf.pages.dev#%F0%9F%87%A6%F0%9F%87%B9AT-152.53.45.251-1649
-trojan://trojan@152.53.45.251:8888?security=tls&sni=jflsjlaf.pages.dev&type=ws&host=jflsjlaf.pages.dev&path=%2F#🇦🇹[openproxylist.com]
 trojan://trojan@152.53.45.251:8888?security=tls&sni=jflsjlaf.pages.dev&type=ws&host=jflsjlaf.pages.dev&path=/#[29981]
 trojan://trojan@152.53.45.251:8888?security=tls&sni=jflsjlaf.pages.dev&type=ws&host=jflsjlaf.pages.dev&path=/#🔥Join+Telegram:@Farah_VPN🟣
 trojan://trojan@152.53.45.251:8888?sni=🔒
