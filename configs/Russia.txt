@@ -4,6 +4,7 @@ ss://49ed01ad-3bb4-204f-b0ff-a58f658fd618@5.181.171.10:443?encryption=none&flow=
 ss://49ed01ad-3bb4-204f-b0ff-a58f658fd618@5.181.171.10:443?security=reality&encryption=none&pbk=YNGotlyAx3ELUmi4lxOUjiEDmibqf1pPUTE9o3YYT2Y&headerType=none&fp=chrome&spx=%2Fsinavm&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com#REALITY|RU🇷🇺
 ss://5137b22bf02f4309a65bc06cf66a6b83@212.192.14.225:8443?encryption=none&type=xhttp&path=%2Fx&security=reality&sni=ya.ru&pbk=-ilN3RccV76Z1Sye-TAeBOkZmsE6ro6dYHfJYCb6kQM&sid=aabbccdd&fp=random#REALITY|RU🇷🇺
 ss://6202b230-417c-4d8e-b624-0f71afa9c75d@77.246.110.66:443?allowInsecure=1&encryption=none&host=sni.111000.dynv6.net&security=tls&sni=sni.111000.dynv6.net&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ARU
+ss://6202b230-417c-4d8e-b624-0f71afa9c75d@88.210.6.236:2053?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&path=%2F&security=tls&sni=sni.111000.indevs.in&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ARU
 ss://741f2cb64d5b4fd7830ad731c9e1e859Og==@45.142.120.5:443#RU%F0%9F%87%B7%F0%9F%87%BA+%7C+45.142.120.5-443+%7C+2.13ms
 ss://741f2cb64d5b4fd7830ad731c9e1e859Og==@45.142.120.5:443#RU%F0%9F%87%B7%F0%9F%87%BA+%7C+45.142.120.5-443+%7C+2.59ms
 ss://75807638-6f19-0bb8-ae08-38492ee85c88@212.92.101.195:52006?allowInsecure=1&alpn=http%2F1.1&encryption=none&flow=xtls-rprx-vision&security=tls&type=tcp#RU🇷🇺
@@ -38,13 +39,10 @@ ss://YWVzLTI1Ni1jZmI6UzdLd1V1N3lCeTU4UzNHYQ==@45.89.52.66:9042#%F0%9F%87%B7%F0%9
 ss://YWVzLTI1Ni1jZmI6VE4yWXFnaHhlRkRLWmZMVQ==@45.89.52.66:9037#%F0%9F%87%B7%F0%9F%87%BARU-45.89.52.66-8039
 ss://YWVzLTI1Ni1jZmI6VTZxbllSaGZ5RG1uOHNnbg==@45.89.52.66:9041#%F0%9F%87%B7%F0%9F%87%BARU-45.89.52.66-8037
 ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@31.172.67.43:443#%F0%9F%87%B7%F0%9F%87%BARU-31.172.67.43-8115
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@38.60.223.8:989#%F0%9F%87%B7%F0%9F%87%BARU-38.60.223.8-0258
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@38.60.223.8:989#%F0%9F%87%B7%F0%9F%87%BARU-38.60.223.8-0265
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@92.223.109.126:989#%F0%9F%87%B7%F0%9F%87%BARU-92.223.109.126-3742
 ss://YWVzLTI1Ni1jZmI6cDl6NUJWQURIMllGczNNTg==@45.89.52.66:9040#%F0%9F%87%B7%F0%9F%87%BARU-45.89.52.66-8038
-ss://YWVzLTI1Ni1nY206ODNhY2Y2OWVkYjRlNTQ1Mw@194.87.69.143:12091#%3E%3E%40v2nodes%3A%3ARU
 ss://YWVzLTI1Ni1nY206OWNkYzY0NDBkNDJjYjE5Yw==@89.125.103.52:20129#%F0%9F%87%B7%F0%9F%87%BARU-89.125.103.52-0833
-ss://YWVzLTI1Ni1nY206OWYzZDFhNmQzMTQ2ODU5OQ==@195.58.49.100:10990#%F0%9F%87%B7%F0%9F%87%BARU-195.58.49.100-0222
 ss://YWVzLTI1Ni1nY206OWYzZDFhNmQzMTQ2ODU5OQ==@195.58.49.100:10990#%F0%9F%87%B7%F0%9F%87%BARU-195.58.49.100-0342
 ss://YWVzLTI1Ni1nY206YzVmY2RmNzgyOTExMmNiNA==@45.140.169.225:10974#%F0%9F%87%B7%F0%9F%87%BARU-45.140.169.225-0834
 ss://YWVzLTI1Ni1nY206ZjM0NTc5ZDAxNDhiMjU4MQ==@45.129.3.254:60290#RU%F0%9F%87%B7%F0%9F%87%BA+%7C+45.129.3.254-60290+%7C+197.6ms
@@ -67,6 +65,7 @@ vless://49ed01ad-3bb4-204f-b0ff-a58f658fd618@5.181.171.10:443?encryption=none&fl
 vless://49ed01ad-3bb4-204f-b0ff-a58f658fd618@5.181.171.10:443?security=reality&encryption=none&pbk=YNGotlyAx3ELUmi4lxOUjiEDmibqf1pPUTE9o3YYT2Y&headerType=none&fp=chrome&spx=%2Fsinavm&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com#REALITY|RU🇷🇺
 vless://5137b22bf02f4309a65bc06cf66a6b83@212.192.14.225:8443?encryption=none&type=xhttp&path=%2Fx&security=reality&sni=ya.ru&pbk=-ilN3RccV76Z1Sye-TAeBOkZmsE6ro6dYHfJYCb6kQM&sid=aabbccdd&fp=random#REALITY|RU🇷🇺
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@77.246.110.66:443?allowInsecure=1&encryption=none&host=sni.111000.dynv6.net&security=tls&sni=sni.111000.dynv6.net&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ARU
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@88.210.6.236:2053?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&path=%2F&security=tls&sni=sni.111000.indevs.in&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ARU
 vless://75807638-6f19-0bb8-ae08-38492ee85c88@212.92.101.195:52006?allowInsecure=1&alpn=http%2F1.1&encryption=none&flow=xtls-rprx-vision&security=tls&type=tcp#RU🇷🇺
 vless://792adea77a684201b13f85084a00287e@45.151.62.132:8443?encryption=none&type=xhttp&path=%2Fx&security=reality&sni=ya.ru&pbk=pbvLeT8R8bA8isPIi1JNbSAz7zM3GFkTLkDinP8ilnU&sid=aabbccdd&fp=random#REALITY|RU🇷🇺
 vless://8e6acce9-8b56-7190-d491-7d84f8189e26@5.181.171.2:443?security=reality&encryption=none&pbk=YNGotlyAx3ELUmi4lxOUjiEDmibqf1pPUTE9o3YYT2Y&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20X
