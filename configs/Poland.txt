@@ -2,7 +2,6 @@ ss://07cd9dbe-21ac-4871-817d-c772687e4b7c@178.17.59.73:2053?security=reality&enc
 ss://195573b7-ea63-485e-b2a5-58dd7bbfc9f7@plb.tunnelguard.ru:443?mode=auto&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&type=xhttp&sni=plb.tunnelguard.ru#PL🇵🇱
 ss://201cb355-27c3-4bcc-a27f-50394519d242@pol1.linkey37.ru:443?security=reality&encryption=none&pbk=z6ja1quSA8bpLdIzWDb9Yj8mnl8Mw_Q0PZB6-3Jgg2U&headerType=none&fp=edge&type=tcp&flow=xtls-rprx-vision&sni=www.yandex.ru#REALITY|PL🇵🇱
 ss://595ae3f9-5a91-4eaa-82a3-28a221cf8f7f@45.138.16.58:30086?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=gprc#%3E%3E%40v2nodes%3A%3APL
-ss://595ae3f9-5a91-4eaa-82a3-28a221cf8f7f@45.138.16.58:30086?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=gprc#🇵🇱[openproxylist.com]vless-PL
 ss://YWVzLTI1Ni1jZmI6NFIzaFVmWjJGSGhEbU5jUA==@217.30.10.65:9061#%F0%9F%87%B5%F0%9F%87%B1PL-217.30.10.65-4006
 ss://YWVzLTI1Ni1jZmI6OVh3WXlac0s4U056UUR0WQ==@217.30.10.70:9059#%F0%9F%87%B5%F0%9F%87%B1PL-217.30.10.70-4596
 ss://YWVzLTI1Ni1jZmI6QndjQVVaazhoVUZBa0RHTg==@217.30.10.63:9031#%F0%9F%87%B5%F0%9F%87%B1PL-217.30.10.63-4017
@@ -90,7 +89,6 @@ vless://07cd9dbe-21ac-4871-817d-c772687e4b7c@178.17.59.73:2053?security=reality&
 vless://195573b7-ea63-485e-b2a5-58dd7bbfc9f7@plb.tunnelguard.ru:443?mode=auto&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&type=xhttp&sni=plb.tunnelguard.ru#PL🇵🇱
 vless://201cb355-27c3-4bcc-a27f-50394519d242@pol1.linkey37.ru:443?security=reality&encryption=none&pbk=z6ja1quSA8bpLdIzWDb9Yj8mnl8Mw_Q0PZB6-3Jgg2U&headerType=none&fp=edge&type=tcp&flow=xtls-rprx-vision&sni=www.yandex.ru#REALITY|PL🇵🇱
 vless://595ae3f9-5a91-4eaa-82a3-28a221cf8f7f@45.138.16.58:30086?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=gprc#%3E%3E%40v2nodes%3A%3APL
-vless://595ae3f9-5a91-4eaa-82a3-28a221cf8f7f@45.138.16.58:30086?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=gprc#🇵🇱[openproxylist.com]vless-PL
 vless://be015dd2-30b4-4fcf-a9ee-080c13ac13fb@2.56.125.209:49868?security=reality&sni=yahoo.com&allowInsecure=1&fp=chrome&pbk=joEKL4Itljxodt1SOe1itSMrAH9bk_udpPtXgIjdu10&sid=6d638e&type=tcp&packetEncoding=xudp&encryption=none#REALITY|PL🇵🇱
 vmess://ewogICAgImFkZCI6ICI1MS42OC4xMzkuMjIiLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICIiLAogICAgImlkIjogImM2NzQ0YzQ0LTRlYjctNDhkNS1hODc5LWExMDQ3NGUyYmEzNCIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi92bWVzcyIsCiAgICAicG9ydCI6IDgwLAogICAgInBzIjogIvCfh7Xwn4exUEwtNTEuNjguMTM5LjIyLTA0NzYiLAogICAgInRscyI6ICIiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IGZhbHNlLAogICAgInNuaSI6ICI1MS42OC4xMzkuMjIiCn0=
 vmess://ewogICAgImFkZCI6ICI1Ny4xMjguMjE2LjEyNSIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogImthbXBvbmcub3JnIiwKICAgICJpZCI6ICIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICJsaW5rdndzIiwKICAgICJwb3J0IjogNDQzLAogICAgInBzIjogIvCfh7Xwn4exUEwtNTcuMTI4LjIxNi4xMjUtNjkxOSIsCiAgICAidGxzIjogInRscyIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogZmFsc2UsCiAgICAic25pIjogImthbXBvbmcub3JnIgp9
