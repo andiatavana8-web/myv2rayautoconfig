@@ -9,6 +9,7 @@ ss://36d85d65-1b57-4cba-a2a6-f61131b08593@srv18.datatowers.net:64534?encryption=
 ss://3c852590-49d8-d3c3-abbf-a3c64ad89cd2@tr.tehranionliine.ir:80?path=%2F&security=none&encryption=none&type=ws&sni=185.226.94.188#TR🇹🇷
 ss://41c1375f-1e8d-47af-e526-59aa698a3b37@tr.tehranionliine.ir:80?path=%2F&security=none&encryption=none&type=ws&sni=185.226.94.188#TR🇹🇷
 ss://46843a5f-1cc3-4002-7c22-62abf433454f@meli2.masterdadeh.ir:80?path=%2F&security=none&encryption=none&type=ws&sni=185.226.94.205#TR🇹🇷
+ss://57d4c214-6be1-4c84-be67-85880e0c7a9b@104.20.6.134:443?mode=auto&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&host=dalag.master33varkarjoo.ir&fp=firefox&type=xhttp&sni=dalag.master33varkarjoo.ir#%3E%3E%40configshub2%3A%3ATR
 ss://80142166-81f7-eb0b-4972-5069b98530fb@pari.masterdadeh.ir:80?type=ws&host=&security=none&sni=185.226.94.204&alpn=&path=%2F&headerType=http#TR🇹🇷
 ss://82511eb6-c7dc-da27-ae3a-518c9f05a21a@pari.masterdadeh.ir:80?path=%2F&security=none&encryption=none&type=ws&sni=185.226.94.204#TR🇹🇷
 ss://9089bd24-2f40-1fac-01e1-70bc1b5eb994@pari.masterdadeh.ir:80?path=%2F&security=none&encryption=none&type=ws&sni=185.226.94.204#TR🇹🇷
@@ -47,6 +48,7 @@ vless://36d85d65-1b57-4cba-a2a6-f61131b08593@srv18.datatowers.net:64534?encrypti
 vless://3c852590-49d8-d3c3-abbf-a3c64ad89cd2@tr.tehranionliine.ir:80?path=%2F&security=none&encryption=none&type=ws&sni=185.226.94.188#TR🇹🇷
 vless://41c1375f-1e8d-47af-e526-59aa698a3b37@tr.tehranionliine.ir:80?path=%2F&security=none&encryption=none&type=ws&sni=185.226.94.188#TR🇹🇷
 vless://46843a5f-1cc3-4002-7c22-62abf433454f@meli2.masterdadeh.ir:80?path=%2F&security=none&encryption=none&type=ws&sni=185.226.94.205#TR🇹🇷
+vless://57d4c214-6be1-4c84-be67-85880e0c7a9b@104.20.6.134:443?mode=auto&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&host=dalag.master33varkarjoo.ir&fp=firefox&type=xhttp&sni=dalag.master33varkarjoo.ir#%3E%3E%40configshub2%3A%3ATR
 vless://80142166-81f7-eb0b-4972-5069b98530fb@pari.masterdadeh.ir:80?type=ws&host=&security=none&sni=185.226.94.204&alpn=&path=%2F&headerType=http#TR🇹🇷
 vless://82511eb6-c7dc-da27-ae3a-518c9f05a21a@pari.masterdadeh.ir:80?path=%2F&security=none&encryption=none&type=ws&sni=185.226.94.204#TR🇹🇷
 vless://9089bd24-2f40-1fac-01e1-70bc1b5eb994@pari.masterdadeh.ir:80?path=%2F&security=none&encryption=none&type=ws&sni=185.226.94.204#TR🇹🇷
