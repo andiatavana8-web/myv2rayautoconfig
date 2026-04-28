@@ -1,9 +1,7 @@
 ss://195573b7-ea63-485e-b2a5-58dd7bbfc9f7@plb.tunnelguard.ru:443?mode=auto&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&type=xhttp&sni=plb.tunnelguard.ru#PL🇵🇱
+ss://201cb355-27c3-4bcc-a27f-50394519d242@pol1.linkey37.ru:443?security=reality&encryption=none&pbk=z6ja1quSA8bpLdIzWDb9Yj8mnl8Mw_Q0PZB6-3Jgg2U&headerType=none&fp=edge&type=tcp&flow=xtls-rprx-vision&sni=www.yandex.ru#REALITY|PL🇵🇱
 ss://36d85d65-1b57-4cba-a2a6-f61131b08593@srv2.towersflowerss.com:443?#%3E%3E%40v2nodes%3A%3APL
 ss://595ae3f9-5a91-4eaa-82a3-28a221cf8f7f@45.138.16.58:30086?encryption=none&security=none&serviceName=gprc&type=grpc#%3E%3E%40oneclickvpnkeys%3A%3APL
-ss://595ae3f9-5a91-4eaa-82a3-28a221cf8f7f@45.138.16.58:30086?encryption=none&security=none&serviceName=gprc&type=grpc#PL🇵🇱
-ss://595ae3f9-5a91-4eaa-82a3-28a221cf8f7f@45.138.16.58:30086?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=gprc#PL🇵🇱
-ss://7c1d17f5-4f43-4f78-9505-d50c38efc40b@193.34.212.80.vhub.pro:443?sni=193.34.212.80.vhub.pro&alpn=h2&type=grpc&serviceName=%2Fsequre%2Fgrpc%2F&fp=chrome&security=tls#PL🇵🇱
 ss://7c1d17f5-4f43-4f78-9505-d50c38efc40b@193.34.212.80.vhub.pro:443?sni=193.34.212.80.vhub.pro&alpn=h2&type=grpc&serviceName=/sequre/grpc/&fp=chrome&security=tls#%3E%3E%40v2nodes%3A%3APL
 ss://YWVzLTI1Ni1jZmI6NFIzaFVmWjJGSGhEbU5jUA==@217.30.10.65:9061#%F0%9F%87%B5%F0%9F%87%B1PL-217.30.10.65-4026
 ss://YWVzLTI1Ni1jZmI6OVh3WXlac0s4U056UUR0WQ==@217.30.10.70:9059#%F0%9F%87%B5%F0%9F%87%B1PL-217.30.10.70-4611
@@ -94,11 +92,9 @@ trojan://humanity@188.114.96.3:443?security=tls&sni=www.creationlong.org&allowIn
 trojan://humanity@208.103.161.110:443?allowInsecure=1&host=www.creationlong.org&path=%2Fassignment&sni=www.creationlong.org&type=ws#%3E%3E%40oneclickvpnkeys%3A%3APL
 trojan://humanity@v1.dabache.top:443?allowInsecure=1&host=www.creationlong.org&path=%2Fassignment&sni=www.creationlong.org&type=ws#%3E%3E%40oneclickvpnkeys%3A%3APL
 vless://195573b7-ea63-485e-b2a5-58dd7bbfc9f7@plb.tunnelguard.ru:443?mode=auto&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&type=xhttp&sni=plb.tunnelguard.ru#PL🇵🇱
+vless://201cb355-27c3-4bcc-a27f-50394519d242@pol1.linkey37.ru:443?security=reality&encryption=none&pbk=z6ja1quSA8bpLdIzWDb9Yj8mnl8Mw_Q0PZB6-3Jgg2U&headerType=none&fp=edge&type=tcp&flow=xtls-rprx-vision&sni=www.yandex.ru#REALITY|PL🇵🇱
 vless://36d85d65-1b57-4cba-a2a6-f61131b08593@srv2.towersflowerss.com:443?#%3E%3E%40v2nodes%3A%3APL
 vless://595ae3f9-5a91-4eaa-82a3-28a221cf8f7f@45.138.16.58:30086?encryption=none&security=none&serviceName=gprc&type=grpc#%3E%3E%40oneclickvpnkeys%3A%3APL
-vless://595ae3f9-5a91-4eaa-82a3-28a221cf8f7f@45.138.16.58:30086?encryption=none&security=none&serviceName=gprc&type=grpc#PL🇵🇱
-vless://595ae3f9-5a91-4eaa-82a3-28a221cf8f7f@45.138.16.58:30086?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=gprc#PL🇵🇱
-vless://7c1d17f5-4f43-4f78-9505-d50c38efc40b@193.34.212.80.vhub.pro:443?sni=193.34.212.80.vhub.pro&alpn=h2&type=grpc&serviceName=%2Fsequre%2Fgrpc%2F&fp=chrome&security=tls#PL🇵🇱
 vless://7c1d17f5-4f43-4f78-9505-d50c38efc40b@193.34.212.80.vhub.pro:443?sni=193.34.212.80.vhub.pro&alpn=h2&type=grpc&serviceName=/sequre/grpc/&fp=chrome&security=tls#%3E%3E%40v2nodes%3A%3APL
 vmess://ewogICAgImFkZCI6ICI1MS42OC4xMzkuMjIiLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICIiLAogICAgImlkIjogImM2NzQ0YzQ0LTRlYjctNDhkNS1hODc5LWExMDQ3NGUyYmEzNCIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi92bWVzcyIsCiAgICAicG9ydCI6IDgwLAogICAgInBzIjogIvCfh7Xwn4exUEwtNTEuNjguMTM5LjIyLTA0NzAiLAogICAgInRscyI6ICIiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IGZhbHNlLAogICAgInNuaSI6ICI1MS42OC4xMzkuMjIiCn0=
 vmess://ewogICAgImFkZCI6ICI1Ny4xMjguMjE2LjEyNSIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogImthbXBvbmcub3JnIiwKICAgICJpZCI6ICIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICJsaW5rdndzIiwKICAgICJwb3J0IjogNDQzLAogICAgInBzIjogIvCfh7Xwn4exUEwtNTcuMTI4LjIxNi4xMjUtNjkzOSIsCiAgICAidGxzIjogInRscyIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogZmFsc2UsCiAgICAic25pIjogImthbXBvbmcub3JnIgp9
