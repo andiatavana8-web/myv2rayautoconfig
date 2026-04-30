@@ -37,6 +37,7 @@ ss://a40b0a127d65404a9e15b31e1c0c352b@185.39.204.189:443?security=reality&sni=m.
 ss://a44e0875-210f-4941-9062-89b6361a14c6@94.131.123.167:443?security=reality&encryption=none&pbk=i5a8i2AWUSMZ-rYA6hGBRCBBoe7W5ah33SCdF5JkMk4&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=apple.com&sid=8bcfe256cf216fd8#REALITY|TR🇹🇷
 ss://b439942e1c8949ce924fd0adbbaead2e@62.133.63.232:8443?encryption=none&type=xhttp&path=%2Fx&security=reality&sni=apple.com&pbk=Gn5B-kDUFfIM5jvQ17Braem7nlJyG4QaPA1OVUCwyx0&sid=aabbccdd&fp=random#REALITY|TR🇹🇷
 ss://b9ffc9c6-aad0-0056-45ee-4f551a0f0b4a@tr.tehranionliine.ir:80?path=%2F&security=none&encryption=none&type=ws&sni=185.226.94.188#TR🇹🇷
+ss://bcc094e4-1a85-8a25-f8e1-5b08b9af841c@213.142.132.169:443?mode=multi&security=reality&encryption=none&type=tcp&flow=xtls-rprx-vision&pbk=LaGTRJ1CJnnYV7FnyqQnU28I0xFTPFKI8xmUFwig5ic&sid=c410508e9721512b&sni=www.stackoverflow.com&servername=www.stackoverflow.com&spx=%2F&fp=firefox#👉🆔@v2ray_configs_pool📡🇹🇷®️Turkey©️Bahçelievler🅿️ping:63ms
 ss://bf5742ae-dbd8-dbc9-71f3-a290c8e26265@pari.masterdadeh.ir:80?path=%2F&security=none&encryption=none&type=ws&sni=185.226.94.204#TR🇹🇷
 ss://c86ef57b-b3c4-7c8f-ca1e-914d95a5fba9@meli3.masterdadeh.ir:80?type=ws&host=&security=none&sni=185.226.94.200&alpn=&path=%2F&headerType=http#TR🇹🇷
 ss://d9bbd33c-8343-9a92-4f8d-11b628fbf2a5@pari.masterdadeh.ir:80?path=%2F&security=&encryption=none&type=ws&sni=185.226.94.204#TR🇹🇷
@@ -63,6 +64,7 @@ vless://a40b0a127d65404a9e15b31e1c0c352b@185.39.204.189:443?security=reality&sni
 vless://a44e0875-210f-4941-9062-89b6361a14c6@94.131.123.167:443?security=reality&encryption=none&pbk=i5a8i2AWUSMZ-rYA6hGBRCBBoe7W5ah33SCdF5JkMk4&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=apple.com&sid=8bcfe256cf216fd8#REALITY|TR🇹🇷
 vless://b439942e1c8949ce924fd0adbbaead2e@62.133.63.232:8443?encryption=none&type=xhttp&path=%2Fx&security=reality&sni=apple.com&pbk=Gn5B-kDUFfIM5jvQ17Braem7nlJyG4QaPA1OVUCwyx0&sid=aabbccdd&fp=random#REALITY|TR🇹🇷
 vless://b9ffc9c6-aad0-0056-45ee-4f551a0f0b4a@tr.tehranionliine.ir:80?path=%2F&security=none&encryption=none&type=ws&sni=185.226.94.188#TR🇹🇷
+vless://bcc094e4-1a85-8a25-f8e1-5b08b9af841c@213.142.132.169:443?mode=multi&security=reality&encryption=none&type=tcp&flow=xtls-rprx-vision&pbk=LaGTRJ1CJnnYV7FnyqQnU28I0xFTPFKI8xmUFwig5ic&sid=c410508e9721512b&sni=www.stackoverflow.com&servername=www.stackoverflow.com&spx=%2F&fp=firefox#👉🆔@v2ray_configs_pool📡🇹🇷®️Turkey©️Bahçelievler🅿️ping:63ms
 vless://bf5742ae-dbd8-dbc9-71f3-a290c8e26265@pari.masterdadeh.ir:80?path=%2F&security=none&encryption=none&type=ws&sni=185.226.94.204#TR🇹🇷
 vless://c86ef57b-b3c4-7c8f-ca1e-914d95a5fba9@meli3.masterdadeh.ir:80?type=ws&host=&security=none&sni=185.226.94.200&alpn=&path=%2F&headerType=http#TR🇹🇷
 vless://d9bbd33c-8343-9a92-4f8d-11b628fbf2a5@pari.masterdadeh.ir:80?path=%2F&security=&encryption=none&type=ws&sni=185.226.94.204#TR🇹🇷
