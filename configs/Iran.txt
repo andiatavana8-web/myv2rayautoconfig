@@ -66,6 +66,7 @@ ss://2f4e3910-aa35-41a4-856a-5a75d19dd853@trex.nahidapp.com:443?path=%2Fvless-ws
 ss://2f55f3de-d062-42de-8fe6-0c2c26e020da@trex.nahidapp.com:443?path=%2Fvless-ws&security=tls&encryption=none&insecure=0&host=trex.nahidapp.com&fp=chrome&type=ws&allowInsecure=0&sni=trex.nahidapp.com#IR🇮🇷
 ss://301f1fed-c749-422b-b732-acf6735470b5@abr.superip.ir:2082?path=%2FAPI%2Fsuperip&security=none&encryption=none&host=brand.bi6x.ir&type=ws#IR🇮🇷
 ss://305e23a9-2fcc-4810-bb23-2ac36148ffff@snapp.ir:80?path=%2Fgraphql%3Fed%3D2560&security=none&alpn=http%2F1.1&encryption=none&host=ss3.limitless-cloud.ir&fp=chrome&type=ws&sni=ss3.limitless-cloud.ir#IR🇮🇷
+ss://305e23a9-2fcc-4810-bb23-2ac36148ffff@snapp.ir:80?type=ws&%3Bencryption=none&%3Bsecurity=none&%3Bsni=ss3.limitless-cloud.ir&%3Balpn=http/1.1&%3Bfp=chrome&%3Bpath=/graphql%3Fed%3D2560&%3Bhost=ss3.limitless-cloud.ir#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20VLESS%20%7C%20%40vmesskhodam%20%231
 ss://305e23a9-2fcc-4810-bb23-2ac36148ffff@snapp.ir:80?type=ws&%3Bencryption=none&%3Bsecurity=none&%3Bsni=ss3.limitless-cloud.ir&%3Balpn=http/1.1&%3Bfp=chrome&%3Bpath=/graphql%3Fed%3D2560&%3Bhost=ss3.limitless-cloud.ir#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20VLESS%20%7C%20%40vmesskhodam%20%232
 ss://31c5b6e8-922d-46f4-a664-8e2b37b3e8a0@iliya.8ib.ir:443?mode=auto&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&fp=chrome&type=xhttp&allowInsecure=0#IR🇮🇷
 ss://33714162-414a-41fb-b96b-7b18783990fa@snapp.ir:80?path=%2F&security=none&encryption=none&host=cpi.lithiumnet.ir&type=ws#IR🇮🇷
@@ -137,6 +138,7 @@ ss://609d03b3-d331-4a29-baf2-de14b65c6499@pishroserv.ir:80?path=%2F&security=non
 ss://618cc150-1daf-4c6e-bb2a-5b6168fd4f82@snapp.ir:80?path=%2FFIRELINK&security=none&encryption=none&host=firelink.arian-go-internet.ir&type=ws#IR🇮🇷
 ss://6202b230-417c-4d8e-b624-0f71afa9c75d@185.16.110.238:2096?path=/?ed=2560&Telegram@V2rayAlpha&security=tls&encryption=none&insecure=0&host=sni.jpmj.dev&type=ws&allowInsecure=0&sni=sni.jpmj.dev#IR-@V2rayAlpha-5
 ss://621c3631-ed9b-453a-b486-4068212bf483@185.143.233.233:2082?path=%2F&security=none&encryption=none&host=meli.hoorakan-cloud.ir&type=ws#IR🇮🇷
+ss://62d66671-0ab5-43b4-8a2f-3d74857fa5b2@185.143.233.68:443?encryption=none&%3Bsecurity=tls&%3Btype=ws&%3BheaderType=none&%3Bpath=/&%3Bhost=backend.parhamm2.ir&%3Bsni=backend.parhamm2.ir&%3Bfp=random#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20VLESS%20%7C%20%40ehsawn8%20%231
 ss://638b3c16-49c0-4270-bc5f-15fe444d49c1@snapp.ir:8080?type=ws&encryption=none&path=%2F&host=kootahkon.ir&security=none#IR🇮🇷
 ss://64a09c34-fbf2-48ff-977f-8e912c8ec2fb@arvancloud.ir:80?encryption=none&type=ws&path=%2Fed%3D2048&host=cdn-7ecec1db8c-ff.apps.ir-central1.arvancaas.ir#IR🇮🇷
 ss://64a09c34-fbf2-48ff-977f-8e912c8ec2fb@arvancloud.ir:80?path=%2Fed%3D2048&security=none&encryption=none&host=cdn-7ecec1db8c-ff.apps.ir-central1.arvancaas.ir&type=ws#IR🇮🇷
@@ -403,6 +405,7 @@ vless://2f4e3910-aa35-41a4-856a-5a75d19dd853@trex.nahidapp.com:443?path=%2Fvless
 vless://2f55f3de-d062-42de-8fe6-0c2c26e020da@trex.nahidapp.com:443?path=%2Fvless-ws&security=tls&encryption=none&insecure=0&host=trex.nahidapp.com&fp=chrome&type=ws&allowInsecure=0&sni=trex.nahidapp.com#IR🇮🇷
 vless://301f1fed-c749-422b-b732-acf6735470b5@abr.superip.ir:2082?path=%2FAPI%2Fsuperip&security=none&encryption=none&host=brand.bi6x.ir&type=ws#IR🇮🇷
 vless://305e23a9-2fcc-4810-bb23-2ac36148ffff@snapp.ir:80?path=%2Fgraphql%3Fed%3D2560&security=none&alpn=http%2F1.1&encryption=none&host=ss3.limitless-cloud.ir&fp=chrome&type=ws&sni=ss3.limitless-cloud.ir#IR🇮🇷
+vless://305e23a9-2fcc-4810-bb23-2ac36148ffff@snapp.ir:80?type=ws&%3Bencryption=none&%3Bsecurity=none&%3Bsni=ss3.limitless-cloud.ir&%3Balpn=http/1.1&%3Bfp=chrome&%3Bpath=/graphql%3Fed%3D2560&%3Bhost=ss3.limitless-cloud.ir#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20VLESS%20%7C%20%40vmesskhodam%20%231
 vless://305e23a9-2fcc-4810-bb23-2ac36148ffff@snapp.ir:80?type=ws&%3Bencryption=none&%3Bsecurity=none&%3Bsni=ss3.limitless-cloud.ir&%3Balpn=http/1.1&%3Bfp=chrome&%3Bpath=/graphql%3Fed%3D2560&%3Bhost=ss3.limitless-cloud.ir#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20VLESS%20%7C%20%40vmesskhodam%20%232
 vless://31c5b6e8-922d-46f4-a664-8e2b37b3e8a0@iliya.8ib.ir:443?mode=auto&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&fp=chrome&type=xhttp&allowInsecure=0#IR🇮🇷
 vless://33714162-414a-41fb-b96b-7b18783990fa@snapp.ir:80?path=%2F&security=none&encryption=none&host=cpi.lithiumnet.ir&type=ws#IR🇮🇷
@@ -474,6 +477,7 @@ vless://609d03b3-d331-4a29-baf2-de14b65c6499@pishroserv.ir:80?path=%2F&security=
 vless://618cc150-1daf-4c6e-bb2a-5b6168fd4f82@snapp.ir:80?path=%2FFIRELINK&security=none&encryption=none&host=firelink.arian-go-internet.ir&type=ws#IR🇮🇷
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.16.110.238:2096?path=/?ed=2560&Telegram@V2rayAlpha&security=tls&encryption=none&insecure=0&host=sni.jpmj.dev&type=ws&allowInsecure=0&sni=sni.jpmj.dev#IR-@V2rayAlpha-5
 vless://621c3631-ed9b-453a-b486-4068212bf483@185.143.233.233:2082?path=%2F&security=none&encryption=none&host=meli.hoorakan-cloud.ir&type=ws#IR🇮🇷
+vless://62d66671-0ab5-43b4-8a2f-3d74857fa5b2@185.143.233.68:443?encryption=none&%3Bsecurity=tls&%3Btype=ws&%3BheaderType=none&%3Bpath=/&%3Bhost=backend.parhamm2.ir&%3Bsni=backend.parhamm2.ir&%3Bfp=random#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20VLESS%20%7C%20%40ehsawn8%20%231
 vless://638b3c16-49c0-4270-bc5f-15fe444d49c1@snapp.ir:8080?type=ws&encryption=none&path=%2F&host=kootahkon.ir&security=none#IR🇮🇷
 vless://64a09c34-fbf2-48ff-977f-8e912c8ec2fb@arvancloud.ir:80?encryption=none&type=ws&path=%2Fed%3D2048&host=cdn-7ecec1db8c-ff.apps.ir-central1.arvancaas.ir#IR🇮🇷
 vless://64a09c34-fbf2-48ff-977f-8e912c8ec2fb@arvancloud.ir:80?path=%2Fed%3D2048&security=none&encryption=none&host=cdn-7ecec1db8c-ff.apps.ir-central1.arvancaas.ir&type=ws#IR🇮🇷
