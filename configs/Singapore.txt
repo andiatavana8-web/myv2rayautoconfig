@@ -1,9 +1,7 @@
 hysteria2://1aa84841-8701-4700-ad46-2923dc2900d0@sg03.344233.cc:8080?sni=sg03.344233.cc#B%20-%20%F0%9F%87%B8%F0%9F%87%AC%20SG%2004%20TG%3A%20%40nodpai
 hysteria2://1aa84841-8701-4700-ad46-2923dc2900d0@sg04.352343.cc:8080?sni=sg04.352343.cc#B%20-%20%F0%9F%87%B8%F0%9F%87%AC%20SG%2002%20TG%3A%20%40nodpai
 hysteria2://1aa84841-8701-4700-ad46-2923dc2900d0@sg17.352343.cc:8080?sni=sg17.352343.cc#A%20-%20%F0%9F%87%B8%F0%9F%87%AC%20SG%2001%20TG%3A%20%40nodpai
-hysteria2://1aa84841-8701-4700-ad46-2923dc2900d0@sg19.453521.xyz:8080?sni=sg19.453521.xyz#A%20-%20%F0%9F%87%B8%F0%9F%87%AC%20SG%2001%20TG%3A%20%40nodpai
 ss://0deb6f9d-9ad9-4b73-ac33-f3176e7ec1f2@91.242.241.45:8443?security=reality&fp=chrome&type=tcp&flow=xtls-rprx-vision&pbk=1-2fy8f8XeOHzmdFmCENHV1mr_tzJX1M9UXp42mUIiM&sni=google.com#VPNKEY-Singapore
-ss://15cbab96-197e-46a5-9042-073b3980c798@213.136.69.8:80?encryption=none&host=fsdns.ectunnelvpn.me&path=/vless&security=none&type=ws#👉🆔@v2ray_configs_pool📡🇸🇬®️Singapore©️Singapore🅿️ping:32.5ms
 ss://26524cce-d514-4014-a426-365fb266a14d@103.90.72.71:443?sni=xfxl35a.node-edge.gfw.hidns.co&type=ws&host=xfxl35a.node-edge.gfw.hidns.co&path=/danfeng?ed=2560fp=firefoxsecurity=tls#B%20-%20%F0%9F%87%B8%F0%9F%87%AC%20SG%2019%20TG%3A%20%40nodpai
 ss://26524cce-d514-4014-a426-365fb266a14d@125.138.18.69:11300?sni=n63n17.mail.sh21.eu.org&alpn=http/1.1%0A&type=ws&host=n63n17.mail.sh21.eu.org&path=/danfeng?ed=2560fp=firefoxfp=chrome&security=tls#B%20-%20%F0%9F%87%B8%F0%9F%87%AC%20SG%2010%20TG%3A%20%40nodpai%7C1.0MB...
 ss://26524cce-d514-4014-a426-365fb266a14d@134.209.106.237:443?&security=tls&fp=chrome&sni=ynwta9.api-edge.fgfw.qzz.io&type=ws&headerType=none&host=ynwta9.api-edge.fgfw.qzz.io&path=%2Fdanfeng%3Fed%3D2560#%E6%96%B0%E5%8A%A0%E5%9D%A1%20218
@@ -133,7 +131,6 @@ ss://fab7bf9cddb945638a04fb01ce6c0fbfOg==@27.50.48.29:8880#SG%F0%9F%87%B8%F0%9F%
 trojan://08964210-e7b8-11ec-95aa-1239d0255272@w12.udpgw.com:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-172.104.177.105-5564
 trojan://0c6a3341e8d5ab17@103.172.116.196:3389?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-103.172.116.196-1995
 trojan://13c169be-8592-4eaa-94cb-69c859e7d987@ubu.okaoclax.me:443?path=/trojan-ws&security=tls&host=ubu.okaoclax.me&type=ws&sni=ubu.okaoclax.me#%3E%3E%40configshub2%3A%3ASG
-trojan://13c169be-8592-4eaa-94cb-69c859e7d987@ubu.okaoclax.me:443?path=/trojan-ws&security=tls&host=ubu.okaoclax.me&type=ws&sni=ubu.okaoclax.me#👉🆔@v2ray_configs_pool📡🇸🇬®️Singapore©️Singapore
 trojan://16bcc187-a1a0-4b8a-8b69-627f38b7cc0d@15.235.197.4:80?security=tls&sni=15.235.197.4#%F0%9F%87%B8%F0%9F%87%ACSG-15.235.197.4-8666
 trojan://16bcc187-a1a0-4b8a-8b69-627f38b7cc0d@15.235.197.4:80?security=tls&sni=getandroid.com#%F0%9F%87%B8%F0%9F%87%ACSG-15.235.197.4-8668
 trojan://39edcbab-49dd-4326-9f77-305c2e45d45c@svip-sg.xiaobaivpn.icu:28815?security=tls&sni=svip-sg.xiaobaivpn.icu#SG🇸🇬
@@ -167,7 +164,6 @@ trojan://iyinglong@18.140.67.76:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-18.1
 trojan://iyinglong@18.141.8.87:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-18.141.8.87-5558
 trojan://pro@_LlpRWwEh4tRl4cSzc0TZDxM@starlink-sg2.mfa.cat:20000?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-47.129.98.240-4676
 vless://0deb6f9d-9ad9-4b73-ac33-f3176e7ec1f2@91.242.241.45:8443?security=reality&fp=chrome&type=tcp&flow=xtls-rprx-vision&pbk=1-2fy8f8XeOHzmdFmCENHV1mr_tzJX1M9UXp42mUIiM&sni=google.com#VPNKEY-Singapore
-vless://15cbab96-197e-46a5-9042-073b3980c798@213.136.69.8:80?encryption=none&host=fsdns.ectunnelvpn.me&path=/vless&security=none&type=ws#👉🆔@v2ray_configs_pool📡🇸🇬®️Singapore©️Singapore🅿️ping:32.5ms
 vless://26524cce-d514-4014-a426-365fb266a14d@103.90.72.71:443?sni=xfxl35a.node-edge.gfw.hidns.co&type=ws&host=xfxl35a.node-edge.gfw.hidns.co&path=/danfeng?ed=2560fp=firefoxsecurity=tls#B%20-%20%F0%9F%87%B8%F0%9F%87%AC%20SG%2019%20TG%3A%20%40nodpai
 vless://26524cce-d514-4014-a426-365fb266a14d@125.138.18.69:11300?sni=n63n17.mail.sh21.eu.org&alpn=http/1.1%0A&type=ws&host=n63n17.mail.sh21.eu.org&path=/danfeng?ed=2560fp=firefoxfp=chrome&security=tls#B%20-%20%F0%9F%87%B8%F0%9F%87%AC%20SG%2010%20TG%3A%20%40nodpai%7C1.0MB...
 vless://26524cce-d514-4014-a426-365fb266a14d@134.209.106.237:443?&security=tls&fp=chrome&sni=ynwta9.api-edge.fgfw.qzz.io&type=ws&headerType=none&host=ynwta9.api-edge.fgfw.qzz.io&path=%2Fdanfeng%3Fed%3D2560#%E6%96%B0%E5%8A%A0%E5%9D%A1%20218
