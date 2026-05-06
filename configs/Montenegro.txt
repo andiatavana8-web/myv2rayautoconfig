@@ -64,6 +64,7 @@ ss://6202b230-417c-4d8e-b624-0f71afa9c75d@217.144.190.230:443?encryption=none&se
 ss://6202b230-417c-4d8e-b624-0f71afa9c75d@45.12.30.238:2096/?type=ws&encryption=none&host=sni.jpmj.dev&path=%2F%3Fed%3D2560&security=tls&sni=sni.jpmj.dev#https%3A%2F%2Ft.me%2Fallproconf
 ss://6202b230-417c-4d8e-b624-0f71afa9c75d@51.75.16.73:2053/?type=ws&encryption=none&host=sni.111000.v6.navy&path=%2F%3Fed%3D2560&security=tls&sni=sni.111000.v6.navy#https%3A%2F%2Ft.me%2Fallproconf
 ss://6202b230-417c-4d8e-b624-0f71afa9c75d@51.91.248.251:443/?type=ws&encryption=none&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560&security=tls&sni=sni.111000.indevs.in#https%3A%2F%2Ft.me%2Fallproconf
+ss://6202b230-417c-4d8e-b624-0f71afa9c75d@57.129.47.29:2053?allowInsecure=1&encryption=none&host=sni.111000.v6.navy&path=/?Telegram🇨🇳+@WangCai2=&security=tls&sni=sni.111000.v6.navy&type=ws#t.me/ConfigFori
 ss://6202b230-417c-4d8e-b624-0f71afa9c75d@78.158.166.180:2096?path=/?ed=2560&security=tls&encryption=none&insecure=0&host=sni.jpmj.dev&fp=chrome&type=ws&allowInsecure=0&sni=sni.jpmj.dev#[🇮🇷]t.me/Raiv2mmr
 ss://6202b230-417c-4d8e-b624-0f71afa9c75d@8.223.63.150:443?encryption=none&security=tls&sni=sni.111000.indevs.in&fp=chrome&insecure=1&type=ws&host=sni.111000.indevs.in&path=/?ed=2560&telegram🇨🇳#t.me/ConfigFori
 ss://6202b230-417c-4d8e-b624-0f71afa9c75d@87.98.237.23:8443/?type=ws&encryption=none&host=sni.111000.v6.navy&path=%2F%3Fed%3D2560&security=tls&sni=sni.111000.v6.navy#https%3A%2F%2Ft.me%2Fallproconf
@@ -111,10 +112,8 @@ ss://9f5cc0aa-d4e8-44da-a440-becb16c0284d@snapp.ir:80?path=%2F&security=none&enc
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206V0pCeW91RUNlQzhKRHVpbzAzeXVxMFdqdVBERmRHMXlrZUNqL2R0d2JVST06UzhqMzcySjQ0ZnRCendBak5kUDB6dHAyN1hKcFJwNW83ckxpcGxkZ2xjOD0@tg2.kurdanmal.ir:38441?type=tcp#gp1-https://t.me/torguard_vpn_1
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206ZENtd2FUUXhLazZRQU16Rm5RZEhrUmh4SEYxZHVuaUJYNE9WOXhJekxFRT0@51.38.141.210:8388#https%3A%2F%2Ft.me%2Fallproconf
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2YzgxNWJiODRjNzgxZGE1@51.75.168.50:13030#https%3A%2F%2Ft.me%2Fallproconf
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@154.223.20.79:990#t.me/ConfigFori
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@103.75.119.38:990#t.me/OutlineVpnOfficial
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPUElHSFNlSVpWQlM3aERY@series1.samanehha.co:443#t.me/V2ray_Custom😉
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.184:8080#t.me/ConfigFori
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:8080#t.me/config_fre
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.122:8080#https%3A%2F%2Ft.me%2Fallproconf
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@141.98.101.179:443#t.me/OutlineVpnOfficial
@@ -145,7 +144,6 @@ ss://c8fbffa4-81ad-45f5-9a64-0a6ae5c54870@Tapsi.ir:8080?path=/cdn&security=none&
 ss://c9baac5d-a59a-4493-b215-3c6c64f498ed@red.nahidapp.com:443?security=tls&type=ws&headerType=&path=%2Fred%2F&host=red.nahidapp.com&sni=red.nahidapp.com&fp=#%F0%9F%87%AE%F0%9F%87%B722082%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
 ss://ca2f0962-d16a-4720-914d-232d46edc9f9@pg.nexorainnovationhub.ir:80?path=%2F&security=none&encryption=none&host=finland.lezzaluxa.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B721975%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
 ss://cc431002-21ef-47a1-9b51-cd2026bd4603@varzesh3.com:80?type=ws&encryption=none&path=%2Fws&host=nobody.fasterspeed.ir&security=none#%F0%9F%87%AE%F0%9F%87%B722048%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
-ss://cf1aeb0d-dcc2-4345-9ade-5cd7abb7c613@arvancloud.ir:80?type=ws&encryption=none&path=@TunizoNET&host=ri.amirenzohost.ir&security=none#t.me/ConfigFori
 ss://d1f737f2-3839-4f97-b911-dc03aad7f160@snapp.ir:80?encryption=none&security=none&type=ws&headerType=none&path=%2F&host=M1.snllshop.ir#%F0%9F%87%AE%F0%9F%87%B721909%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
 ss://d2dc5f8b-c82c-41fa-91f2-8c30ca802e14@185.143.233.5:443?path=%2F%40alaedin%3Fed%3D128&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=alaedin2.8lack.ir&fp=firefox&type=ws&allowInsecure=0&sni=alaedin2.8lack.ir#%F0%9F%87%AE%F0%9F%87%B721914%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
 ss://d47fba67-b621-485b-8bf5-dcf9c8addd13@185.143.233.122:8080?security=none&encryption=none&type=ws&host=t1.neuralix.ir&path=?ed%3D2560#%F0%9F%87%AE%F0%9F%87%B722025%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
@@ -279,6 +277,7 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@217.144.190.230:443?encryption=none
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.12.30.238:2096/?type=ws&encryption=none&host=sni.jpmj.dev&path=%2F%3Fed%3D2560&security=tls&sni=sni.jpmj.dev#https%3A%2F%2Ft.me%2Fallproconf
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@51.75.16.73:2053/?type=ws&encryption=none&host=sni.111000.v6.navy&path=%2F%3Fed%3D2560&security=tls&sni=sni.111000.v6.navy#https%3A%2F%2Ft.me%2Fallproconf
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@51.91.248.251:443/?type=ws&encryption=none&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560&security=tls&sni=sni.111000.indevs.in#https%3A%2F%2Ft.me%2Fallproconf
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@57.129.47.29:2053?allowInsecure=1&encryption=none&host=sni.111000.v6.navy&path=/?Telegram🇨🇳+@WangCai2=&security=tls&sni=sni.111000.v6.navy&type=ws#t.me/ConfigFori
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@78.158.166.180:2096?path=/?ed=2560&security=tls&encryption=none&insecure=0&host=sni.jpmj.dev&fp=chrome&type=ws&allowInsecure=0&sni=sni.jpmj.dev#[🇮🇷]t.me/Raiv2mmr
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@8.223.63.150:443?encryption=none&security=tls&sni=sni.111000.indevs.in&fp=chrome&insecure=1&type=ws&host=sni.111000.indevs.in&path=/?ed=2560&telegram🇨🇳#t.me/ConfigFori
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@87.98.237.23:8443/?type=ws&encryption=none&host=sni.111000.v6.navy&path=%2F%3Fed%3D2560&security=tls&sni=sni.111000.v6.navy#https%3A%2F%2Ft.me%2Fallproconf
@@ -349,7 +348,6 @@ vless://c8fbffa4-81ad-45f5-9a64-0a6ae5c54870@Tapsi.ir:8080?path=/cdn&security=no
 vless://c9baac5d-a59a-4493-b215-3c6c64f498ed@red.nahidapp.com:443?security=tls&type=ws&headerType=&path=%2Fred%2F&host=red.nahidapp.com&sni=red.nahidapp.com&fp=#%F0%9F%87%AE%F0%9F%87%B722082%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
 vless://ca2f0962-d16a-4720-914d-232d46edc9f9@pg.nexorainnovationhub.ir:80?path=%2F&security=none&encryption=none&host=finland.lezzaluxa.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B721975%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
 vless://cc431002-21ef-47a1-9b51-cd2026bd4603@varzesh3.com:80?type=ws&encryption=none&path=%2Fws&host=nobody.fasterspeed.ir&security=none#%F0%9F%87%AE%F0%9F%87%B722048%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
-vless://cf1aeb0d-dcc2-4345-9ade-5cd7abb7c613@arvancloud.ir:80?type=ws&encryption=none&path=@TunizoNET&host=ri.amirenzohost.ir&security=none#t.me/ConfigFori
 vless://d1f737f2-3839-4f97-b911-dc03aad7f160@snapp.ir:80?encryption=none&security=none&type=ws&headerType=none&path=%2F&host=M1.snllshop.ir#%F0%9F%87%AE%F0%9F%87%B721909%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
 vless://d2dc5f8b-c82c-41fa-91f2-8c30ca802e14@185.143.233.5:443?path=%2F%40alaedin%3Fed%3D128&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=alaedin2.8lack.ir&fp=firefox&type=ws&allowInsecure=0&sni=alaedin2.8lack.ir#%F0%9F%87%AE%F0%9F%87%B721914%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
 vless://d47fba67-b621-485b-8bf5-dcf9c8addd13@185.143.233.122:8080?security=none&encryption=none&type=ws&host=t1.neuralix.ir&path=?ed%3D2560#%F0%9F%87%AE%F0%9F%87%B722025%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
