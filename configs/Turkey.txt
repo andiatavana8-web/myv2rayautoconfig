@@ -27,6 +27,7 @@ ss://b4fdc761-6ba9-4309-9bf0-41bd4c80936c@185.143.233.5:2087?path=/&security=tls
 ss://c10999b4-7f93-5a50-3908-1467b1e52ae2@155.212.110.2:993?security=reality&encryption=none&pbk=GfTzhy59k9CXlAdF819OUVeBdrqIILaDIWa1bddjGnA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com#REALITY|TR🇹🇷
 ss://cea5a86c-bf57-4aba-9205-b9c7cfbe8f43@snapp.tech-notes.xyz:42293?mode=gun&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&fp=chrome&type=grpc&serviceName=aparat-stream&allowInsecure=0&sni=snapp.tech-notes.xyz#TR🇹🇷
 ss://e58fab770ea343218b0fe8a84c176c64@83.217.9.140:8443?encryption=none&type=xhttp&path=%2Fx&security=reality&sni=apple.com&pbk=H5Gvl2XvCOOCRokfx_P9AwLGioo15QWaqvJptvlkhDg&sid=aabbccdd&fp=random#REALITY|TR🇹🇷
+trojan://tunnel-ljlcf@tr-1.stunnel.cc:8441?allowInsecure=0#TR-193.124.46.134-4458
 vless://15c75de9a09149d0bf0393d855a98082@83.217.9.220:8443?encryption=none&type=xhttp&path=%2Fx&security=reality&sni=transfermarkt.com.tr&pbk=88smHXvz17v0my95NX0AfT9PmcMRNKY75ruZ3sRdaBU&sid=aabbccdd&fp=random#REALITY|TR🇹🇷
 vless://26a905ec-c32e-47b8-98eb-b3b8992759ce@185.231.181.30:56756?encryption=none&type=tcp&security=none#🇹🇷Türkiye
 vless://43c37883-2c0b-408c-814d-443d0686a9bb@89.32.251.77:34576?type=tcp&encryption=none&security=none#🇹🇷Türkiye,
